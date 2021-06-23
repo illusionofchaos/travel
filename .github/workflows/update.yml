@@ -42,7 +42,7 @@ jobs:
           var turndownService = new TurndownService()
           
           const md = Object.entries(obj).map(function(a) {
-            return `#${a[0]}\n##${a[1]['published']}\n${turndownService.turndown(a[1]['gdp'])}`;
+            return `# ${a[0]}\n### ${a[1]['published']}\n${turndownService.turndown(a[1]['gdp'])}`;
           }).join('\n\n');
           
           const fs = require('fs');
