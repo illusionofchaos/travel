@@ -18,6 +18,11 @@ jobs:
       uses: wei/wget@v1
       with:
         args: -O gdp.js https://www.iatatravelcentre.com/static/js/gdp.js
+        
+    - uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - run: npm install file-eval
 
     - uses: actions/github-script@v4
       id: set-result
