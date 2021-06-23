@@ -33,7 +33,7 @@ jobs:
           
           const obj = Object.fromEntries(Object.entries(svgMapDataGPD.values).map(function(a) {
             var gdp = a[1]['gdp'];
-            return [a[0], {'published':gdp.substring(10,20), 'gdp':gdp.substring(25)}];
+            return [a[0], {'published':gdp.substring(10,20), 'gdp':gdp.substring(20)}];
           }));
           
           const json = JSON.stringify(obj, null, '\t');
@@ -42,7 +42,7 @@ jobs:
           var turndownService = new TurndownService()
           
           const md = Object.entries(obj).map(function(a) {
-            return `# ${a[0]}\n### ${a[1]['published']}\n${turndownService.turndown(a[1]['gdp'])}`;
+            return `# ${a[0]}\n### ${a[1]['published']}\n${turndownService.turndown(a[1]['gdp']).trim().replaceAll('\\-', '-').replaceAll('\\.', '.')}`;
           }).join('\n\n');
           
           const fs = require('fs');
