@@ -19,6 +19,20 @@ jobs:
       with:
         args: -O gdp.js https://www.iatatravelcentre.com/static/js/gdp.js
 
+    - uses: actions/github-script@v4
+      id: set-result
+      with:
+        script: |
+          require('./gdp.js')();
+          return JSON.stringify(Object.fromEntries(Object.entries(svgMapDataGPD.values).map(function(a) {
+            var gdp = a[1]['gdp'];
+            return [a[0], {'published':gdp.substring(10,20), 'gdp':gdp.substring(25)}];
+          })), null, '\t');
+        result-encoding: string
+        
+    - name: Get result
+      run: echo "${{steps.set-result.outputs.result}}" >> gdp.json
+                
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Fetched update
