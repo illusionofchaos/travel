@@ -23,7 +23,8 @@ jobs:
       id: set-result
       with:
         script: |
-          require('./gdp.js');
+          const script = require('./gdp.js');
+          script({github, context});
           return JSON.stringify(Object.fromEntries(Object.entries(svgMapDataGPD.values).map(function(a) {
             var gdp = a[1]['gdp'];
             return [a[0], {'published':gdp.substring(10,20), 'gdp':gdp.substring(25)}];
