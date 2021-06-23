@@ -14,11 +14,6 @@ jobs:
       with:
         ref: ${{ github.head_ref }}
 
-    - name: wget
-      uses: wei/wget@v1
-      with:
-        args: -O gdp.js https://www.iatatravelcentre.com/static/js/gdp.js
-        
     - uses: actions/setup-node@v2
       with:
         node-version: 14
