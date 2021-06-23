@@ -1,0 +1,24 @@
+name: Fetch update
+
+on:
+  schedule:
+  - cron: $cron-daily
+  workflow_dispatch:
+
+jobs:
+  updater:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+
+    - name: wget
+      uses: wei/wget@v1
+      with:
+        args: -O gdp.js https://www.iatatravelcentre.com/static/js/gdp.js
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Fetched update
