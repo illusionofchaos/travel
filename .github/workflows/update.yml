@@ -35,7 +35,7 @@ jobs:
           var turndownService = new TurndownService();
           
           const md = Object.entries(obj).map(function(a) {
-            return `# ${a[0]}\n### ${a[1]['published']}\n${`${turndownService.turndown(a[1]['gdp'])`}.replaceAll('\\-', '-').replaceAll('\\.', '.').trim()}`;
+            return `# ${a[0]}\n### ${a[1]['published']}\n${`${turndownService.turndown(a[1]['gdp'])}`.replaceAll('\\-', '-').replaceAll('\\.', '.').trim()}`;
           }).join('\n\n');
           
           try {
