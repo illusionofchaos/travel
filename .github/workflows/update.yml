@@ -17,13 +17,15 @@ jobs:
     - uses: actions/setup-node@v2
       with:
         node-version: 14
-    - run: npm install turndown sync-request
+    - run: npm install turndown sync-request country-codes-list
 
     - uses: actions/github-script@v4
       with:
         script: |
-          const request = require('sync-request'), vm = require('vm'), TurndownService = require('turndown'), fs = require('fs');
+          const request = require('sync-request'), vm = require('vm'), TurndownService = require('turndown'), fs = require('fs'), countryCodes = require('country-codes-list');
           vm.runInThisContext(request('GET', 'https://www.iatatravelcentre.com/static/js/gdp.js').getBody());
+
+          const countryCodesMap = countryCodes.customList('countryCode', '{countryNameEn}')
 
           const obj = Object.fromEntries(Object.entries(svgMapDataGPD.values).map(function(a) {
             var gdp = a[1]['gdp'];
@@ -35,7 +37,7 @@ jobs:
           var turndownService = new TurndownService();
           
           const md = Object.entries(obj).map(function(a) {
-            return `# ${a[0]}\n### ${a[1]['published']}\n${turndownService.turndown(a[1]['gdp']).trim()}`;
+            return `# ${countryCodesMap[a[0]]}\n### ${a[1]['published']}\n${turndownService.turndown(a[1]['gdp']).trim()}`;
           }).join('\n\n').replace(/\\-/g, '-').replace(/\\\./g, '.');
           
           try {
