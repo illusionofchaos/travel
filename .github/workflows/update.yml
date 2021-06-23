@@ -23,19 +23,32 @@ jobs:
       with:
         node-version: 14
     - run: npm install file-eval
+    - run: npm install turndown
 
     - uses: actions/github-script@v4
       with:
         script: |
           const fileEval = require('file-eval');
           fileEval.sync('./gdp.js');
-          const content = JSON.stringify(Object.fromEntries(Object.entries(svgMapDataGPD.values).map(function(a) {
+          
+          const obj = Object.fromEntries(Object.entries(svgMapDataGPD.values).map(function(a) {
             var gdp = a[1]['gdp'];
             return [a[0], {'published':gdp.substring(10,20), 'gdp':gdp.substring(25)}];
-          })), null, '\t');
+          }));
+          
+          const json = JSON.stringify(obj, null, '\t');
+          
+          var TurndownService = require('turndown')
+          var turndownService = new TurndownService()
+          
+          const md = Object.entries(obj).map(function(a) {
+            return `#${a[0]}\n##${a[1]['published']}\n${turndownService.turndown(a[1]['gdp'])}`;
+          }).join('\n\n');
+          
           const fs = require('fs');
           try {
-            const data = fs.writeFileSync('./gdp.json', content)
+            const data = fs.writeFileSync('./gdp.json', json)
+            const data2 = fs.writeFileSync('./README.md', md)
           } catch (err) {
             console.error(err)
           }
