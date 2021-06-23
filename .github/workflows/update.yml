@@ -25,20 +25,21 @@ jobs:
     - run: npm install file-eval
 
     - uses: actions/github-script@v4
-      id: set-result
       with:
         script: |
           const fileEval = require('file-eval');
           fileEval.sync('./gdp.js');
-          return JSON.stringify(Object.fromEntries(Object.entries(svgMapDataGPD.values).map(function(a) {
+          const content = JSON.stringify(Object.fromEntries(Object.entries(svgMapDataGPD.values).map(function(a) {
             var gdp = a[1]['gdp'];
             return [a[0], {'published':gdp.substring(10,20), 'gdp':gdp.substring(25)}];
           })), null, '\t');
-        result-encoding: string
+          const fs = require('fs');
+          try {
+            const data = fs.writeFileSync('./gdp.json', content)
+          } catch (err) {
+            console.error(err)
+          }
         
-    - name: Get result
-      run: echo "${{steps.set-result.outputs.result}}" >> gdp.json
-                
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Fetched update
