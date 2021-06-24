@@ -492,7 +492,7 @@ Passengers and airline crew without a negative COVID-19 PCR test result issued a
 
 # Bermuda
 ### 23.06.2021
-1. Passengers and airline crew must have an approved travel authorization obtained at most 3 days before departure. The authorization must be obtained at [https://www.gov.bm/applying-bermuda-travel-authorisations](https://www.gov.bm/applying-bermuda-travel-authorisations) and presented at time of departure.  
+1. Passengers and airline crew must have an approved travel authorization obtained at most 3 days before departure. The authorization must be obtained at [https://www.gov.bm/applying-bermuda-travel-authorisation](https://www.gov.bm/applying-bermuda-travel-authorisation) and presented at time of departure.  
 - This does not apply to:  
    - passengers younger than 2 years;  
    - airline crew who stay for less than 24 hours.  
@@ -895,15 +895,15 @@ This does not apply to passengers younger than 2 years.
 5. Passengers could be subject to a COVID-19 test upon arrival at their own expense and quarantine. More details can be found at [https://tinyurl.com/459t4ket](https://tinyurl.com/459t4ket) , [https://tinyurl.com/p44y8nds](https://tinyurl.com/p44y8nds) and [https://cyprusflightpass.gov.cy/en/country-categories](https://cyprusflightpass.gov.cy/en/country-categories) .
 
 # Czechia
-### 22.06.2021
+### 23.06.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Czechia and their family members;  
-- nationals of Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New Zealand, North Macedonia (Rep.), Serbia, Singapore, Thailand and USA if arriving from their country of nationality;  
+- nationals of Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New Zealand, North Macedonia (Rep.), Serbia, Singapore, Thailand and USA;  
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, and Vatican City (Holy See);  
 - British nationals with a certificate of application for the status of UK-EU Withdrawal Agreement Beneficiary issued by Austria, Belgium, Denmark, Finland, France, Hungary, Latvia, Luxemburg, Malta, Netherlands, Romania, Slovenia and Sweden; and their family members;  
 - passengers with a residence permit issued by Czechia;  
-- passengers with a residence permit issued by Albania, Andorra, Australia, Austria, Belgium, Bulgaria, Chinese Taipei, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Monaco, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Serbia, Sweden, Switzerland, Thailand, USA and Vatican City (Holy See);  
+- passengers with a residence permit issued by Albania, Andorra, Australia, Austria, Belgium, Bulgaria, Chinese Taipei, Croatia, Cyprus, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Monaco, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Serbia, Sweden, Switzerland, Thailand, USA and Vatican City (Holy See) if arriving from these countries;  
 - passengers with a diplomatic passport traveling on duty for a maximum stay of 72 hours;  
 - spouses of British nationals residing in Czechia. They must have a marriage certificate or a confirmation of partnership;  
 - passengers younger than 21 years who are children of British nationals residing in Czechia. They must have a birth certificate and a copy of their parent’s residence permit;  
@@ -2593,7 +2593,7 @@ Passengers arriving from India are subject to self-isolation for 14 days.
 1. Until 17 July 2021, passengers are not allowed to enter.  
 This does not apply to:  
 - nationals and residents of Malta;  
-- passengers arriving from Andorra, Australia, Austria, Belgium, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark (excluding Faroe Isl.), Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Turkey, United Arab Emirates, United Kingdom, USA (only the states of Alaska, Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois, Indiana, Iowa, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Vermont, Virginia, Washington, West Virginia and Wisconsin) or Vatican City (Holy See). They must have been in one of these countries for at least 14 days before arrival;  
+- passengers arriving from Andorra, Australia, Austria, Belgium, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark (excluding Faroe Isl.), Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Puerto Rico, Romania, San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Turkey, United Arab Emirates, United Kingdom, USA (only the states of Alaska, Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois, Indiana, Iowa, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Vermont, Virginia, Washington, West Virginia and Wisconsin) or Vatican City (Holy See). They must have been in one of these countries for at least 14 days before arrival;  
 - passengers with a special exemption issued by the Superintendent for Public Health;  
 - passengers arriving from Albania, Armenia, Azerbaijan, Belize, Bhutan, Bosnia and Herzegovina, Cuba, Denmark (only Faroe Isl.), Egypt, Fiji, Georgia, Iran, Jamaica, Kazakhstan, Kosovo (Rep.), Libya, Moldova (Rep.), Montenegro, North Macedonia (Rep.), Panama, Qatar, Russian Fed., Saudi Arabia, Serbia or Viet Nam with a COVID-19 vaccination certificate issued in Malta.  
 - passengers arriving on humanitarian, medevac or repatriation flights;  
@@ -2601,7 +2601,7 @@ This does not apply to:
 2. Passengers must have negative COVID-19 PCR test taken at most 72 hours before arrival.  
 This does not apply to:  
 - passengers younger than 5 years;  
-- passengers with a COVID-19 vaccination certificate issued in Malta if arriving from Albania, Andorra, Armenia, Australia, Austria, Azerbaijan, Belarus, Belgium, Belize, Bhutan, Bosnia and Herzegovina, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cuba, Cyprus, Czechia, Denmark, Egypt, Estonia, Fiji, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Iran, Ireland (Rep.), Italy, Jamaica, Japan, Jordan, Kazakhstan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Moldova (Rep.), Monaco, Montenegro, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Panama, Poland, Portugal, Puerto Rico, Qatar, Romania, Russian Fed., San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Turkey, United Arab Emirates, United Kingdom, USA (only the states of Alaska, Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois, Indiana, Iowa, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Vermont, Virginia, Washington, West Virginia and Wisconsin), Vatican City (Holy See) or Viet Nam.  
+- passengers with a COVID-19 vaccination certificate issued in Malta if arriving from Albania, Andorra, Armenia, Australia, Austria, Azerbaijan, Belgium, Belize, Bhutan, Bosnia and Herzegovina, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cuba, Cyprus, Czechia, Denmark, Egypt, Estonia, Fiji, Finland, France, Georgia, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Iran, Ireland (Rep.), Italy, Jamaica, Japan, Jordan, Kazakhstan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Libya, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Moldova (Rep.), Monaco, Montenegro, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Panama, Poland, Portugal, Puerto Rico, Qatar, Romania, Russian Fed., San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, Turkey, United Arab Emirates, United Kingdom, USA (only the states of Alaska, Arizona, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois, Indiana, Iowa, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nebraska, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Vermont, Virginia, Washington, West Virginia and Wisconsin), Vatican City (Holy See) or Viet Nam.  
 3. A completed "Public Health Travel Declaration Form" and "Passenger Locator Form" found at [https://www.maltairport.com/declarationforms/](https://www.maltairport.com/declarationforms/) must be presented upon arrival.  
 4. Merchant seamen must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure. The test result must be in English or accompanied by a certified English translation.  
 5. Passengers could be subject to quarantine for 14 days. Details can be found at [https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx](https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx) .
@@ -2757,7 +2757,7 @@ This does not apply to:
 4. Passengers with a medical certificate with a negative Coronavirus (COVID-19) test result are allowed to transit. They are subject to contact tracing by the Health Authorities for 14 days and must not have respiratory symptoms.
 
 # Netherlands
-### 17.06.2021
+### 23.06.2021
 1. Passengers are not allowed to enter.  
 This does not apply to:  
 - nationals and residents of the Netherlands;  
@@ -2771,7 +2771,8 @@ This does not apply to:
 - merchant seamen;  
 - military personnel;  
 - students with a proof of admission to a course of study;  
-- partners with a completed "Declaration of relationship for COVID-19 entry ban exemption" form, a return onward ticket and proof that they have been in a relationship for at least 3 months with a resident of the Netherlands who is a national of an EEA Member State or Switzerland. As well as accompanying children of the partner who are younger than 18 years. More details can be found at [https://tinyurl.com/25s9p98h](https://tinyurl.com/25s9p98h) .  
+- partners with a completed "Declaration of relationship for COVID-19 entry ban exemption" form, a return onward ticket and proof that they have been in a relationship for at least 3 months with a resident of the Netherlands who is a national of an EEA Member State or Switzerland. As well as accompanying children of the partner who are younger than 18 years. More details can be found at [https://tinyurl.com/25s9p98h](https://tinyurl.com/25s9p98h) ;  
+- effective 24 June 2021, residents of Albania, Chinese Taipei, Lebanon, North Macedonia (Rep.), Serbia and USA.  
 2. Passengers are not allowed to transit through the Netherlands to Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) as final destination.  
 This does not apply to:  
 - nationals and residents of the Netherlands;  
@@ -2786,7 +2787,8 @@ This does not apply to:
 - passengers with a consular, diplomatic, official, service or special passports traveling on duty;  
 - passengers with a visa issued on or after 19 March 2020 by the country of final destination;  
 - merchant seamen;  
-- military personnel.  
+- military personnel;  
+- effective 24 June 2021, residents of Albania, Chinese Taipei, Lebanon, North Macedonia (Rep.), Serbia and USA.  
 3. Passengers must have a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA.  
 This does not apply to:  
 - passengers younger than 13 years;  
@@ -2802,7 +2804,8 @@ This does not apply to:
 - a positive COVID-19 NAAT test result taken at most 72 hours before arrival; and  
 - a medical certificate specifying that the passenger is not COVID-19 contagious issued at most 72 hours before departure.  
 - passengers arriving from Aruba, Australia, Austria, Bonaire, St. Eustatius and Saba, Bulgaria, China (People's Rep.), Croatia (excluding the Sjeverna Hrvatska region and Zagreb), Curacao, Cyprus, Czechia, Finland, France (Corsica Island), Germany, Greece (the regions of Ionian Islands, North Aegean and South Aegean), Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Liechtenstein, Luxembourg, Korea (Rep.), Macao (SAR China), Malta, New Zealand, Norway, Poland, Portugal, Romania, Rwanda, San Marino, Singapore, Slovakia, Spain (the Balearic and Canary Islands), St. Maarten, Switzerland, Thailand or Vatican City (Holy See);  
-- passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela.  
+- passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela;  
+- effective 24 June 2021, passengers arriving from Albania, Chinese Taipei, Hong Kong (SAR China), Lebanon, Macao (SAR China), North Macedonia (Rep.), Serbia or USA.  
 4. Passengers arriving from Argentina, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Panama, Paraguay, Peru, South Africa, Suriname, Uruguay or Venezuela must have:  
 - a negative COVID-19 test taken at most 24 hours before boarding the flight of the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or  
 - a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point, and  
