@@ -677,32 +677,28 @@ Passengers without a medical certificate with a negative Coronavirus (COVID-19) 
 - This does not apply to passengers who are 11 years and younger.
 
 # Switzerland
-### 24.06.2021
+### 26.06.2021
 1. Passengers are not allowed to enter.  
 -This does not apply to:  
 - nationals and residents of Liechtenstein and Switzerland;  
 - passengers with a D visa issued by Switzerland;  
 - nationals of EEA Member States;  
 - passengers arriving from Schengen Member States;  
-- until 25 June 2021, passengers arriving from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Japan, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
-- from 26 June 2021, passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport.  
+- passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States. They must present proof of their relationship;  
 - passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of residents of Switzerland who are passengers with "British Citizens" passports , "British Overseas Territories Citizens" passports issued by Gibraltar and "British Subjects" passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom;  
 - residents of Schengen Member States returning directly via Switzerland to their country of residence.  
 - passengers with a Schengen C visa issued by Switzerland after 16 March 2020;  
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;  
-- from 26 June 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech. More details can be found at [https://tinyurl.com/c5z3z3sn](https://tinyurl.com/c5z3z3sn) ;  
-- from 26 June 2021, unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated before arrival. More details can be found at [https://tinyurl.com/c5z3z3sn](https://tinyurl.com/c5z3z3sn) ;  
+- unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.  
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.  
 -This does not apply to:  
 - nationals and residents of EEA Member States and Switzerland;  
-- until 25 June 2021, passengers arriving directly from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Japan, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
-- from 26 June 2021, passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;  
 - passengers with a D visa issued by a Schengen Member State they are traveling to;  
-- passengers with a Schengen C visa issued by Switzerland after 16 March 2020;  
-- until 25 June 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated;  
-- until 25 June 2021, unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.  
+- passengers with a Schengen C visa issued by Switzerland after 16 March 2020.  
 3. Passengers must have:  
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or  
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point. They are subject to a COVID-19 rapid antigen or PCR test upon arrival at their own expense.  
@@ -959,7 +955,7 @@ This does not apply to:
 7. Passengers could be subject to a COVID-19 test upon arrival and quarantine.
 
 # Germany
-### 25.06.2021
+### 26.06.2021
 1. Passengers are not allowed to enter.  
 1.1. This does not apply to:  
 - nationals and residents of Germany;  
@@ -1017,7 +1013,16 @@ The test result must be in English, French, German, Italian or Spanish.
 9. Passengers could be subject to quarantine for 10 or 14 days. Details can be found at  
 [www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html](http://www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-entering-germany.html)  
 - This does not apply to passengers with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Namibia, Nepal, South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.  
-10. More COVID-19 related information can be found at [www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317\_faq.html](http://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html) .
+10. More COVID-19 related information can be found at [www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317\_faq.html](http://www.bundespolizei.de/Web/DE/04Aktuelles/01Meldungen/2020/03/200317_faq.html) .  
+11. Effective 29 June 2021, passengers arriving from Portugal or Russian Fed. are not allowed to enter.  
+This does not apply to nationals and residents of Germany.  
+12. Effective 29 June 2021, nationals and residents of Germany entering or transiting through Germany from Portugal or Russian Fed. must have:  
+- a negative COVID-19 antigen test taken at most 24 hours before arrival; or  
+- a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.  
+The test result must be in English, French, German, Italian or Spanish.  
+- This does not apply to:  
+- passengers younger than 6 years;  
+- passengers transiting through Germany to a non-Schengen Member State.
 
 # Djibouti
 ### 20.04.2021
@@ -1028,48 +1033,40 @@ The test result must be in English, French, German, Italian or Spanish.
 - This does not apply to passengers younger than 12 years.
 
 # Denmark
-### 11.06.2021
+### 26.06.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals or residents of Denmark;  
-- residents of Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Rwanda, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland and Thailand;  
+- residents of Albania, Australia, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, Rwanda, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand and USA;  
 - spouses, partners, parents, children, fiances, sisters, brothers or grandparents of a person residing in Denmark. They must present proof confirming their relationship;  
 - boyfriends or girlfriends of a person residing in Denmark. They must present a printed 'Solemn declaration on relationship for use in connection with entry';  
 - passengers with a diplomatic passport;  
 - spouses, partners, children or stepchildren of a person with a diplomatic passport;  
 - merchant seamen;  
-- residents of Andorra, Canada, Chile, Colombia, Mexico, Monaco, San Marino, Turkey, USA , United Kingdom (excluding regions of Bedford, Blackburn with Darwen, Bolton and Rossendale) and Vatican City (Holy See) with a COVID-19 vaccination certificate issued in Andorra, Australia, Canada, Chile, Colombia, Israel, Japan, Korea (Rep.), Mexico, Monaco, New Zealand, San Marino, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
+- residents of Andorra, Canada, Chile, Colombia, Mexico, Monaco, San Marino, Turkey, United Kingdom (excluding regions of Bedford, Blackburn with Darwen, Bolton and Rossendale) and Vatican City (Holy See) with a COVID-19 vaccination certificate issued in their country of residence. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
 - more exemptions can be found at [https://tinyurl.com/rwd9tb](https://tinyurl.com/rwd9tb) .  
-2. Passengers entering or transiting through Denmark must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point or before departure of the last direct flight to Denmark. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at [https://tinyurl.com/4uu3pjwh](https://tinyurl.com/4uu3pjwh) .  
+2. Passengers entering or transiting through Denmark must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point or before departure of the last direct flight to Denmark. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at [https://tinyurl.com/4uu3pjwh](https://tinyurl.com/4uu3pjwh) .  
 - This does not apply to:  
 - passengers younger than 15 years;  
 - passengers traveling to Faroe Islands (FAE) or Greenland;  
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 8 months before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;  
-- passengers with a COVID-19 vaccination certificate issued in Andorra, Australia, Canada, Chile, Colombia, Israel, Japan, Korea (Rep.), Mexico, Monaco, New Zealand, San Marino, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must state that they received the vaccine at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
-- nationals of Denmark with a COVID-19 vaccination certificate showing that they received the vaccine at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
-- passengers arriving from yellow countries and regions listed at [https://tinyurl.com/znkvcws](https://tinyurl.com/znkvcws) ;  
-- passengers arriving from the United Kingdom.  
-3. Passengers arriving from the United Kingdom and entering or transiting through Denmark must have a negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point or before departure of the last direct flight to Denmark. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at [https://tinyurl.com/4uu3pjwh](https://tinyurl.com/4uu3pjwh) .  
-- This does not apply to:  
-- passengers younger than 15 years;  
-- passengers traveling to Faroe Islands (FAE) or Greenland;  
-- passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 8 months before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;  
-- passengers with a COVID-19 vaccination certificate issued in Andorra, Australia, Canada, Chile, Colombia, Israel, Japan, Korea (Rep.), Mexico, Monaco, New Zealand, San Marino, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must state that they received the vaccine at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
-- nationals of Denmark with a COVID-19 vaccination certificate showing that they received the vaccine at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
-- passengers arriving from yellow countries and regions listed at [https://tinyurl.com/znkvcws](https://tinyurl.com/znkvcws) ;  
-4. Passengers are subject to a COVID-19 test upon arrival.  
+- passengers with a COVID-19 vaccination certificate issued in Albania, Andorra, Australia, Canada, Chile, Colombia, Israel, Japan, Korea (Rep.), Lebanon, Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
+- nationals of Denmark with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
+- passengers arriving from yellow countries and regions listed at [https://tinyurl.com/znkvcws](https://tinyurl.com/znkvcws) .  
+3. Passengers are subject to a COVID-19 test upon arrival.  
 - This does not apply to:  
 - passengers younger than 15 years;  
 - passengers traveling to Greenland;  
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 8 months before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;  
-- passengers with a COVID-19 vaccination certificate issued in Andorra, Australia, Canada, Chile, Colombia, Israel, Japan, Korea (Rep.), Mexico, Monaco, New Zealand, San Marino, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must state that they received the vaccine at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) .  
-5. Passengers could be subject to self-isolation for 10 days. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) .  
-6. Passengers traveling to Greenland:  
+- passengers with a COVID-19 vaccination certificate issued in Albania, Andorra, Australia, Canada, Chile, Colombia, Israel, Japan, Korea (Rep.), Lebanon, Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) .  
+4. Passengers could be subject to self-isolation for 10 days. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) .  
+- This does not apply to residents of Albania, Andorra, Australia, Canada, Chile, Colombia, Israel, Japan, Korea (Rep.), Lebanon, Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) and an EEA Member State with a COVID-19 vaccination certificate issued in their country of residence. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Bangladesh, Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Nepal, South Africa, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) .  
+5. Passengers traveling to Greenland:  
 - must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must be in English or German. Details can be found at [https://visitgreenland.com/corona-faq/](https://visitgreenland.com/corona-faq/) ; and  
 - must have a Personal Location Form (SUMUT) obtained before departure at [https://sumut2020.gl/Instructions/EditInstructions](https://sumut2020.gl/Instructions/EditInstructions) ; and  
 - could be subject to a COVID-19 test upon arrival and quarantine. Details can be found at [https://visitgreenland.com/corona-faq/](https://visitgreenland.com/corona-faq/) .  
-7. Until 30 June 2021, flights from Iceland to Greenland are suspended.  
-8. For more information, please refer to the website [https://coronasmitte.dk/en/entry-into-denmark](https://coronasmitte.dk/en/entry-into-denmark) and [https://en.coronasmitte.dk/covidtravelrules/](https://en.coronasmitte.dk/covidtravelrules/) .
+6. Until 30 June 2021, flights from Iceland to Greenland are suspended.  
+7. For more information, please refer to the website [https://coronasmitte.dk/en/entry-into-denmark](https://coronasmitte.dk/en/entry-into-denmark) and [https://en.coronasmitte.dk/covidtravelrules/](https://en.coronasmitte.dk/covidtravelrules/) .
 
 # Dominica
 ### 09.03.2021
@@ -2250,32 +2247,28 @@ This does not apply to:
 5. Passengers and airline crew are subject to medical screening.
 
 # Liechtenstein
-### 24.06.2021
+### 26.06.2021
 1. Passengers are not allowed to enter.  
 -This does not apply to:  
 - nationals and residents of Liechtenstein and Switzerland;  
 - passengers with a D visa issued by Switzerland;  
 - nationals of EEA Member States;  
 - passengers arriving from Schengen Member States;  
-- until 25 June 2021, passengers arriving from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Japan, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
-- from 26 June 2021, passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport.  
+- passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States. They must present proof of their relationship;  
 - passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of residents of Switzerland who are passengers with "British Citizens" passports , "British Overseas Territories Citizens" passports issued by Gibraltar and "British Subjects" passports with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom;  
 - residents of Schengen Member States returning directly via Switzerland to their country of residence.  
 - passengers with a Schengen C visa issued by Switzerland after 16 March 2020;  
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;  
-- from 26 June 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech. More details can be found at [https://tinyurl.com/c5z3z3sn](https://tinyurl.com/c5z3z3sn) ;  
-- from 26 June 2021, unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated before arrival. More details can be found at [https://tinyurl.com/c5z3z3sn](https://tinyurl.com/c5z3z3sn) ;  
+- unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.  
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.  
 -This does not apply to:  
 - nationals and residents of EEA Member States and Switzerland;  
-- until 25 June 2021, passengers arriving directly from Andorra, Australia, Bulgaria, Croatia, Cyprus, Ireland (Rep.), Israel, Japan, Korea (Rep.), Monaco, New Zealand, Romania, Rwanda, San Marino, Singapore, Thailand or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
-- from 26 June 2021, passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;  
 - passengers with a D visa issued by a Schengen Member State they are traveling to;  
-- passengers with a Schengen C visa issued by Switzerland after 16 March 2020;  
-- until 25 June 2021, passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated;  
-- until 25 June 2021, unvaccinated passengers younger than 18 years if they are traveling with their fully-vaccinated guardians.  
+- passengers with a Schengen C visa issued by Switzerland after 16 March 2020.  
 3. Passengers must have:  
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or  
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure from the first embarkation point. They are subject to a COVID-19 rapid antigen or PCR test upon arrival at their own expense.  
@@ -3485,7 +3478,7 @@ This does not apply to:
 - merchant seamen.
 
 # Singapore
-### 14.06.2021
+### 26.06.2021
 1. Passengers are not allowed to enter Singapore.  
 -This does not apply to nationals of Singapore.  
 -This does not apply to permanent residents of Singapore.  
@@ -3495,7 +3488,7 @@ This does not apply to:
 -This does not apply to passengers (except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with an approval letter from the Safe Travel Office (STO), Ministry of Foreign Affairs (MFA), Ministry of Education (MOE), Ministry of Health (MOH), or Ministry of Trade and Industry (MTI).  
 -This does not apply to passengers (except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Business Travel Pass (BTP) or a Pre-Approved Business Pass (PBP).  
 -This does not apply to passengers with an Air Travel Pass approval letter issued by Singapore if they:  
-- have stayed in Australia (excluding Victoria State), Brunei Darussalam, China (People's Rep.) (excluding Guangdong province) or New Zealand in the last 21 days before departure; and  
+- have stayed in Australia (excluding New South Wales), Brunei Darussalam, China (People's Rep.) (excluding Guangdong province) or New Zealand in the last 21 days before departure; and  
 - have a visa to enter Singapore (if they are a visa-required short-term visitor).  
 -This does not apply to residents of Brunei Darussalam if they:  
 - have a valid SafeTravel Pass approval letter issued by Singapore under the Singapore-Brunei Reciprocal Green Lane; and  
