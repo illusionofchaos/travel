@@ -976,7 +976,7 @@ This does not apply to:
 10. Passengers could be subject to a COVID-19 test upon arrival and quarantine.
 
 # Germany
-### 03.07.2021
+### 04.07.2021
 1. Passengers are not allowed to enter.  
 1.1. This does not apply to:  
 - nationals and residents of Germany;  
@@ -988,8 +988,7 @@ This does not apply to:
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;  
 - British nationals with a residence permit issued by Germany before 31 December 2020;  
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;  
-- until 3 July 2021, residents of Albania, Australia, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), New Zealand, North Macedonia (Rep.), Serbia , Singapore, Thailand and USA. They must have been living in the residence country in the past 6 months;  
-- effective 4 July 2021, residents of Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Qatar, Serbia, Singapore, Thailand and USA;  
+- residents of Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Qatar, Serbia, Singapore, Thailand and USA;  
 - military personnel;  
 - merchant seamen;  
 - students;  
@@ -1000,7 +999,7 @@ This does not apply to:
 - passengers younger than 12 years accompanied by a parent with a COVID-19 vaccination certificate showing that the parent received the first vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before departure. The parent must also have a COVID-19 recovery certificate issued at least 6 months before the first vaccine dose. The certificates must be in in English, French, German, Italian or Spanish. They must not be arriving from China (People's Rep.).  
 2. Passengers arriving from Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe are not allowed to transit through Germany to Austria, Belgium, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Slovenia, Spain, Sweden or Switzerland.  
 - This does not apply to nationals and residents of Germany.  
-3. Nationals and residents of Germany entering or transiting through Germany from Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe must have:  
+3. Nationals and residents of Germany entering or transiting through Germany from Botswana, Brazil, Eswatini (Swaziland), India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe must have:  
 - a negative COVID-19 antigen test taken at most 24 hours before arrival; or  
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.  
 The test result must be in English, French, German, Italian or Spanish.  
@@ -1027,7 +1026,7 @@ The test result must be in English, French, German, Italian or Spanish.
 The test result must be in English, French, German, Italian or Spanish.  
 - This does not apply to:  
 - airline crew who are staying in Germany for less than 72 hours;  
-- airline crew with a positive COVID-19 PCR, RT-LAMP or TMA test result issued at least 28 days and at most 6 months before arrival. They must in the past 10 days have not been in Botswana, Brazil, Eswatini , India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe;  
+- airline crew with a positive COVID-19 PCR, RT-LAMP or TMA test result issued at least 28 days and at most 6 months before arrival. They must in the past 10 days have not been in Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe;  
 - airline crew with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they were fully vaccinated at least 14 days before departure and must be in in English, French, German, Italian or Spanish. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech;  
 - airline crew with a COVID-19 vaccination certificate if they in the past 10 days have not been in Botswana, Brazil, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Portugal, Russian Fed., South Africa, United Kingdom, Uruguay, Zambia or Zimbabwe. The certificate must show that they received the first vaccine dose of AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before departure, and must be in in English, French, German, Italian or Spanish. They must also have a COVID-19 recovery certificate issued at least 6 months before the first vaccine dose.  
 7. Passengers arriving from a risk area must register before departure at [https://www.einreiseanmeldung.de](https://www.einreiseanmeldung.de)  
@@ -1546,20 +1545,16 @@ More details can be found at [https://travel.gov.gr/](https://travel.gov.gr/)
 All documents must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at [https://travel.gov.gr/](https://travel.gov.gr/)   
 - This does not apply to:  
 - passengers younger than 12 years;  
-- nationals of Montenegro and Russian Fed.;  
-- residents of Montenegro and Russian Fed.  
-4. Nationals and residents of Montenegro must have:  
-- a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival. The test result must be in English, French, German, Greek, Italian, Spanish or Russian. The passenger's name in the test result must match the name in the passport; and  
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The vaccination certificate must be in English, French, German, Greek, Italian, Spanish or Russian. Details can be found at [https://travel.gov.gr/](https://travel.gov.gr/)  
-- This does not apply to passengers younger than 12 years.  
-5. Nationals and residents of Russian Fed. must have:  
+- nationals of Russian Fed.;  
+- residents of Russian Fed.  
+4. Nationals and residents of Russian Fed. must have:  
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival;  or  
 - a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before arrival.  
 They are also subject to an antigen or PCR test upon arrival.  
 The test result must be in English, French, German, Greek, Italian, Spanish or Russian and the passenger's name must match the name in the passport. More details can be found at [https://travel.gov.gr/](https://travel.gov.gr/) .  
 - This does not apply to passengers younger than 12 years.  
-6. Passengers could be subject to a COVID-19 rapid test upon arrival.  
-7. Passengers could be subject to self-isolation for up to 10 days. Details can be found at [https://travel.gov.gr/](https://travel.gov.gr/)
+5. Passengers could be subject to a COVID-19 rapid test upon arrival.  
+6. Passengers could be subject to self-isolation for up to 10 days. Details can be found at [https://travel.gov.gr/](https://travel.gov.gr/)
 
 # Guatemala
 ### 30.05.2021
@@ -3446,30 +3441,30 @@ This does not apply to:
 6. More information can be found at [http://www.rbc.gov.rw/](http://www.rbc.gov.rw/)
 
 # Saudi Arabia
-### 25.06.2021
+### 04.07.2021
 1. Passengers are not allowed to enter.  
 -This does not apply to:  
 - nationals of Saudi Arabia;  
 - first degree family members of nationals of Saudi Arabia;  
-- nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have transited through or been in Argentina, Brazil, Egypt, India, Indonesia, Lebanon, Pakistan, South Africa or Turkey in the past 14 days;  
-- residents of Saudi Arabia. They must not have transited through or been in Argentina, Brazil, Egypt, India, Indonesia, Lebanon, Pakistan, South Africa or Turkey in the past 14 days in the past 14 days;  
-- passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia (tourist visa are not accepted). They must not have transited through or have been in Argentina, Brazil, Egypt, India, Indonesia, Lebanon, Pakistan, South Africa or Turkey in the past 14 days;  
+- nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;  
+- residents of Saudi Arabia. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;  
+- passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia (tourist visa are not accepted). They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;  
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor;  
-- domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have transited through or have been in Argentina, Brazil, Egypt, India, Indonesia, Lebanon, Pakistan, South Africa or Turkey in the past 14 daysin the past 14 days.  
+- domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days.  
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Saudi Arabia.  
 - This does not apply to:  
 - nationals of Saudi Arabia;  
 - passengers younger than 8 years.  
-3.Passengers with a COVID-19 vaccination certificate showing that they received the vaccine at least 14 days before arrival must complete "The registration immunization information form found at [https://muqeem.sa/#?vaccine-registration/home](https://muqeem.sa/#?vaccine-registration/home) ; and  
+3. Passengers with a COVID-19 vaccination certificate showing that they received the vaccine at least 14 days before arrival must complete "The registration immunization information form found at [https://muqeem.sa/#?vaccine-registration/home](https://muqeem.sa/#?vaccine-registration/home) ; and  
 - must download the Tawakkalna App and submit their personal details.  
 - This does not apply to:  
 - nationals of Saudi Arabia;  
 - first degree family members of nationals of Saudi Arabia. They must be traveling together;  
-- nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have transited through or been in Argentina, Brazil, Egypt, India, Indonesia, Lebanon, Pakistan, South Africa or Turkey in the past 14 days in the past 14 days;  
-- residents of Saudi Arabia. They must not have transited through or been in Argentina, Brazil, Egypt, India, Indonesia, Lebanon, Pakistan, South Africa or Turkey in the past 14 days in the past 14 days;  
-- passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia (tourist visa are not accepted). They must not have transited through or have been in Argentina, Brazil, Egypt, India, Indonesia, Lebanon, Pakistan, South Africa or Turkey in the past 14 days;  
+- nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;  
+- residents of Saudi Arabia. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;  
+- passengers with an exit/entry, work, residence or visit visa issued by Saudi Arabia (tourist visa are not accepted). They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days;  
 - domestic workers of nationals of Saudi Arabia. They must be accompanied by the sponsor;  
-- domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have transited through or have been in Argentina, Brazil, Egypt, India, Indonesia, Lebanon, Pakistan, South Africa or Turkey in the past 14 days in the past 14 days.  
+- domestic workers of nationals of Bahrain, Kuwait, Oman, Qatar and United Arab Emirates. They must be accompanied by the sponsor or one of the first degree family members of the sponsor. They must not have transited through or been in Afghanistan, Argentina, Brazil, Egypt, Ethiopia, India, Indonesia, Lebanon, Pakistan, South Africa, Turkey, United Arab Emirates or Viet Nam in the past 14 days.  
 4. Passengers must register before departure at [https://muqeem.sa/#?vaccine-registration/home](https://muqeem.sa/#?vaccine-registration/home)  
 - This does not apply to nationals of Saudi Arabia.  
 5. Passengers must complete a 'Health Disclaimer Form' and present it upon arrival.  
