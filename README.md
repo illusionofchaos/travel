@@ -334,7 +334,7 @@ Residence permits issued by Bahrain and Qatar must be valid for a minimum of 95 
 - This does not apply to passengers who have been fully vaccinated. They are subject to quarantine for 14 days at home.
 
 # Belgium
-### 09.07.2021
+### 10.07.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of Switzerland and EEA Member States;  
@@ -348,7 +348,7 @@ Residence permits issued by Bahrain and Qatar must be valid for a minimum of 95 
 - military personnel traveling on duty;  
 - passengers entering Belgium to travel by land to a third country. They must prove that they can enter the destination country;  
 - more exemptions can be found at [https://www.info-coronavirus.be/en/travels/](https://www.info-coronavirus.be/en/travels/)  
-2. Passengers arriving from Argentina, Bolivia, Botswana, Brazil, Chile, Colombia, Eswatini, Lesotho, Mozambique, Namibia, Paraguay, Peru, South Africa, Surinam, Trinidad and Tobago, Uruguay or Zimbabwe are not allowed to enter.  
+2. Passengers arriving from Argentina, Bolivia, Botswana, Brazil, Chile, Colombia, Eswatini, Lesotho, Mexico, Mozambique, Namibia, Paraguay, Peru, South Africa, Surinam, Trinidad and Tobago, Uruguay, Zambia or Zimbabwe are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of Belgium;  
 - merchant seamen with an Essential Journey Certificate.  
@@ -390,12 +390,7 @@ Residence permits issued by Bahrain and Qatar must be valid for a minimum of 95 
 9. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at [https://travel.info-coronavirus.be/public-health-passenger-locator-form](https://travel.info-coronavirus.be/public-health-passenger-locator-form) or [https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM\_PassengerLocatorForm\_ENG.pdf](https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf)  
 10. Passengers could be subject to a COVID-19 test and quarantine; details can be found at [https://www.info-coronavirus.be/en/](https://www.info-coronavirus.be/en/)  
 11. Passengers are subject to medical screening.  
-12. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.  
-13. Effective from 10 July 2021, passengers arriving from Mexico or Zambia are not allowed to enter.  
-- This does not apply to:  
-- nationals and residents of Belgium;  
-- merchant seamen with an Essential Journey Certificate;  
-- passengers with a diplomatic passport traveling on duty and an Essential Journey Certificate.
+12. Residence permits issued by Italy with an annotation of ‘ASILO' are not accepted for entering or transiting through Belgium.
 
 # Burkina Faso
 ### 11.08.2020
@@ -3085,15 +3080,16 @@ This does not apply to:
 7. Non-resident multiple-entry visas (Visa de no Residente) issued by Panama that expired after 13 March 2020 are accepted for entry until 30 June 2021. If issued by a consulate of Panama, they must have an extension stamp.
 
 # Peru
-### 05.07.2021
+### 10.07.2021
 1. Until 15 July 2021, flights from Brazil, India and South Africa are suspended.  
 2. Passengers are not allowed to enter if in the past 14 days they have been to or transited through Brazil, India or South Africa.  
 - This does not apply to nationals and residents of Peru.  
 3. Until 11 July 2021, passengers must have a negative COVID-19 antigen or RT-PCR test result issued at most 72 hours before departure from the first embarkation point; or  
 - an epidemiological medical discharge certificate valid for a minimum of 6 months before arrival.  
 - This does not apply to passengers younger than 12 years with a certificate of good health.  
-4. Effective 12 July 2021, passengers entering and transiting through Peru must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point; or  
-- a COVID-19 recovery certificate issued at least 3 months before arrival.  
+4. Effective 12 July 2021, passengers must have:  
+- a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point; or  
+- a negative COVID-19 antigen test result issued at most 24 hours before departure from the first embarkation point.  
 - This does not apply to passengers younger than 12 years with a certificate of good health.  
 5. Passengers must complete an "Affidavit of Health and Geolocation Authorization" at [http://e-notificacion.migraciones.gob.pe/dj-salud/](http://e-notificacion.migraciones.gob.pe/dj-salud/) 72 hours before departure.  
 6. Passengers could be subject to quarantine for 14 days.  
@@ -3935,7 +3931,7 @@ This does not apply to:
 - passengers younger than 6 years;  
 - passengers younger than 18 years traveling with their fully vaccinated parents/guardians.  
 10.Passengers traveling to Phuket (HKT) must have proof of payment for a Safety and health Administration (SHA) accommodation. for at least 14 days.  
- -This does not apply to passengers with a return/onward ticket for a flight departing from Phuket to another country within 14 days and COVID-19 RT-PCR test fees.  
+-This does not apply to passengers with a return/onward ticket for a flight departing from Phuket to another country within 14 days and COVID-19 RT-PCR test fees.  
 11.Passengers are subject to medical screening.  
 12.Airline crew are subject to self-isolation until their next flight.  
 13.Airline crew staying overnight must have a guarantee letter from the airline or a health insurance certificate with a coverage cost of at least USD 100,000.-.
@@ -3969,16 +3965,14 @@ This does not apply to:
 4. Passengers are subject to a COVID-19 RT-PCR test upon arrival and quarantine for 21 days.
 
 # Tunisia
-### 07.07.2021
+### 10.07.2021
 1. Passengers must complete a Health Declaration form before departure at [https://app.e7mi.tn](https://app.e7mi.tn/) . This will generate 2 documents which must be signed, printed and presented prior to boarding and to immigration upon arrival.  
 - This does not apply to:  
 - passengers younger than 12 years;  
 - passengers with a COVID-19 vaccination certificate showing they were fully vaccinated. The vaccination certificate must have a QR code or be issued by a Ministry of Health;  
 - passengers with a COVID-19 recovery certificate. The passenger must have tested positive at least 6 weeks before arrival.  
 2. Passengers entering or transiting through Tunisia must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must have a QR code or be issued by a competent authority. The test result must be in Arabic, English or French.  
-- This does not apply to:  
-- passengers younger than 12 years;  
-- until 9 July 2021, passengers traveling as part of an organized all-inclusive tour with a vaccination certificate showing that they were fully vaccinated.  
+- This does not apply to passengers younger than 12 years.  
 3. Passengers could be subject to a COVID-19 rapid test upon arrival.  
 - This does not apply to:  
 - passengers younger than 12 years;  
