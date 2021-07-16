@@ -3,7 +3,7 @@
 Please see Coronavirus (COVID-19) regulations for France or Spain, whichever is transited to enter Andorra.
 
 # United Arab Emirates
-### 11.07.2021
+### 15.07.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of United Arab Emirates;  
@@ -16,7 +16,7 @@ Please see Coronavirus (COVID-19) regulations for France or Spain, whichever is 
 - nationals of India with a visa issued by the USA or with a residence permit issued by USA, United Kingdom or an EU Member State traveling to Abu Dhabi (AUH);  
 - passengers traveling to Abu Dhabi (AUH) with a resident visa;  
 - passengers traveling to Abu Dhabi (AUH) with a tourist visa issued by Abu Dhabi;  
-- passengers traveling to Abu Dhabi (AUH) and arriving from Austria, Australia, Azerbaijan, Bhutan, Brunei Darussalam, China (People's Rep.), Chinese Taipei, Denmark, Egypt, Finland, Germany, Greenland, Hong Kong (SAR China), Iceland, Israel, Italy, Japan, Jordan, Kenya, Korea (Rep.), Lebanon, Malta, Mauritius, Moldova (Rep.), Morocco, New Zealand, Norway, Portugal, Saudi Arabia, Singapore, Spain, Sweden, Switzerland, Turkey, USA or Uzbekistan with a pre-arranged visa issued by any emirate.;  
+- passengers traveling to Abu Dhabi (AUH) and arriving from Albania, Armenia, Australia, Austria, Azerbaijan, Belgium, Canada, China (People's Rep.), Chinese Taipei, Denmark, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Jordan, Korea (Rep.), Malta, Mauritius, Moldova (Rep.), Netherlands, New Zealand, Norway, Romania, Saudi Arabia, Serbia, Seychelles, Singapore, Sweden, Switzerland, Turkmenistan, USA or Vatican City (Holy See) with a pre-arranged visa issued by any emirate;  
 - nationals of Indonesia traveling under the Safe Travel Corridor program. They must have an entry permit and a return ticket.  
 2. Passengers who in the past 14 days have been in Bangladesh, Congo (Dem. Rep.), India, Liberia, Namibia, Nepal, Pakistan, Sierra Leone, Sri Lanka, Uganda, Viet Nam or Zambia are not allowed to enter and transit.  
 - This does not apply to:  
@@ -153,12 +153,12 @@ COVID-19 entry regulations lifted on 13 May 2021.
 5. Residence permits, refugee cards and temporary stay visas issued by Angola which expired after 28 February 2020 are considered valid until 31 July 2021.
 
 # Argentina
-### 13.07.2021
+### 15.07.2021
 1. Until 6 August 2021, flights from Algeria, Angola, Benin, Botswana, Brazil, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Rep., Chad, Chile, Comoros, Congo, Congo (Dem. Rep.), Cote d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea Bissau, India, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, United Kingdom, Zambia and Zimbabwe are suspended.  
 2. Until 6 August 2021, passengers are not allowed to enter.  
 This does not apply to:  
 - nationals and residents of Argentina;  
-- passengers with a visa issued by Argentina.  
+- passengers with a visa issued by Argentina (excluding tourist visas).  
 3. Passengers and airline crew must complete a "Declaracion Jurada Electronica para el ingreso al Territorio Nacional" available at [http://ddjj.migraciones.gob.ar/app/](http://ddjj.migraciones.gob.ar/app/)  
 4. Passengers must have a negative COVID-19 PCR test result. The test must have been taken at most 72 hours before departure from the first embarkation point.  
 This does not apply to:  
@@ -168,11 +168,7 @@ This does not apply to:
 5. Passengers must have health insurance to cover COVID-19 expenses.  
 - This does not apply to nationals and residents of Argentina.  
 6. passengers are subject to a COVID-19 antigen test upon arrival at their own expense.  
-7. Passengers are subject to quarantine for 7 days.  
-8. Passengers with visas issued by Argentina:  
-- issued before 17 March 2020, must also have a National ID Card issued to residents of Argentina or a certificate issued by an Argentina consulate;  
-- issued after 17 March 2020 are allowed to enter.  
-- This does not apply to passengers with diplomatic, official or courtesy visas.
+7. Passengers are subject to quarantine for 7 days.
 
 # American Samoa
 ### 01.06.2021
@@ -339,7 +335,7 @@ Residence permits issued by Bahrain and Qatar must be valid for a minimum of 95 
 - This does not apply to passengers who have been fully vaccinated. They are subject to quarantine for 14 days at home.
 
 # Belgium
-### 13.07.2021
+### 15.07.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of Switzerland and EEA Member States;  
@@ -382,8 +378,8 @@ Residence permits issued by Bahrain and Qatar must be valid for a minimum of 95 
 - This does not apply to:  
 - passengers residing in Belgium;  
 - passengers younger than 12 years;  
-- passengers arriving from Austria, Bulgaria, Croatia, Czechia, Estonia, Finland, Germany, Hungary, Iceland, Italy, Liechtenstein, Lithuania, Luxembourg, Malta, Poland, Romania, San Marino, Slovakia, Slovenia, Switzerland or Vatican City (Holy See);  
-- passengers arriving from specific regions of Denmark, France, Greece, Netherlands, Norway, Spain, Sweden. Details can be found at [https://www.info-coronavirus.be/en/colour-codes-by-country/](https://www.info-coronavirus.be/en/colour-codes-by-country/)  
+- passengers arriving from Austria, Bulgaria, Croatia, Czechia, Estonia, Germany, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Malta, Poland, Romania, San Marino, Slovakia, Slovenia, Switzerland or Vatican City (Holy See);  
+- passengers arriving from specific regions of Denmark, Finland, France, Greece, Netherlands, Norway, Portugal, Spain and Sweden. Details can be found at [https://www.info-coronavirus.be/en/colour-codes-by-country/](https://www.info-coronavirus.be/en/colour-codes-by-country/)  
 - passengers arriving from Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova(Rep.), Montenegro, New-Zealand, North Macedonia (Rep.), Qatar, Rwanda, Saudi Arabia, Serbia, Singapore, Thailand, USA.  
 8. A completed "Passenger Locator Form" must be submitted at most 48 hours before arrival. The form can be found at [https://travel.info-coronavirus.be/public-health-passenger-locator-form](https://travel.info-coronavirus.be/public-health-passenger-locator-form) or [https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM\_PassengerLocatorForm\_ENG.pdf](https://d34j62pglfm3rr.cloudfront.net/downloads/BELGIUM_PassengerLocatorForm_ENG.pdf)  
 9. Passengers could be subject to a COVID-19 test and quarantine; details can be found at [https://www.info-coronavirus.be/en/](https://www.info-coronavirus.be/en/)  
@@ -650,7 +646,7 @@ This does not apply to:
 - nationals of France who live in Saint-Pierre and Miquelon and who only been in Canada, the US or Saint-Pierre and Miquelon in the past 14 days;  
 - more exemptions can be found at [https://tinyurl.com/s4tbrc8](https://tinyurl.com/s4tbrc8) .  
 3. Passengers and airline crew must submit their information electronically, at most 72 hours before arrival, through the ArriveCAN app or the website [https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html)  
-4. Passengers must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS.  
+4. Passengers must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at [https://tinyurl.com/uuf5nntc](https://tinyurl.com/uuf5nntc) .  
 - Test results issued in India are not accepted.  
 - This does not apply to:  
 - passengers younger than 5 years;  
@@ -751,8 +747,8 @@ This does not apply to:
 2. Passengers must complete the "Online Contact Information" form at least 24 hours before departure. The form can be found at [https://tinyurl.com/yhary2fb](https://tinyurl.com/yhary2fb)
 
 # Chile
-### 30.06.2021
-1. Passengers are not allowed to enter.  
+### 15.07.2021
+1. Until 25 July 2021, passengers are not allowed to enter.  
 This does not apply to:  
 - nationals and residents of Chile;  
 - children and parents of nationals and residents of Chile. They must have proof of their relationship;  
@@ -833,7 +829,7 @@ A "Check Mig" form must be submitted at most 24 hours before departure at [https
 4. Passengers must arrive at San Jose (SJO) or Liberia (LIR).
 
 # Cuba
-### 13.07.2021
+### 15.07.2021
 1. Flights from Guyana, Haiti, Nicaragua, Suriname and Trinidad and Tobago are suspended.  
 - This does not apply to humanitarian flights.  
 2. Passengers must have a printed negative COVID-19 RT-PCR test result issued at most 72 hours before arrival.  
@@ -848,8 +844,8 @@ A "Check Mig" form must be submitted at most 24 hours before departure at [https
 7. Nationals of Cuba residing in Cuba are allowed to enter with an expired passport that was issued after 1 January 2014.  
 8. Normal passports issued after 1 January 2014 to nationals of Cuba residing in Cuba that have not been revalidated with a "Prorroga" sticker are accepted for entry.  
 9. Passengers traveling to Cayo Coco (CCC) or Varadero (VRA) must have a reservation for a tourist arrangement that includes a period of self-isolation.  
-- effective 15 July 2021, this does not apply to nationals of Cuba.  
-10. Effective 15 July 2021, nationals of Cuba traveling to Cayo Coco (CCC) or Varadero (VRA) must have a reservation for a tourist arrangement that includes a period of self-isolation for 14 nights.
+- This does not apply to nationals of Cuba.  
+10. Nationals of Cuba traveling to Cayo Coco (CCC) or Varadero (VRA) must have a reservation for a tourist arrangement that includes a period of self-isolation for 14 nights.
 
 # Cabo Verde
 ### 07.01.2021
@@ -858,30 +854,30 @@ A "Check Mig" form must be submitted at most 24 hours before departure at [https
 2. Passengers are subject to medical screening.
 
 # Curaçao
-### 14.07.2021
-1. Passengers must present a "Digital Immigration Card" and a "Public Health Passenger Locator Card (PLC)" obtained at [https://dicardcuracao.com/portal](https://dicardcuracao.com/portal) . The forms must be completed at most 48 hours before departure.    
+### 15.07.2021
+1. Passengers must present a "Digital Immigration Card" and a "Public Health Passenger Locator Card (PLC)" obtained at [https://dicardcuracao.com/portal](https://dicardcuracao.com/portal) . The forms must be completed at most 48 hours before departure.   
 2. Passengers arriving from Colombia,  French Guiana, India, Portugal, St. Kitts and Nevis, Suriname, United Kingdom, Uruguay or Venezuela must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test results must be uploaded at [https://dicardcuracao.com/portal](https://dicardcuracao.com/portal)  
 - This does not apply to:  
 - passengers younger than 16 years without COVID-19 symptoms;  
-- passengers departing on the same calendar day;  
-- passengers with a negative COVID-19 antigen test taken at most 24 hours before departure; and  
-- the last two positive COVID-19 tests or a recovery certificate.  
+- passengers departing on the same calendar day.  
 3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure; or  
 - a negative COVID-19 antigen test taken at most 24 hours before departure.  
 Test results must be uploaded at [https://dicardcuracao.com/portal](https://dicardcuracao.com/portal)  
 - This does not apply to:  
  - residents of Curacao with a COVID-19 vaccination certificate issued in Curacao, showing that they were fully vaccinated at least 14 days before arrival, when arriving from Aruba, Austria, Bahamas, Belgium, Bonaire, Canada, Cayman Isl., Denmark, Dominican Rep., Ecuador, France, French West Indies (Guadeloupe and Martinique), Germany, Greece, Italy, Luxembourg, Netherlands, Norway, St. Lucia, Spain, St. Vincent and Grenadines, Sweden, Switzerland, Turkey or USA;  
- - passengers arriving from Anguilla, Antigua and Barbuda, Barbados, Bermuda, China (People’s Rep.), Chinese Taipei, Czechia, Dominica, Finland, French West Indies (St. Barthelemy ), Grenada, Hong Kong (SAR China), Hungary, Jamaica, Montserrat, Morocco, New Zealand, Poland,  Puerto Rico (USA), Saba, Singapore, St. Eustatius, Turks and Caicos, Virgin Islands (British);  
  - passengers arriving from Colombia,  French Guiana, India, Portugal, St. Kitts and Nevis, Suriname, United Kingdom, Uruguay or Venezuela;  
- - passengers younger than 16 years without COVID-19 symptoms;  
- - passengers departing on the same calendar day.  
+ - passengers arriving on direct flights from Anguilla, Antigua and Barbuda, Barbados, Bermuda, China (People's Rep.), Chinese Taipei, Czechia, Dominica, Finland, French West Indies (St. Barthelemy ), Grenada, Hong Kong (SAR China), Hungary, Jamaica, Montserrat, Morocco, New Zealand, Poland,  Puerto Rico (USA), Saba, Singapore, St. Eustatius, Turks and Caicos, Virgin Islands (British);  
+passengers arriving from Anguilla, Antigua and Barbuda, Barbados, Bermuda, China (People's Rep.), Chinese Taipei, Czechia, Dominica, Finland, French West Indies (St. Barthelemy ), Grenada, Hong Kong (SAR China), Hungary, Jamaica, Montserrat, Morocco, New Zealand, Poland,  Puerto Rico (USA), Saba, Singapore, St. Eustatius, Turks and Caicos, Virgin Islands (British) and transiting within 24 hours through Aruba, Austria,  Bahamas,  Belgium, Bonaire, Brazil, Canada, Cayman Isl., Colombia,  Costa Rica, Cuba, Denmark, Dominican Rep., Ecuador, France, French Guiana, Germany, Greece, Guyana, Haiti, India, Italy, Luxembourg, Netherlands, Norway, Spain, Panama, Portugal, St. Kitts and Nevis, St. Lucia, St. Maarten, St. Vincent and Grenadines, Suriname, Sweden, Switzerland, Trinidad and Tobago, Turkey, United Arab Emirates, United Kingdom, Uruguay, USA or Venezuela;  
+- passengers younger than 16 years without COVID-19 symptoms;  
+- passengers departing on the same calendar day.  
 4. Passengers must have medical insurance to cover COVID-19 expenses.  
  - This does not apply to:  
--  residents of Curacao;  
+-  residents of Curacao;  
  - passengers with a diplomatic passport;  
  - passengers staying for less than 24 hours;  
  - members from the Dutch Armed Forces and their family members.  
-5. Passengers are subject to medical screening upon arrival.
+5. Passengers are subject to medical screening upon arrival.  
+6. More information can be found at [https://ccaa.cw/publications/covid-19/](https://ccaa.cw/publications/covid-19/)
 
 # Cyprus
 ### 09.07.2021
@@ -1425,14 +1421,14 @@ More details can be found at [https://quarantinehotelbookings.ctmportal.co.uk/](
 12. Passengers with an Overseas Domestic Worker visa issued by the UK must be accompanied by the sponsor or one of the first degree family members of the sponsor.
 
 # Grenada
-### 06.05.2021
+### 15.07.2021
 1. Passengers are not allowed to enter if in the past 14 days they have been in Brazil or India.  
 2. Passengers must have a "Pure Safe Travel Certificate" obtained before departure at [https://covid19.gov.gd/travel-covid/](https://covid19.gov.gd/travel-covid/) .  
 3. Passengers must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.  
 - This does not apply to passengers younger than 6 years.  
 4. Passengers are subject to medical screening upon arrival.  
 5. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. The test must be paid before departure at [https://pay.gov.gd/](https://pay.gov.gd/).  
-6. Passengers are subject to quarantine; details can be found at [https://covid19.gov.gd/travel-covid/](https://covid19.gov.gd/travel-covid/) .  
+6. Passengers are subject to quarantine for up to 14 days at an approved accommodation; details can be found at [https://covid19.gov.gd/travel-covid/](https://covid19.gov.gd/travel-covid/) .  
 7. Disembarking airline crew must present a completed Crew COVID-19 Status Card. They are subject to medical screening and self-isolation upon arrival.
 
 # Georgia
@@ -1555,12 +1551,12 @@ Passengers and airline crew must have a medical certificate with a negative Coro
 - are subject to quarantine for 5 days.
 
 # Greece
-### 08.07.2021
-1. Until 15 July 2021, passengers are not allowed to enter.  
+### 15.07.2021
+1. Until 22 July 2021, passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;  
 - British nationals and residents of the United Kingdom;  
-- nationals and residents of Albania, Armenia, Australia, Azerbaijan, Bahrain, Belarus, Bosnia and Herzegovina, Brunei Darussalam, Canada, China (People's Rep.), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Kuwait, Lebanon, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep), Qatar, Russian Fed., Rwanda, Saudi Arabia, Serbia, Singapore, Thailand, USA, Ukraine and United Arab Emirates;  
+- nationals and residents of Albania, Armenia, Australia, Azerbaijan, Bahrain, Belarus, Bosnia and Herzegovina, Brunei Darussalam, Canada, China (People's Rep.), Israel, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Kuwait, Lebanon, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep), Qatar, Russian Fed., Saudi Arabia, Serbia, Singapore, USA, Ukraine and United Arab Emirates;  
 - passengers with a residence permit issued by Greece. A certificate of application for renewal of a residence permit is not accepted except if the certificate of application is referring to spouse or family member of Greek or EU national;  
 - passengers with a residence permit issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or the United Kingdom;  
 - passengers with a long term visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;  
@@ -1590,7 +1586,7 @@ The test result must be in English, French, German, Greek, Italian, Spanish or R
 6. Passengers could be subject to self-isolation for up to 10 days. Details can be found at [https://travel.gov.gr/](https://travel.gov.gr/)
 
 # Guatemala
-### 12.07.2021
+### 15.07.2021
 1. Passengers are not allowed to enter if in the past 14 days they have been in Brazil, South Africa or United Kingdom.  
 This does not apply to:  
 - nationals of Guatemala;  
@@ -1601,11 +1597,7 @@ This does not apply to:
 - a negative COVID-19 antigen or PCR test taken at most 3 days before departure from the first embarkation point; or  
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before departure; or  
 - a COVID-19 recovery certificate issued at least 10 days after the positive test result. The passenger must have tested positive at most 3 months before arrival.  
-- This does not apply to:  
-- nationals of Guatemala. They are subject to a COVID-19 antigen or PCR test upon arrival at their own expense;  
-- permanent residents of Guatemala. They are subject to a COVID-19 antigen or PCR test upon arrival at their own expense;  
-- passengers with a diplomatic passport traveling on duty. They are subject to a COVID-19 antigen or PCR test upon arrival at their own expense;  
-- passengers younger than 10 years.  
+- This does not apply to passengers younger than 10 years.  
 3. Passengers and airline crew could be subject to quarantine for 10 days at their own expense.
 
 # Guam
@@ -1706,8 +1698,8 @@ All documents must be in Chinese or English.
 4. A completed "immigration pre-check" must be presented upon arrival. The form can be submitted online before departure at [https://prechequeo.inm.gob.hn](https://prechequeo.inm.gob.hn) .
 
 # Croatia
-### 06.07.2021
-1. Until 15 July 2021, passengers are not allowed to enter.  
+### 15.07.2021
+1. Until 31 July 2021, passengers are not allowed to enter.  
 This does not apply to:  
 - nationals of Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See) and their family members;  
 - passengers with a long term residence permit or a long term "D" visa issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;  
@@ -2174,7 +2166,7 @@ Tarawa (TRW) is closed.
 2. Passengers are subject to quarantine.
 
 # South Korea
-### 13.07.2021
+### 15.07.2021
 1. Short-term visas (type C-1 and C-3) issued on or before 5 April 2020 are no longer valid.  
 2. Suspension of visa exemptions for nationals of Antigua and Barbuda, Argentina, Australia, Austria, Bahamas, Bahrain, Belgium, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Rep., Ecuador, El Salvador, Estonia, Eswatini (Swaziland), Fiji, Finland, France, Germany, Greece, Grenada, Guatemala, Haiti, Honduras, Hungary, Iceland, Israel, Italy, Jamaica, Kazakhstan, Kiribati, Kuwait, Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Malaysia, Marshall Isl., Mauritius, Micronesia (Federated States), Montenegro, Morocco, Nauru, Netherlands, New Zealand, Norway, Oman, Panama, Paraguay, Peru, Poland, Portugal, Qatar, Romania, Russian Fed., Samoa, Saudi Arabia, Serbia, Seychelles, Singapore, Slovakia, Solomon Isl., South Africa, Spain, St. Lucia, Suriname, Sweden, Switzerland, Thailand, Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu, United Arab Emirates or Uruguay with a normal passport.  
 - This does not apply to airline crew.  
@@ -2200,13 +2192,8 @@ Tarawa (TRW) is closed.
 16. Passengers with an E-9 visa issued by Korea (Rep.) must present a completed 'Confirmation of Self-quarantine' form upon arrival. The form can be obtained at the local EPS center.  
 17. Passengers must have a printed negative COVID-19 test result issued at most 72 hours before departure from the first embarkation point. Tests accepted are: LAMP, PCR, SDA and TMA tests. The test result must be in English, Korean or accompanied by a certified English or Korean translation. The test result must have the name of the passenger which must match the name in the passport, the date of birth and the name of the issuing laboratory. Passengers arriving from Indonesia or the Philippines must have a test result issued by an approved laboratory and details can be found at the Korean (Rep.) Embassy website in those countries.  
 - This does not apply to:  
-- passengers who are 6 years or younger;  
-- until 14 July 2021, nationals of Korea (Rep.);  
-- effective 15 July 2021, nationals of Korea (Rep.) traveling on business.  
-18. Until 14 July 2021, nationals of Korea (Rep.) without a printed negative COVID-19 LAMP, PCR, SDA or TMA test result issued at most 72 hours before departure from the first embarkation point:  
-- must have an "Agreement to Facility Quarantine" form. The form can be obtained at check-in or at [https://nqs.cdc.go.kr/nqs/quaStation/incheonAirport.do?gubun=notice](https://nqs.cdc.go.kr/nqs/quaStation/incheonAirport.do?gubun=notice); and  
-- are subject to quarantine for 14 days at their own expense.  
-- This does not apply to passengers who are 5 years or younger.
+- nationals of Korea (Rep.) traveling on business;  
+- passengers younger than 6 years.
 
 # Kuwait
 ### 18.06.2021
@@ -2290,36 +2277,27 @@ This does not apply to:
 7. Only visas with a written authorization from Task Force Committee of Ministry of Foreign Affairs are considered valid.
 
 # Lebanon
-### 10.06.2021
-1. Passengers who in the past 14 days have been in India are not allowed to enter.  
+### 15.07.2021
+1. Passengers who in the past 14 days have been in India are not allowed to enter  
 2. Passengers must have a negative COVID-19 PCR test result issued at most 96 hours before arrival.  
 - This does not apply to:  
 - passengers younger than 12 years;  
 - passengers returning to Lebanon within 1 week;  
-- passengers with a COVID-19 vaccination certificate if they received the last vaccine dose at least 15 days before departure. The certificate must be issued by Afghanistan, Albania, Algeria, Andorra, Armenia, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Bhutan, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Cambodia, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland (Rep.), Israel, Italy, Japan, Jordan, Kazakhstan, Korea (Dem. People's Rep.), Korea (Rep.), Kosovo (Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malaysia, Maldives, Malta, Moldova (Rep.), Monaco, Mongolia, Montenegro, Morocco, Myanmar, Nepal, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Oman, Pakistan, Palestinian Territory, Philippines, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, Syria, Tajikistan, Thailand, Timor-Leste, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, USA, Uzbekistan, Vatican City (Holy See), Viet Nam or Yemen;  
-- passengers arriving from Brazil or United Kingdom with a COVID-19 recovery certificate issued at least 90 days before departure.  
-3. Passengers and airline crew are subject to a COVID-19 PCR test upon arrival.  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before departure;  
+- passengers arriving from Brazil, Ethiopia, Gambia, Kenya, Liberia, Malawi, Sierra Leone, United Arab Emirates, United Kingdom or Zambia with a COVID-19 recovery certificate issued at least 90 days before departure.  
+3. Passengers and airline crew are subject to a COVID-19 PCR test upon arrival, at their own expense.  
 - This does not apply to:  
 - passengers younger than 12 years;  
-- airline crew staying for a maximum of 24 hours;  
-- passengers returning to Lebanon within 1 week.  
+- airline crew staying for a maximum of 48 hours.  
 4. Passengers and airline crew could be subject to quarantine for 72 hours.  
-5. Passengers must complete a "Airport Tracking Registration Form" before departure at [https://covid.pcm.gov.lb/](https://covid.pcm.gov.lb/) . This will generate an approval e-mail or SMS which must be presented upon arrival.  
-- This does not apply to passengers younger than 12 years.  
-6. Passengers must install the "covidlebtrack" mobile app.  
-7. Passengers arriving from Brazil or United Kingdom must have a reservation confirmation at a designated hotel for 4 nights.  
+5. Passengers arriving from Brazil, Ethiopia, Gambia, India, Kenya, Liberia, Malawi, Sierra Leone, United Arab Emirates or United Kingdom, Zambia must have a reservation confirmation at a designated hotel for 3 nights.  
 This does not apply to:  
 - passengers with a COVID-19 vaccination certificate showing that they received at least one vaccine dose at least 2 weeks before departure;  
-- passengers with a COVID-19 recovery certificate issued at least 90 days before departure;  
 - passengers transiting through Beirut to Syria;  
 - passengers younger than 18 years;  
 - passengers returning to Lebanon within 1 week.  
-8. Passengers transiting through Beirut (BEY) to Syria must have a negative COVID-19 PCR test result issued at most 96 hours before departure.  
-- This does not apply to passengers younger than 12 years.  
-9. Passengers transiting through Beirut (BEY) to Syria must have a pre-approval from the Syrian Authorities.  
-- This does not apply to:  
-- nationals of Syria;  
-- passengers with a Travel Document for Palestinian Refugees (Document de Voyage pour les Refugies Palestiniens) issued by Syria.
+6. Passengers transiting through Beirut (BEY) to Syria must have a negative COVID-19 PCR test result issued at most 96 hours before departure.  
+- This does not apply to passengers younger than 12 years.
 
 # Saint Lucia
 ### 08.07.2021
@@ -2337,16 +2315,49 @@ This does not apply to:
 6. Passengers and airline crew are subject to medical screening.
 
 # Liechtenstein
-### 03.06.2020
+### 09.07.2021
 1. Passengers are not allowed to enter.  
-- This does not apply to nationals or residents of Switzerland or Liechtenstein.  
-- This does not apply to passenger with a cross-border commuter permit who are entering Switzerland for work, with a C-visa issued by Switzerland for the purpose of "business meetings" as specialists in the field of health or "official visit" of great importance, with a D-visa issued by Switzerland or who have an assurance of a residence permit.  
-- This does not apply to passengers traveling directly through Switzerland, provided that there are no reasons to believe that the country towards which they intend to leave Switzerland will refuse entry.  
-- This does not apply to passengers who have to travel to their place of work abroad, provided they can present a valid employment contract.  
-- This does not apply to passengers who are already legally residing within the EU/EFTA area and that are travelling for tourist purposes, provided that they can credibly demonstrate that they actually want to/can enter the destination country, e.g. by presenting a hotel booking, holiday apartment, etc.  
-- This does not apply to passengers who are entitled to freedom of movement (citizens of EU/EFTA-states) and have a professional reason for entering Switzerland and have a confirmation of registration.  
-- This does not apply to passengers who are of great importance as specialists in the health sector.  
-2. Until and including 07.06.2020, passengers can only land at Basel (BSL), Geneva (GVA) or Zurich (ZRH).
+-This does not apply to:  
+- nationals and residents of Liechtenstein and Switzerland;  
+- passengers with a "D" visa issued by Switzerland;  
+- passengers with a "C" visa issued by Switzerland;  
+- nationals of EEA Member States;  
+- passengers arriving from Schengen Member States;  
+- passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States. They must present proof of their relationship;  
+- passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of “British Citizens", "British Overseas Territories Citizens" from Gibraltar or British nationals with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom, who have a residence permit issued by Switzerland:  
+ - with reference to the CH-UK agreement form 25 February 2019; or  
+ - issued before 1 January 2021;  
+- residents of Schengen Member States returning directly via Switzerland to their country of residence;  
+- unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7)  
+- unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians.  
+2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.  
+-This does not apply to:  
+- nationals and residents of EEA Member States and Switzerland;  
+- passengers arriving from Albania, Andorra, Australia, Bulgaria, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Monaco, New Zealand, North Macedonia (Rep.), Romania, Rwanda, San Marino, Serbia, Singapore, Thailand, USA or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;  
+- passengers with a "D" visa issued by a Schengen Member State they are traveling to;  
+- passengers with a "C" visa issued by Switzerland;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7)  
+3. Passengers with a Schengen "C" visa issued by Switzerland before 16 March 2020 must have a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7)  
+4. Passengers must have:  
+- a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or  
+- a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point. They could be subject to a COVID-19 rapid antigen or PCR test upon arrival at their own expense.  
+- This does not apply to:  
+- passengers with a "C" visa issued by Switzerland before 16 March 2020;  
+- passengers with a positive COVID-19 test result of a test taken in the past 6 months. They must also have a recovery certificate;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7)  
+- passengers younger than 16 or 12 years, depending on their country of departure. Details can be found at [https://tinyurl.com/2xllqfnn](https://tinyurl.com/2xllqfnn)  
+- nationals and residents of Switzerland with no possibility of getting tested in the departure country. They must complete a self-declaration form obtained at [https://tinyurl.com/2xllqfnn](https://tinyurl.com/2xllqfnn) . They are subject to a COVID-19 test upon arrival;  
+- more exemptions can be found at [https://tinyurl.com/2xllqfnn](https://tinyurl.com/2xllqfnn)  
+5. Passengers must:  
+- provide the contact details electronically at [https://swissplf.admin.ch/home](https://swissplf.admin.ch/home) ; or  
+- complete the "Contact Tracing Card" form. The form is available at [https://static.vueling.com/corporative7/media/1647/swiss\_authority\_arriving\_passenger\_contact\_tracing\_card-pd.pdf](https://static.vueling.com/corporative7/media/1647/swiss_authority_arriving_passenger_contact_tracing_card-pd.pdf) or on board.  
+This does not apply to:  
+- passengers with a positive COVID-19 test result of a test taken in the past 6 months. They must also have a recovery certificate;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7)  
+6. Passengers could be subject to quarantine for 10 days. A list of quarantine exemptions can be found at  [https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende/quarantaene-einreisende.html)
 
 # Sri Lanka
 ### 12.07.2021
@@ -2429,7 +2440,7 @@ More details can be found at [https://tinyurl.com/5fkt9aj9](https://tinyurl.com/
 - military personnel;  
 - merchant seamen;  
 - passengers with a certificate issued by the Passport, Visa and Legalization Office (BPVL).  
-2. Until 15 July 2021, passengers must have:  
+2. Passengers must have:  
 - a negative COVID-19 LAMP, NAAT, PCR or TMA test taken at most 72 hours before departure from the first embarkation point; or  
 - a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point.  
 The test result must be in English, French, German, Italian, Luxembourgish, Portuguese or Spanish. A certified translation to English, French, German or Luxembourgish is accepted.  
@@ -2439,8 +2450,8 @@ The test result must be in English, French, German, Italian, Luxembourgish, Port
 - passengers with a COVID-19 recovery certificate issued by Switzerland or an EEA Member State. The passenger must have tested positive at most 6 months before arrival;  
 - passengers with a COVID-19 vaccination certificate issued in Switzerland or an EEA Member State showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech;  
 - passengers with a COVID-19 vaccination certificate issued in Switzerland or an EEA Member State showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before departure and at most 180 days after they were tested positive.  
-3. Until 15 July 2021, passenger who in the past 14 days have been in India or United Kingdom are subject to a COVID-19 LAMP, PCR or TMA test upon arrival.  
-4. Until 15 July 2021, passengers could be subject to quarantine for up to 14 days; details can be found at [https://covid19.public.lu/en/travellers/visiting-luxembourg.html](https://covid19.public.lu/en/travellers/visiting-luxembourg.html) .
+3. Passenger who in the past 14 days have been in India or United Kingdom are subject to a COVID-19 LAMP, PCR or TMA test upon arrival.  
+4. Passengers could be subject to quarantine for up to 14 days; details can be found at [https://covid19.public.lu/en/travellers/visiting-luxembourg.html](https://covid19.public.lu/en/travellers/visiting-luxembourg.html) .
 
 # Latvia
 ### 09.07.2021
@@ -2471,12 +2482,12 @@ Flights to Libya are suspended.
 - This does not apply to repatriation and medevac flights.
 
 # Morocco
-### 14.07.2021
+### 15.07.2021
 1. Passengers arriving from Afghanistan, Algeria, Angola, Argentina, Bahrain, Bangladesh, Benin, Bolivia, Botswana, Brazil, Cambodia, Cameroon, Cape Verde, Central African Rep., Chad, Chile, Colombia, Congo, Congo (Dem. Rep.), Cuba, Egypt, Eswatini, France, Guatemala, Haiti, Honduras, India, Indonesia, Iran, Iraq, Jamaica, Kazakhstan, Kenya, Korea (Dem. People's Rep.), Kuwait, Latvia, Lesotho, Liberia, Lithuania, Madagascar, Malawi, Malaysia, Maldives, Mali, Mauritius, Mexico, Namibia, Nepal, Nicaragua, Niger, Oman, Pakistan, Panama, Paraguay, Peru, Portugal, Qatar, Russian Fed., Saudi Arabia, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Spain, Sri Lanka, Sudan, Syria, Tanzania, Thailand, Togo, Tunisia, Uganda, Ukraine, United Arab Emirates, Uruguay, Venezuela, Viet Nam, Yemen, Zambia or Zimbabwe:  
 a. must have a negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point. The test result must be in Arabic, French or English;  
-- This does not apply to passengers younger than 10 years.  
-b. must complete the "sworn statement" found at [http://www.onda.ma/Je-suis-Passager/Guide-du-voyageur/News-aéroportuaires-COVID19](http://www.onda.ma/Je-suis-Passager/Guide-du-voyageur/News-aéroportuaires-COVID19)  
-c. are subject to quarantine for a maximum of 10 days in a hotel booked at one of the hotels found at [http://www.onda.ma/Je-suis-Passager/Guide-du-voyageur/News-aéroportuaires-COVID19](http://www.onda.ma/Je-suis-Passager/Guide-du-voyageur/News-aéroportuaires-COVID19) . Passengers must have a proof of payment for the hotel stay.  
+- This does not apply to passengers younger than 11 years.  
+b. must complete the "sworn statement" found at [http://www.onda.ma/Je-suis-Passager/Guide-du-voyageur/News-aéroportuaires-COVID19](http://www.onda.ma/Je-suis-Passager/Guide-du-voyageur/News-a%C3%A9roportuaires-COVID19)  
+c. are subject to quarantine for a maximum of 10 days in a hotel booked at one of the hotels found at [http://www.onda.ma/Je-suis-Passager/Guide-du-voyageur/News-aéroportuaires-COVID19](http://www.onda.ma/Je-suis-Passager/Guide-du-voyageur/News-a%C3%A9roportuaires-COVID19) . Passengers must have a proof of payment for the hotel stay.  
 - This does not apply to:  
 - nationals of Morocco and their family members;  
 - passengers born in Morocco;  
@@ -2484,24 +2495,67 @@ c. are subject to quarantine for a maximum of 10 days in a hotel booked at one o
 - passengers between the age of 12 and 18 years if they travel with their fully vaccinated parents/guardians.  
 2. Passengers arriving from Albania, Andorra, Antigua and Barbuda, Armenia, Australia, Austria, Azerbaijan, Bahamas, Barbados, Belarus, Belgium, Belize, Bhutan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Canada, China (People's Rep.), Chinese Taipei, Comoros, Costa Rica, Cote d'Ivoire, Croatia, Cyprus, Czechia, Denmark, Djibouti, Dominica, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, Estonia, Ethiopia, Fiji, Finland, Gabon, Gambia, Georgia, Germany, Ghana, Greece, Grenada, Guinea, Guinea-Bissau, Guyana, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Kiribati, Korea (Rep.), Kosovo (Rep.), Kyrgyzstan, Lao People's Dem. Rep., Lebanon, Libya, Liechtenstein, Luxembourg, Macao (SAR China), Malta, Marshall Isl., Mauritania, Micronesia (Federated States), Moldova (Rep.), Monaco, Mongolia, Montenegro, Morocco, Mozambique, Myanmar, Nauru, Netherlands, New Zealand, Nigeria, North Macedonia (Rep.), Norway, Palau, Papua New Guinea, Philippines, Poland, Romania, Rwanda, Samoa, San Marino, Sao Tome and Principe, Senegal, Serbia, Singapore, Slovakia, Slovenia, Solomon Isl., St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Sweden, Switzerland, Tajikistan, Timor-Leste, Tonga, Trinidad and Tobago, Turkey, Turkmenistan, Tuvalu, USA, Uzbekistan, Vanuatu or Vatican City (Holy See) must have:  
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in Arabic, French or English; or a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival.  
-- This does not apply to passengers younger than 10 years.  
+- This does not apply to passengers younger than 11 years.  
 5. Passengers must complete a "Public Health Passenger Form" before departure at [www.onda.ma](http://www.onda.ma) . The form must be printed and presented upon arrival.
 
 # Monaco
-### 02.06.2020
-1. Passengers arriving from a non-Schengen Member State are not allowed to enter France.  
+### 09.07.2021
+1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of France, their spouses and children;  
-- nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and an EEA Member State, their spouses and children, on their way home;  
-- British nationals, their spouses and children, on their way home;  
-- passengers with a residence permit issued by France;  
-- passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, United Kingdom, Vatican City (Holy See) or an EEA Member State, on their way home;  
-- healthcare professionals and researchers related to Coronavirus (COVID-19);  
-- personnel of diplomatic and consular missions and international organizations headquartered or having an office in France, their spouses and children;  
-- merchant seamen.  
-2. A completed International Travel Certificate must be presented prior to boarding and to Immigration upon arrival or when transiting France. The certificate must be obtained before departure via the French consular offices abroad or online at https://www.interieur.gouv.fr.  
-3. Passengers are subject to quarantine or isolation.  
-4. Passengers must complete a declaration on honor to state that they do not have symptoms of Coronavirus (COVID-19). The declaration must be dated with the name and signature of the passenger.
+- nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and an EEA Member State and their spouses and children;  
+- British nationals who are beneficiaries of the Agreement on withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, and their family members. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia;  
+- passengers arriving from Albania, Andorra, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Netherlands, New-Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Vanuatu or Vatican City (Holy See). They must have not been outside these countries in the past 14 days;  
+- passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;  
+- merchant seamen;  
+- students. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia;  
+- passengers with a Laissez-Passer;  
+- deadheading crew;  
+- passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia and the certificate must state they received:  
+- the first vaccine dose of Janssen at least 28 days before arrival; or  
+- the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or  
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19;  
+- More exemptions can be found at [https://tinyurl.com/104zuyhq](https://tinyurl.com/104zuyhq)  
+2. Passengers arriving from French Guiana and from red list countries: Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.  
+- This does not apply to:  
+- passengers younger than 11 years;  
+- deadheading crew;  
+- merchant seamen;  
+- French military personnel returning from a mission abroad.  
+3. Passengers arriving from amber list countries: Algeria, Angola, Antigua and Barbuda, Armenia, Azerbaijan, Bahamas, Barbados, Belarus, Belize, Benin, Bhutan, Botswana, Brunei Darussalam, Burkina Faso, Burundi, Cambodia, Cameroon, Cape Verde, Central African Rep., Chad, China (People's Rep.), Comoros, Congo, Cote d'Ivoire, Cuba, Djibouti, Dominica, Dominican Rep., Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, Ethiopia, Fiji, Gabon, Gambia, Georgia, Ghana, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Indonesia, Iran, Iraq, Jamaica, Jordan, Kazakhstan, Kenya, Kiribati, Korea (Dem. People's Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Lesotho, Liberia, Libya, Macao (SAR China), Madagascar, Malawi, Malaysia, Mali, Marshall Isl., Mauritania, Mauritius, Mexico, Micronesia (Federated States), Moldova (Rep.), Mongolia, Morocco, Mozambique, Myanmar, Nauru, Nicaragua, Niger, Nigeria, Palau, Panama, Papua New Guinea, Peru, Philippines, Qatar, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Isl., Somalia, South Sudan, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Swaziland, Syria, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Tuvalu, Uganda, Ukraine, United Arab Emirates, Uzbekistan, Venezuela, Viet Nam, Yemen or Zimbabwe must have:  
+- a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point; or  
+- a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.  
+- This does not apply to:  
+- passengers younger than 11 years;  
+- deadheading crew;  
+- merchant seamen;  
+- French military personnel returning from a mission abroad.  
+4. Passengers arriving from green list countries: Albania, Andorra, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Netherlands, New-Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Vanuatu or Vatican City (Holy See) must have a negative COVID-19 antigen or PCR test taken at most 72 hours before departure from the first embarkation point.  
+- This does not apply to:  
+- passengers younger than 11 years;  
+- deadheading crew;  
+- merchant seamen;  
+- French military personnel returning from a mission abroad;  
+- passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state that they received:  
+- the first vaccine dose of Janssen at least 28 days before arrival; or  
+- the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or  
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19;  
+- passengers with a positive COVID-19 PCR test issued at least 11 days and at most 6 months before departure from the first embarkation point.  
+5. All passengers must have a completed sworn statement obtained at [https://tinyurl.com/104zuyhq](https://tinyurl.com/104zuyhq)  
+- This does not apply to deadheading crew.  
+6. Passengers entering or transiting through France from amber and red list countries must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at [https://tinyurl.com/104zuyhq](https://tinyurl.com/104zuyhq)  
+- This does not apply to:  
+- passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia, and the certificate must state they received:  
+- the first vaccine dose of Janssen at least 28 days before arrival; or  
+- the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or  
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19.  
+7. Passengers could be subject to a COVID-19 test upon arrival. More details can be found at [https://tinyurl.com/4wtws28x](https://tinyurl.com/4wtws28x)  
+8. Passengers could be subject to self-isolation or quarantine for up to 10 days.  
+- This does not apply to passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia, and the certificate must state they received:  
+- the first vaccine dose of Janssen at least 28 days before arrival; or  
+- the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or  
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19.  
+More exemptions can be found at [https://tinyurl.com/4wtws28x](https://tinyurl.com/4wtws28x)
 
 # Republic of Moldova
 ### 16.06.2021
@@ -2659,15 +2713,8 @@ Passengers arriving from India are subject to self-isolation for 14 days.
 6. Passengers could be subject to quarantine for 14 days. Details can be found at [https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx](https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx)
 
 # Mauritius
-### 13.07.2021
-Until 14 July 2021:  
-1. Passengers are not allowed to enter and transit.  
-- This does not apply to passengers arriving on humanitarian, medevac or repatriation flights.  
-2. Passengers arriving on humanitarian, medevac or repatriation flights must have:  
-- a negative COVID-19 PCR test taken at most 7 days or at least 5 days before departure from the last embarkation point; and  
-- a confirmed accommodation reservation booked at [https://www.mymauritius.travel/](https://www.mymauritius.travel/)  
-3. Airline crew are subject to self-isolation for 7 days or until their next flight.  
-Effective 15 July 2021 and until 30 September 2021:  
+### 15.07.2021
+Until 30 September 2021:  
 1. Passengers must have:  
 - a negative COVID-19 PCR test taken at most 7 days or at least 5 days before departure from the last embarkation point; and  
 - a confirmed accommodation reservation booked at [https://mauritiusnow.com/where-to-stay-in-mauritius/](https://mauritiusnow.com/where-to-stay-in-mauritius/)       
@@ -2676,19 +2723,18 @@ Effective 15 July 2021 and until 30 September 2021:
 4. Airline crew are subject to self-isolation for 7 days or until their next flight.
 
 # Maldives
-### 13.07.2021
-1. Until 14 July 2021, passengers traveling as tourists are not allowed to enter if in the past 14 days they have been in Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan or Sri Lanka.  
-2. Passengers and airline crew must complete a "Traveller Health Declaration" at most 24 hours before departure at [https://imuga.immigration.gov.mv/](https://imuga.immigration.gov.mv/) .  
-3. Passengers must have a negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. Passengers who have transited for more than 24 hours must repeat the test. The test result must have the name of the passenger as in the passport and name and address of the testing laboratory.  
+### 15.07.2021
+1. Passengers and airline crew must complete a "Traveller Health Declaration" at most 24 hours before departure at [https://imuga.immigration.gov.mv/](https://imuga.immigration.gov.mv/) .  
+2. Passengers must have a negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. Passengers who have transited for more than 24 hours must repeat the test. The test result must have the name of the passenger as in the passport and name and address of the testing laboratory.  
 - This does not apply to passengers younger than 1 year.  
-4. Passengers traveling as tourists must have a hotel reservation confirmation for the entire stay in a registered tourist facility.  
-5. Passengers could be subject to medical screening.  
-6. Passengers could be subject to self-quarantine for 14 days. More details can be found at [https://imuga.immigration.gov.mv/ethd](https://imuga.immigration.gov.mv/ethd) .  
-7. Airline crew must have a negative COVID-19 PCR test taken at most 96 hours before departure of the first flight. Airline crew who have transited for more than 24 hours must repeat the test. The test result must have the name of the airline crew as in the passport and name and address of the testing laboratory.  
+3. Passengers traveling as tourists must have a hotel reservation confirmation for the entire stay in a registered tourist facility.  
+4. Passengers could be subject to medical screening.  
+5. Passengers could be subject to self-quarantine for 14 days. More details can be found at [https://imuga.immigration.gov.mv/ethd](https://imuga.immigration.gov.mv/ethd) .  
+6. Airline crew must have a negative COVID-19 PCR test taken at most 96 hours before departure of the first flight. Airline crew who have transited for more than 24 hours must repeat the test. The test result must have the name of the airline crew as in the passport and name and address of the testing laboratory.  
 This does not apply to:  
 - airline crew staying for less than 8 days;  
-- airline crew staying at a designated transit facility;  
-8. Airline crew are subject to medical screening.
+- airline crew staying at a designated transit facility.  
+7. Airline crew are subject to medical screening.
 
 # Malawi
 ### 18.06.2021
@@ -2772,19 +2818,27 @@ This does not apply to:
 2. Passengers are subject to self-isolation for 7 days.
 
 # Norfolk Island
-### 27.05.2020
-1. Passengers are not allowed to enter Australia.  
-- This does not apply to nationals of Australia.  
-- This does not apply to the immediate family members of nationals of Australia.  
-- This does not apply to permanent residents of Australia and their immediate family members.  
-- This does not apply to nationals of New Zealand residing in Australia.  
-- This does not apply to diplomats accredited to Australia and currently resident in Australia, and their immediate family members.  
-2. Passengers and airline crew are required to self-isolate for a period of 14 days at their first arrival location in Australia. If their duration of stay is less than 14 days, they must self-isolate for the entire duration of stay.  
-- This does not apply to airline crew with the appropriate personal protective equipment.  
-3. Airline crew who are nationals or residents of Australia must self-isolate at their place of residence (or hotel) between flights, or for 14 days, whichever is shorter.  
-Airline crew who are not nationals or residents of Australia must self-isolate in their hotel on arrival until their next flight.  
-4. When passengers transit through Australia for 8 to 72 hours, they must go to mandatory quarantine at the state designated facility until the time of the departing flight.  
-5. For repatriation charter flights, airlines are advised to contact the Australian Border Force (ABF) as early as possible in the planning process. Airlines should not confirm or schedule flights before discussing arrangements with the ABF repatriation team.
+### 28.05.2021
+1. Passengers are not allowed to enter.  
+- This does not apply to:  
+- nationals of Australia and their immediate family members;  
+- permanent residents of Australia and their immediate family members;  
+- nationals of New Zealand residing in Australia and their immediate family members;  
+- passengers who have been in Australia, New Zealand or both for the full 14 days before their flight to Australia;  
+- passengers who have a visa and have been granted an exemption before departure; details can be found at [https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form)  
+2. Passengers are not allowed to transit through Australia to New Zealand.  
+3. Passengers could be subject to presenting a "Travel Declaration" form and present it at time of check-in. The form can be found at [https://covid19.homeaffairs.gov.au/australia-travel-declaration](https://covid19.homeaffairs.gov.au/australia-travel-declaration)  
+4. Passengers could be subject to quarantine for 14 days at the first point of entry. Details can be found at [https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone](https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone)  
+5. Airline crew are subject to self-isolation until their next flight.  
+6. Passengers transiting through Australia for 8 to 72 hours to a third country are subject to quarantine until their next flight.  
+7. Passengers entering or transiting through Australia must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. More details can be found at [https://tinyurl.com/y398dxv4](https://tinyurl.com/y398dxv4)  
+- This does not apply to:  
+- passengers younger than 5 years;  
+- passengers arriving from Kiribati, New Zealand, Niue, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;  
+- passengers with a positive COVID-19 PCR test result, and a medical discharge issued at most 4 weeks before departure which specifies that:  
+- at least 14 days have passed since they were infected with COVID-19; and  
+- 72 hours have passed since recovery of fever and respiratory symptoms; and  
+- passengers who have recovered from COVID-19 and are not contagious.
 
 # Nigeria
 ### 04.05.2021
@@ -2808,7 +2862,7 @@ Airline crew who are not nationals or residents of Australia must self-isolate i
 4. Passengers with a medical certificate with a negative Coronavirus (COVID-19) test result are allowed to transit. They are subject to contact tracing by the Health Authorities for 14 days and must not have respiratory symptoms.
 
 # Netherlands
-### 11.07.2021
+### 15.07.2021
 1. Passengers are not allowed to enter.  
 This does not apply to:  
 - nationals and residents of the Netherlands;  
@@ -2823,7 +2877,7 @@ This does not apply to:
 - military personnel;  
 - students with a proof of admission to a course of study;  
 - partners with a completed "Declaration of relationship for COVID-19 entry ban exemption" form, a return onward ticket and proof that they have been in a relationship for at least 3 months with a resident of the Netherlands who is a national of an EEA Member State or Switzerland. As well as accompanying children of the partner who are younger than 18 years. More details can be found at [https://tinyurl.com/25s9p98h](https://tinyurl.com/25s9p98h) ;  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. They must be arriving from a country other than Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, French Guiana, Guyana, India, Maldives, Myanmar, Nepal, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, United Kingdom, Uruguay or Venezuela.  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. They must be arriving from a country other than Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, French Guiana, Guyana, India, Kuwait, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, United Kingdom, Uruguay or Venezuela.  
 2. Passengers are not allowed to transit through the Netherlands to Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) as final destination.  
 This does not apply to:  
 - nationals and residents of the Netherlands;  
@@ -2839,7 +2893,7 @@ This does not apply to:
 - passengers with a visa issued on or after 19 March 2020 by the country of final destination;  
 - merchant seamen;  
 - military personnel;  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. They must be arriving from a country other than Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Cape Verde, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, French Guiana, Guyana, India, Maldives, Myanmar, Nepal, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, United Kingdom, Uruguay or Venezuela.  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covieshield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac. They must be arriving from a country other than Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, French Guiana, Guyana, India, Kuwait, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, United Kingdom, Uruguay or Venezuela.  
 3. Passengers must have:  
 - a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or  
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival.  
@@ -2859,8 +2913,8 @@ This does not apply to:
 - a positive COVID-19 NAAT test result taken at most 72 hours before arrival; and  
 - a medical certificate specifying that the passenger is not COVID-19 contagious issued at most 72 hours before departure;  
 - passengers arriving from Albania, Armenia, Aruba, Australia, Austria, Azerbaijan, Belgium, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Curacao, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Korea (Rep.), Macao (SAR China), Malta, Moldova (Rep.), Montenegro, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal (excluding Area Metropolitana de Lisboa and the Algarve region), Qatar, Romania, Rwanda, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain (the Balearic and Canary Islands), St. Maarten, Sweden, Switzerland, Thailand, USA or Vatican City (Holy See);  
-- passengers arriving from Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Myanmar, Nepal, Pakistan, Panama, Paraguay, Peru, South Africa, Suriname, United Kingdom, Uruguay or Venezuela.  
-4. Passengers arriving from Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Dominican Rep., Ecuador, French Guiana, Guyana, India, Myanmar, Nepal, Pakistan, Panama, Paraguay, Peru, South Africa, Suriname, United Kingdom, Uruguay or Venezuela must have:  
+- passengers arriving from Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, French Guiana, Guyana, India, Kuwait, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, United Kingdom, Uruguay or Venezuela.  
+4. Passengers arriving from Argentina, Bangladesh, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Rep., Ecuador, French Guiana, Guyana, India, Kuwait, Maldives, Mongolia, Myanmar, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Seychelles, South Africa, Suriname, United Kingdom, Uruguay or Venezuela must have:  
 - a negative COVID-19 test taken at most 24 hours before boarding the flight of the first embarkation point. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or  
 - a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point, and  
 - a negative COVID-19 test taken at most 72 hours before arrival. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA.  
@@ -3178,20 +3232,63 @@ This does not apply to:
 More quarantine exemptions can be found at [https://www.gov.pl/web/coronavirus/temporary-limitations](https://www.gov.pl/web/coronavirus/temporary-limitations)
 
 # Saint Pierre and Miquelon
-### 02.06.2020
-1. Passengers arriving from a non-Schengen Member State are not allowed to enter France.  
+### 09.07.2021
+1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of France, their spouses and children;  
-- nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and an EEA Member State, their spouses and children, on their way home;  
-- British nationals, their spouses and children, on their way home;  
-- passengers with a residence permit issued by France;  
-- passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, United Kingdom, Vatican City (Holy See) or an EEA Member State, on their way home;  
-- healthcare professionals and researchers related to Coronavirus (COVID-19);  
-- personnel of diplomatic and consular missions and international organizations headquartered or having an office in France, their spouses and children;  
-- merchant seamen.  
-2. A completed International Travel Certificate must be presented prior to boarding and to Immigration upon arrival or when transiting France. The certificate must be obtained before departure via the French consular offices abroad or online at https://www.interieur.gouv.fr.  
-3. Passengers are subject to quarantine or isolation.  
-4. Passengers must complete a declaration on honor to state that they do not have symptoms of Coronavirus (COVID-19). The declaration must be dated with the name and signature of the passenger.
+- nationals of Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) and an EEA Member State and their spouses and children;  
+- British nationals who are beneficiaries of the Agreement on withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, and their family members. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia;  
+- passengers arriving from Albania, Andorra, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Netherlands, New-Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Vanuatu or Vatican City (Holy See). They must have not been outside these countries in the past 14 days;  
+- passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;  
+- merchant seamen;  
+- students. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia;  
+- passengers with a Laissez-Passer;  
+- deadheading crew;  
+- passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia and the certificate must state they received:  
+- the first vaccine dose of Janssen at least 28 days before arrival; or  
+- the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or  
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19;  
+- More exemptions can be found at [https://tinyurl.com/104zuyhq](https://tinyurl.com/104zuyhq)  
+2. Passengers arriving from French Guiana and from red list countries: Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point.  
+- This does not apply to:  
+- passengers younger than 11 years;  
+- deadheading crew;  
+- merchant seamen;  
+- French military personnel returning from a mission abroad.  
+3. Passengers arriving from amber list countries: Algeria, Angola, Antigua and Barbuda, Armenia, Azerbaijan, Bahamas, Barbados, Belarus, Belize, Benin, Bhutan, Botswana, Brunei Darussalam, Burkina Faso, Burundi, Cambodia, Cameroon, Cape Verde, Central African Rep., Chad, China (People's Rep.), Comoros, Congo, Cote d'Ivoire, Cuba, Djibouti, Dominica, Dominican Rep., Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, Ethiopia, Fiji, Gabon, Gambia, Georgia, Ghana, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Indonesia, Iran, Iraq, Jamaica, Jordan, Kazakhstan, Kenya, Kiribati, Korea (Dem. People's Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Lesotho, Liberia, Libya, Macao (SAR China), Madagascar, Malawi, Malaysia, Mali, Marshall Isl., Mauritania, Mauritius, Mexico, Micronesia (Federated States), Moldova (Rep.), Mongolia, Morocco, Mozambique, Myanmar, Nauru, Nicaragua, Niger, Nigeria, Palau, Panama, Papua New Guinea, Peru, Philippines, Qatar, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Isl., Somalia, South Sudan, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Swaziland, Syria, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Tuvalu, Uganda, Ukraine, United Arab Emirates, Uzbekistan, Venezuela, Viet Nam, Yemen or Zimbabwe must have:  
+- a negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point; or  
+- a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point.  
+- This does not apply to:  
+- passengers younger than 11 years;  
+- deadheading crew;  
+- merchant seamen;  
+- French military personnel returning from a mission abroad.  
+4. Passengers arriving from green list countries: Albania, Andorra, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Netherlands, New-Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Vanuatu or Vatican City (Holy See) must have a negative COVID-19 antigen or PCR test taken at most 72 hours before departure from the first embarkation point.  
+- This does not apply to:  
+- passengers younger than 11 years;  
+- deadheading crew;  
+- merchant seamen;  
+- French military personnel returning from a mission abroad;  
+- passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. The certificate must state that they received:  
+- the first vaccine dose of Janssen at least 28 days before arrival; or  
+- the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or  
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19;  
+- passengers with a positive COVID-19 PCR test issued at least 11 days and at most 6 months before departure from the first embarkation point.  
+5. All passengers must have a completed sworn statement obtained at [https://tinyurl.com/104zuyhq](https://tinyurl.com/104zuyhq)  
+- This does not apply to deadheading crew.  
+6. Passengers entering or transiting through France from amber and red list countries must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at [https://tinyurl.com/104zuyhq](https://tinyurl.com/104zuyhq)  
+- This does not apply to:  
+- passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia, and the certificate must state they received:  
+- the first vaccine dose of Janssen at least 28 days before arrival; or  
+- the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or  
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19.  
+7. Passengers could be subject to a COVID-19 test upon arrival. More details can be found at [https://tinyurl.com/4wtws28x](https://tinyurl.com/4wtws28x)  
+8. Passengers could be subject to self-isolation or quarantine for up to 10 days.  
+- This does not apply to passengers with a COVID-19 vaccination certificate and accompanying children younger than 18 years. They must not arrive from Afghanistan, Argentina, Bahrain, Bangladesh, Bolivia, Brazil, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, India, Maldives, Namibia, Nepal, Oman, Pakistan, Paraguay, Russian Fed., Seychelles, South Africa, Sri Lanka, Suriname, Uruguay or Zambia, and the certificate must state they received:  
+- the first vaccine dose of Janssen at least 28 days before arrival; or  
+- the second vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival; or  
+- the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and a proof of previous infection with COVID-19.  
+More exemptions can be found at [https://tinyurl.com/4wtws28x](https://tinyurl.com/4wtws28x)
 
 # Puerto Rico
 ### 01.06.2021
@@ -3267,33 +3364,33 @@ This does not apply to:
 5. Passengers arriving from Brazil are subject to quarantine for 7 days.
 
 # Qatar
-### 14.07.2021
+### 15.07.2021
 1. Passengers are not allowed to enter Qatar.  
 - This does not apply to:  
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;  
-- passengers with a permanent residence permit issued by Qatar;  
-- passengers with a residence permit issued by Qatar. They must have an Exceptional Entry Permit;  
+- residents of Qatar;  
 - passengers with a Diplomatic ID issued by the MOFA of Qatar;  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before arrival, and their accompanying minors younger than 12 years. They must not be arriving from Afghanistan, Albania, Andorra, Angola, Argentina, Bahamas, Bangladesh, Belarus, Benin, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Rep., Chad, Chile, Colombia, Congo, Costa Rica, Cuba, Dominican Rep., Ecuador, El Salvador, Eritrea, Fiji, Gabon, Gambia, Georgia, Ghana, Guatemala, Guinea, Guyana, Haiti, Honduras, India, Iran, Iraq, Kazakhstan, Kenya, Kyrgyzstan, Lao People's Dem. Rep., Lebanon, Lesotho, Liberia, Libya, Madagascar, Malawi, Malaysia, Maldives, Mali, Mauritania, Moldova (Rep.), Namibia, Nepal, Nicaragua, Niger, Nigeria, Pakistan, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Russian Fed., Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sri Lanka, St. Kitts and Nevis, St. Vincent and the Grenadines, Sudan, Suriname, Syria, Tajikistan, Tanzania, Togo, Trinidad and Tobago, Tunisia, Turkmenistan, Ukraine, United Kingdom, Uruguay, Uzbekistan, Venezuela, Yemen or Zambia;  
-- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 12 years. They must not be arriving from Afghanistan, Albania, Andorra, Angola, Argentina, Bahamas, Bangladesh, Belarus, Benin, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Rep., Chad, Chile, Colombia, Congo, Costa Rica, Cuba, Dominican Rep., Ecuador, El Salvador, Eritrea, Fiji, Gabon, Gambia, Georgia, Ghana, Guatemala, Guinea, Guyana, Haiti, Honduras, India, Iran, Iraq, Kazakhstan, Kenya, Kyrgyzstan, Lao People's Dem. Rep., Lebanon, Lesotho, Liberia, Libya, Madagascar, Malawi, Malaysia, Maldives, Mali, Mauritania, Moldova (Rep.), Namibia, Nepal, Nicaragua, Niger, Nigeria, Pakistan, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Russian Fed., Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sri Lanka, St. Kitts and Nevis, St. Vincent and the Grenadines, Sudan, Suriname, Syria, Tajikistan, Tanzania, Togo, Trinidad and Tobago, Tunisia, Turkmenistan, Ukraine, United Kingdom, Uruguay, Uzbekistan, Venezuela, Yemen or Zambia;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before arrival;  
+- minors younger than 18 years accompanied by their parents who were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before arrival. They must not be arriving from a red country listed on [https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx](https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx) ;  
+- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates;  
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Sinopharm at least 14 days before arrival.  
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival. The test result must be issued by a testing center approved by the local government.  
 - This does not apply to Umrah passengers arriving from Saudi Arabia.  
 3. Passengers must have a quarantine hotel reservation for 5, 7 or 10 days made at [https://tinyurl.com/yrsr62um](https://tinyurl.com/yrsr62um) . Details can be found at [https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx](https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx) (please click 'Policy Summary').  
 - This does not apply to:  
 - nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before arrival, and their accompanying minors younger than 12 years;  
-- nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 12 years.  
+- nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 12 years.  
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before arrival;  
-- nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 12 years.  
+- nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates.  
 4. Passengers must register at [https://www.ehteraz.gov.qa/](https://www.ehteraz.gov.qa/) at least 12 hours before arrival.  
 - This does not apply to nationals and residents of Qatar.  
 5. Passengers could be subject to home quarantine or quarantine in a hotel for up to 10 days; details can be found at [https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx](https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx)  
 - This does not apply to:  
 - nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before arrival, and their accompanying minors younger than 12 years;  
-- nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 12 years.  
+- nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 12 years.  
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech at least 14 days before arrival;  
-- nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates, and their accompanying minors younger than 12 years.  
-6. Passengers could be subject to a COVID-19 PCR test upon arrival.  
+- nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Moderna or Pfizer-BioNTech at least 14 days before arrival and with a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates.  
+6. Passengers could be subject to a COVID-19 PCR test upon arrival; details can be found at [https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx](https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx)  
 7. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.  
 8. Visa on arrival facilities restarted.
 
@@ -3540,15 +3637,15 @@ Both forms must be sent to [NHEOC\_REPAT@moh.gov.sb](mailto:NHEOC_REPAT@moh.gov.
 4. Expired passports issued by Sweden are accepted if accompanied by a valid national ID card or another valid form of identification document.
 
 # Singapore
-### 12.07.2021
+### 15.07.2021
 1. Passengers are not allowed to enter Singapore.  
 -This does not apply to nationals of Singapore.  
 -This does not apply to permanent residents of Singapore.  
--This does not apply to passengers (except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Long-Term Visit Pass (LTVP) or a Long-Term Visit Pass In-Principle Approval (LTVP IPA). They must have an Approval Letter for Entry (ALE) issued by the Safe Travel Office (STO) or the Immigration & Checkpoints Authority (ICA).  
--This does not apply to passengers (except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Work Pass, Long-Term Visit Pass (LTVP), Dependant's Pass, or the respective In-Principle Approval (IPA) issued by the Ministry of Manpower (MOM). They must have an approval letter from the Ministry of Manpower (MOM) or the Immigration & Checkpoints Authority (ICA);Safe Travel Office (STO). The following applies to passengers with the above mentioned passes issued by the Ministry of Manpower (MOM), with an approval letter from the Ministry of Manpower (MOM) or the Safe Travel Office (STO) with travel history to higher risk countries/regions in the past 21 days prior to departure for Singapore (please refer to [https://safetravel.ica.gov.sg/wphl/overview](https://safetravel.ica.gov.sg/wphl/overview) for the higher risk countries/regions): for approval letters dated before 25 May 2021, 0000hrs, airlines must check that they are valid, either by (a) using the passenger’s Foreign Identification Number (FIN), on the SafeTravel website’s “Check Application Status" page at [https://eservices.ica.gov.sg/STO/safeTravel/enquiry](https://eservices.ica.gov.sg/STO/safeTravel/enquiry), or (b) check that the passenger has an email from the Ministry of Manpower (MOM) with the reference “CMP Approved to Enter", indicating that they are allowed to enter Singapore with their existing approval letter. Airlines do not need to do so for passengers with an approval letter from the Ministry of Manpower (MOM) dated on or after 25 May 2021, 0000hrs.  
--This does not apply to passengers (except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Student's Pass (STP) or a Student's Pass In-Principle Approval (STP IPA). They must have an Approval Letter for Entry (ALE) issued by the Ministry of Education (MOE) or the Safe Travel Office (STO).  
--This does not apply to passengers (except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with an approval letter from the Safe Travel Office (STO), Ministry of Foreign Affairs (MFA), Ministry of Education (MOE), Ministry of Health (MOH), or Ministry of Trade and Industry (MTI).  
--This does not apply to passengers (except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Business Travel Pass (BTP) or a Pre-Approved Business Pass (PBP).  
+-This does not apply to passengers (except those with travel history to Bangladesh, India, Myanmar, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Long-Term Visit Pass (LTVP) or a Long-Term Visit Pass In-Principle Approval (LTVP IPA). They must have an Approval Letter for Entry (ALE) issued by the Safe Travel Office (STO) or the Immigration & Checkpoints Authority (ICA).  
+-This does not apply to passengers (except those with travel history to Bangladesh, India, Myanmar, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Work Pass, Long-Term Visit Pass (LTVP), Dependant's Pass, or the respective In-Principle Approval (IPA) issued by the Ministry of Manpower (MOM). They must have an approval letter from the Ministry of Manpower (MOM) or the Immigration & Checkpoints Authority (ICA);Safe Travel Office (STO). The following applies to passengers with the above mentioned passes issued by the Ministry of Manpower (MOM), with an approval letter from the Ministry of Manpower (MOM) or the Safe Travel Office (STO) with travel history to higher risk countries/regions in the past 21 days prior to departure for Singapore (please refer to [https://safetravel.ica.gov.sg/wphl/overview](https://safetravel.ica.gov.sg/wphl/overview) for the higher risk countries/regions): for approval letters dated before 25 May 2021, 0000hrs, airlines must check that they are valid, either by (a) using the passenger’s Foreign Identification Number (FIN), on the SafeTravel website’s “Check Application Status" page at [https://eservices.ica.gov.sg/STO/safeTravel/enquiry](https://eservices.ica.gov.sg/STO/safeTravel/enquiry), or (b) check that the passenger has an email from the Ministry of Manpower (MOM) with the reference “CMP Approved to Enter", indicating that they are allowed to enter Singapore with their existing approval letter. Airlines do not need to do so for passengers with an approval letter from the Ministry of Manpower (MOM) dated on or after 25 May 2021, 0000hrs.  
+-This does not apply to passengers (except those with travel history to Bangladesh, India, Myanmar, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Student's Pass (STP) or a Student's Pass In-Principle Approval (STP IPA). They must have an Approval Letter for Entry (ALE) issued by the Ministry of Education (MOE) or the Safe Travel Office (STO).  
+-This does not apply to passengers (except those with travel history to Bangladesh, India, Myanmar, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with an approval letter from the Safe Travel Office (STO), Ministry of Foreign Affairs (MFA), Ministry of Education (MOE), Ministry of Health (MOH), or Ministry of Trade and Industry (MTI).  
+-This does not apply to passengers (except those with travel history to Bangladesh, India, Myanmar, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore) with a Business Travel Pass (BTP) or a Pre-Approved Business Pass (PBP).  
 -This does not apply to passengers with an Air Travel Pass approval letter issued by Singapore if they:  
 - have stayed in Brunei Darussalam, China (People's Rep.) or New Zealand in the last 21 days before departure; and  
 - have a visa to enter Singapore (if they are a visa-required short-term visitor).  
@@ -3579,13 +3676,13 @@ Both forms must be sent to [NHEOC\_REPAT@moh.gov.sb](mailto:NHEOC_REPAT@moh.gov.
 - This does not apply to passengers who are younger than 6 years.  
 5. Passengers are not allowed to transit Singapore.  
 - This does not apply when traveling on airlines with transfer routes approved by the Civil Aviation Authority of Singapore (CAAS). Passengers must check with airlines if the airlines have the Civil Aviation Authority of Singapore (CAAS)'s approval, before purchasing tickets.  
-- Passengers with travel history to Bangladesh, India, Indonesia, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore are not allowed to transit.  
+- Passengers with travel history to Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan or Sri Lanka within the past 21 days prior to departure for Singapore are not allowed to transit.  
 6. Passengers must comply with the prevailing Singapore government requirements upon entry into Singapore. Passengers could be subject to quarantine. Please refer to [https://safetravel.ica.gov.sg](https://safetravel.ica.gov.sg/)  
 7. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. Passengers should register and pre-pay for their on-arrival COVID-19 PCR test prior to departing for Singapore at [https://safetravel.changiairport.com](https://safetravel.changiairport.com/)  
 - This does not apply to:  
 - passengers who are 6 years or younger;  
 - merchant seamen.  
-8. Passengers who have been in Bangladesh, India, Indonesia, Nepal, Pakistan and Sri Lanka in the past 21 days are also subject to a COVID-19 rapid antigen test upon arrival.  
+8. Passengers who have been in Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan and Sri Lanka in the past 21 days are also subject to a COVID-19 rapid antigen test upon arrival.  
 9. Passengers must submit a health declaration before arrival via the SG Arrival Card (SGAC) e-Service ([https://eservices.ica.gov.sg/sgarrivalcard](https://eservices.ica.gov.sg/sgarrivalcard)) or via the mobile application.  
 - This does not apply to passengers in transit.
 
@@ -3642,22 +3739,66 @@ Tests accepted can be found at [https://ec.europa.eu/health/sites/default/files/
 - This does not apply to passengers younger than 5 years.
 
 # San Marino
-### 03.06.2020
-1. Passengers are not allowed to enter  
+### 12.07.2021
+1. Until 30 July 2021, passengers are not allowed to enter.  
 - This does not apply to:  
-- nationals or residents of Italy;  
+- nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);  
+- passengers with a long-term residence permit or a long term "D" visa issued by Switzerland or an EEA Member State;  
+- family members of nationals and residents of Switzerland or an EEA Member State;  
+- passenger with proof of being unmarried partners of residents of Italy;  
+- passengers who in the past 14 days have only been to or transited through Andorra, Austria, Australia, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France (including Guadeloupe, Martinique, Guyana, Reunion and Mayotte), Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Japan, Korea Rep., Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Rwanda, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, United Kingdom or USA;  
 - passengers traveling on business;  
-- passengers traveling for urgent health reasons;  
-- healthcare personnel traveling on duty;  
-- passengers traveling for emergency reasons;  
 - passengers returning via Italy to their country of residence;  
-- passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.  
-2. Residence permits issued by Italy which have expired between 31 January and 31 July 2020, are considered valid until 31 August 2020.  
-3. Passengers must present a completed self-declaration form to the transporting carrier and must communicate their entry to the Department of Prevention at local health units (ASL) of the entrance district.  
-- This does not apply to passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.  
-4. Passengers are subject to quarantine for 14 days.  
-- This does not apply to passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.  
-- This does not apply to passengers traveling on business if their stay in Italy does not exceed 72 hours and if granted, the additional 48 hours of a justified extension for specific needs.
+- students;  
+- military personnel.  
+2. Until 30 July 2021, passengers who have been in or transited through Brazil in the past 14 days are not allowed to enter and transit.  
+- This does not apply to:  
+- passengers residing in Italy since before 13 February 2021;  
+- parents of children younger than 18 years who are residing in Italy;  
+- military personnel.  
+3. Until 30 July 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.  
+- This does not apply to:  
+- nationals of Italy residing in Italy since before 29 April 2021;  
+- nationals of Italy registered with the A.I.R.E.  
+4. Passengers must complete a Digital Passenger Locator Form at [https://app.euplf.eu/](https://app.euplf.eu/) .  
+5. Passengers arriving in Puglia must present a completed health declaration form upon arrival. The form can be obtained at [https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus](https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus) .  
+6. Until 30 July 2021, passengers must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish.  
+- This does not apply to:  
+- passengers arriving from Andorra, Austria, Bangladesh, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies, Germany, Gibraltar, Greece, Hungary, Iceland, India, Ireland, Israel, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, San Marino, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Kingdom or Vatican City (Holy See);  
+- military personnel;  
+- passengers younger than 6 years;  
+- more exemptions can be found at [http://tinyurl.com/294etdv7](http://tinyurl.com/294etdv7) .  
+7. Until 30 July 2021, passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies, Germany, Greece, Hungary, Iceland, Ireland, Israel, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland must have:  
+- a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival; or  
+- a COVID-19 recovery certificate; or  
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.  
+All documents must be in English, French, Italian or Spanish.  
+All documents for passengers arriving from Israel must be issued by Israel.  
+- This does not apply to:  
+- military personnel;  
+- passengers younger than 6 years;  
+- more exemptions can be found at [http://tinyurl.com/294etdv7](http://tinyurl.com/294etdv7) .  
+8. Until 30 July 2021, passengers arriving from Canada, Japan or USA must have:  
+- a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival; or  
+- a COVID-19 recovery certificate; or  
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.  
+All documents must be in English, French, Italian or Spanish, and be issued by the country they are arriving from.  
+- This does not apply to:  
+- military personnel;  
+- passengers younger than 6 years;  
+- more exemptions can be found at [http://tinyurl.com/294etdv7](http://tinyurl.com/294etdv7) .  
+9. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to:  
+- a COVID-19 antigen or molecular test upon arrival; and  
+- quarantine in a hotel for 10 days; and  
+- another COVID-19 antigen or molecular test at the end of quarantine.  
+- This does not apply to passengers younger than 6 years.  
+10. Passengers who have been in or transited through Gibraltar or United Kingdom in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to self-isolation for 5 days and a COVID-19 antigen or molecular test at the end of the self-isolation.  
+- This does not apply to passengers younger than 6 years.  
+11. Passengers who have been in or transited through Brazil in the past 14 days are subject to a COVID-19 antigen or molecular test upon arrival.  
+- This does not apply to passengers younger than 6 years.  
+12. Passengers could be subject to self-isolation for 10 days and to a COVID-19 antigen or molecular test at the end of self-isolation. More details can be found at [https://infocovid.viaggiaresicuri.it/index\_en.html](https://infocovid.viaggiaresicuri.it/index_en.html) .  
+13. Passengers arriving in Sicily who in the past 14 days have been in or transited through Portugal or Spain are subject to a COVID-19 test upon arrival.  
+14. Residence permits issued by Italy which expired after 31 January 2020 are considered valid until 31 July 2021.
 
 # Senegal
 ### 11.12.2020
@@ -4028,7 +4169,7 @@ This does not apply to:
 -This does not apply to emergency passports which must be valid on arrival.
 
 # Uruguay
-### 22.06.2021
+### 15.07.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of Uruguay;  
@@ -4041,14 +4182,11 @@ This does not apply to:
 - passengers younger than 6 years;  
 - passengers with a letter issued by a consulate of Uruguay stating that the passenger is exempt from the Coronavirus (COVID-19) PCR test requirement before departure. The passenger is subject to a PCR test upon arrival.  
 5. Airline crew without a negative COVID-19 PCR test result issued at most 72 hours before departure are subject to self-isolation.  
-6. Passengers could be subject to quarantine. More details can be found at [https://tinyurl.com/5fhdm4sw](https://tinyurl.com/5fhdm4sw)  
-This does not apply to:  
-- passengers with a positive COVID-19 antigen or RT-PCR test taken at least 20 days and at most 90 days before departure;  
-- passengers with a COVID-19 vaccination certificate stating that they were fully vaccinated at least 14 days and at most 6 months before arrival.  
+6. Passengers could be subject to quarantine for up to 14 days; more details can be found at [https://www.impo.com.uy/bases/decretos-originales/200-2021](https://www.impo.com.uy/bases/decretos-originales/200-2021)  
 7. Passengers and airline crew must have health insurance.  
 - This does not apply to nationals and residents of Uruguay.  
 8. Passengers and airline crew are subject to medical screening.  
-9. A completed "Declaracion de Salud" must be presented to upon arrival. The form can be submitted online before departure at [https://declaracion-viajero.coronavirus.gub.uy/controlfronterizoFront/servlet/com.controlfronterizofrontend.home](https://declaracion-viajero.coronavirus.gub.uy/controlfronterizoFront/servlet/com.controlfronterizofrontend.home) or at the "Coronavirus UY" app.  
+9. A completed "Declaracion de Salud" must be presented to upon arrival. The form can be found at [https://tinyurl.com/4vkr57dp](https://tinyurl.com/4vkr57dp) or at the "Coronavirus UY" app.  
 10. A completed "Formulario de Frontera" must be presented to upon arrival.
 
 # Uzbekistan
@@ -4057,22 +4195,66 @@ Passengers must have a negative COVID-19 PCR test result. The test must have bee
 - This does not apply to passengers younger than 2 years.
 
 # Holy See
-### 03.06.2020
-1. Passengers are not allowed to enter  
+### 12.07.2021
+1. Until 30 July 2021, passengers are not allowed to enter.  
 - This does not apply to:  
-- nationals or residents of Italy;  
+- nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Lichtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);  
+- passengers with a long-term residence permit or a long term "D" visa issued by Switzerland or an EEA Member State;  
+- family members of nationals and residents of Switzerland or an EEA Member State;  
+- passenger with proof of being unmarried partners of residents of Italy;  
+- passengers who in the past 14 days have only been to or transited through Andorra, Austria, Australia, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France (including Guadeloupe, Martinique, Guyana, Reunion and Mayotte), Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Japan, Korea Rep., Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Rwanda, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand, United Kingdom or USA;  
 - passengers traveling on business;  
-- passengers traveling for urgent health reasons;  
-- healthcare personnel traveling on duty;  
-- passengers traveling for emergency reasons;  
 - passengers returning via Italy to their country of residence;  
-- passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.  
-2. Residence permits issued by Italy which have expired between 31 January and 31 July 2020, are considered valid until 31 August 2020.  
-3. Passengers must present a completed self-declaration form to the transporting carrier and must communicate their entry to the Department of Prevention at local health units (ASL) of the entrance district.  
-- This does not apply to passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.  
-4. Passengers are subject to quarantine for 14 days.  
-- This does not apply to passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom.  
-- This does not apply to passengers traveling on business if their stay in Italy does not exceed 72 hours and if granted, the additional 48 hours of a justified extension for specific needs.
+- students;  
+- military personnel.  
+2. Until 30 July 2021, passengers who have been in or transited through Brazil in the past 14 days are not allowed to enter and transit.  
+- This does not apply to:  
+- passengers residing in Italy since before 13 February 2021;  
+- parents of children younger than 18 years who are residing in Italy;  
+- military personnel.  
+3. Until 30 July 2021, passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days are not allowed to enter and transit.  
+- This does not apply to:  
+- nationals of Italy residing in Italy since before 29 April 2021;  
+- nationals of Italy registered with the A.I.R.E.  
+4. Passengers must complete a Digital Passenger Locator Form at [https://app.euplf.eu/](https://app.euplf.eu/) .  
+5. Passengers arriving in Puglia must present a completed health declaration form upon arrival. The form can be obtained at [https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus](https://www.sanita.puglia.it/web/pugliasalute/autosegnalazione-coronavirus) .  
+6. Until 30 July 2021, passengers must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish.  
+- This does not apply to:  
+- passengers arriving from Andorra, Austria, Bangladesh, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies, Germany, Gibraltar, Greece, Hungary, Iceland, India, Ireland, Israel, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, San Marino, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Kingdom or Vatican City (Holy See);  
+- military personnel;  
+- passengers younger than 6 years;  
+- more exemptions can be found at [http://tinyurl.com/294etdv7](http://tinyurl.com/294etdv7) .  
+7. Until 30 July 2021, passengers arriving from Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, French Guiana, French West Indies, Germany, Greece, Hungary, Iceland, Ireland, Israel, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mayotte, Monaco, Netherlands, Norway, Poland, Portugal, Reunion, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland must have:  
+- a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival; or  
+- a COVID-19 recovery certificate; or  
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.  
+All documents must be in English, French, Italian or Spanish.  
+All documents for passengers arriving from Israel must be issued by Israel.  
+- This does not apply to:  
+- military personnel;  
+- passengers younger than 6 years;  
+- more exemptions can be found at [http://tinyurl.com/294etdv7](http://tinyurl.com/294etdv7) .  
+8. Until 30 July 2021, passengers arriving from Canada, Japan or USA must have:  
+- a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival; or  
+- a COVID-19 recovery certificate; or  
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech.  
+All documents must be in English, French, Italian or Spanish, and be issued by the country they are arriving from.  
+- This does not apply to:  
+- military personnel;  
+- passengers younger than 6 years;  
+- more exemptions can be found at [http://tinyurl.com/294etdv7](http://tinyurl.com/294etdv7) .  
+9. Passengers who have been in or transited through Bangladesh, India or Sri Lanka in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 72 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to:  
+- a COVID-19 antigen or molecular test upon arrival; and  
+- quarantine in a hotel for 10 days; and  
+- another COVID-19 antigen or molecular test at the end of quarantine.  
+- This does not apply to passengers younger than 6 years.  
+10. Passengers who have been in or transited through Gibraltar or United Kingdom in the past 14 days must have a negative COVID-19 antigen or molecular test taken at most 48 hours before arrival. The test result must be in English, French, Italian or Spanish. They are also subject to self-isolation for 5 days and a COVID-19 antigen or molecular test at the end of the self-isolation.  
+- This does not apply to passengers younger than 6 years.  
+11. Passengers who have been in or transited through Brazil in the past 14 days are subject to a COVID-19 antigen or molecular test upon arrival.  
+- This does not apply to passengers younger than 6 years.  
+12. Passengers could be subject to self-isolation for 10 days and to a COVID-19 antigen or molecular test at the end of self-isolation. More details can be found at [https://infocovid.viaggiaresicuri.it/index\_en.html](https://infocovid.viaggiaresicuri.it/index_en.html) .  
+13. Passengers arriving in Sicily who in the past 14 days have been in or transited through Portugal or Spain are subject to a COVID-19 test upon arrival.  
+14. Residence permits issued by Italy which expired after 31 January 2020 are considered valid until 31 July 2021.
 
 # Saint Vincent and the Grenadines
 ### 30.04.2021
@@ -4155,8 +4337,18 @@ This does not apply to:
 7. Airline crew are subject to medical screening upon arrival and quarantine.
 
 # Wallis and Futuna
-### 01.04.2020
-Flights to New Caledonia are suspended.
+### 06.07.2021
+1. Passengers are not allowed to enter.  
+- This does not apply to:  
+- passengers arriving from Wallis and Futuna Isl.;  
+- residents of New Caledonia, their spouses and children. They must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at [https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Deplacements-entre-la-metropole-et-les-territoires-d-Outre-Mer](https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Deplacements-entre-la-metropole-et-les-territoires-d-Outre-Mer);  
+- residents of Wallis and Futuna Isl. who are nationals of France. They must present a completed Travel Certificate before boarding and to immigration upon arrival obtained at [https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Deplacements-entre-la-metropole-et-les-territoires-d-Outre-Mer](https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Deplacements-entre-la-metropole-et-les-territoires-d-Outre-Mer)  
+2. Passengers must have a medical certificate with a negative Coronavirus (COVID-19) molecular test result. The test must have been taken at most 72 hours before departure from the first embarkation point.  
+- This does not apply to passengers younger than 11 years.  
+3. Passengers traveling to Noumea (NOU) must register before departure at [https://tinyurl.com/4t5hl4zv](https://tinyurl.com/4t5hl4zv).  
+4. Passengers traveling to Wallis Isl. (WLS) and Futuna Isl. (FUT) must register with the Authorities before departure at [cov@wallis-et-futuna.pref.gouv.fr](mailto:cov@wallis-et-futuna.pref.gouv.fr).  
+5. Passengers are subject to quarantine for 7 or 14 days.  
+6. Airline crew are subject to medical screening.
 
 # Samoa
 ### 03.05.2021
