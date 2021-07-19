@@ -971,7 +971,7 @@ This does not apply to:
 6. Passengers could be subject to a COVID-19 test upon arrival and quarantine.
 
 # Germany
-### 11.07.2021
+### 18.07.2021
 1. Passengers are not allowed to enter.  
 1.1. This does not apply to:  
 - nationals and residents of Germany;  
@@ -1015,7 +1015,7 @@ The test result must be in English, French, German, Italian or Spanish.
 - a negative COVID-19 antigen test taken at most 24 hours before arrival; or  
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.  
 The test result must be in English, French, German, Italian or Spanish.  
-6. Airline crew entering Germany from Argentina, Bolivia, Chile, Colombia, Costa Rica, Cyprus, Ecuador, Egypt, Fiji, India, Iran, Kuwait, Malaysia, Maldives, Mongolia, Nepal, Portugal, Russian Fed., Oman, Paraguay, Peru, Seychelles, Sri Lanka, Sudan, Suriname, Syria, Tanzania, Tunisia or United Kingdom must have:  
+6. Airline crew entering Germany from Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Cyprus, Ecuador, Egypt, Fiji, India, Indonesia, Iran, Kuwait, Libya, Malaysia, Mongolia, Nepal, Portugal, Russian Fed., Oman, Paraguay, Peru, Seychelles, Sudan, Suriname, Syria, Tanzania, Tunisia or United Kingdom must have:  
 - a negative COVID-19 antigen test taken at most 48 hours before arrival; or  
 - a negative COVID-19 PCR, RT-LAMP or TMA test taken at most 72 hours before arrival.  
 The test result must be in English, French, German, Italian or Spanish.  
@@ -1040,19 +1040,19 @@ The test result must be in English, French, German, Italian or Spanish.
 - This does not apply to passengers younger than 12 years.
 
 # Denmark
-### 16.07.2021
+### 18.07.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals or residents of Denmark;  
-- residents of Albania, Armenia, Australia, Austria, Azerbaijan, Belgium, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Moldova (Rep.), Montenegro, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Qatar, Romania, Rwanda, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Thailand and USA;  
+- residents of Albania, Armenia, Australia, Austria, Azerbaijan, Belgium, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Czechia, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Moldova (Rep.), Montenegro, Netherlands, New Zealand, North Macedonia (Rep.), Norway, Poland, Portugal, Qatar, Romania, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine and USA;  
 - spouses, partners, parents, children, fiances, sisters, brothers or grandparents of a person residing in Denmark. They must present proof confirming their relationship;  
 - boyfriends or girlfriends of a person residing in Denmark. They must present a printed 'Solemn declaration on relationship for use in connection with entry';  
 - passengers with a diplomatic passport;  
 - spouses, partners, children or stepchildren of a person with a diplomatic passport;  
 - merchant seamen;  
-- residents of Andorra, Canada, Chile, Colombia, Mexico, Monaco, San Marino, Turkey, United Kingdom and Vatican City (Holy See) with a COVID-19 vaccination certificate issued in their country of residence. The certificate must show that they were fully vaccinated at least 2 weeks and at most 12 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Argentina, Bangladesh, Botswana, Brazil, Chile, Colombia, Costa Rica, Eswatini, French Guiana, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Panama, Paraguay, Russian Fed., South Africa, Suriname, Uruguay, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
+- residents of Andorra, Canada, Chile, Colombia, Mexico, Monaco, San Marino, Turkey, United Kingdom and Vatican City (Holy See) with a COVID-19 vaccination certificate issued in their country of residence. The certificate must show that they were fully vaccinated at least 2 weeks and at most 12 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Argentina, Botswana, Colombia, Costa Rica, Cuba, Eswatini, Iran, Lesotho, Libya, Malawi, Malaysia, Mozambique, Namibia, Panama, Russian Fed., South Africa, Suriname, Tunisia, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
 - more exemptions can be found at [https://tinyurl.com/rwd9tb](https://tinyurl.com/rwd9tb) .  
-2. Passengers entering Denmark from a country other than Argentina, Bangladesh, Botswana, Brazil, Chile, Colombia, Costa Rica, Eswatini, French Guiana, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Panama, Paraguay, Russian Fed., South Africa, Suriname, United Kingdom, Uruguay, Zambia or Zimbabwe must have:  
+2. Passengers entering Denmark from a country other than Argentina, Botswana, Colombia, Costa Rica, Cuba, Eswatini, Iran, Lesotho, Libya, Malawi, Malaysia, Mozambique, Namibia, Panama, Russian Fed., South Africa, Suriname, Tunisia, United Kingdom, Zambia or Zimbabwe must have:  
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or  
 - a negative COVID-19 antigen test taken at most 48 hours before arrival.  
 The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at [https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark](https://en.coronasmitte.dk/rules-and-regulations/entry-into-denmark) .  
@@ -1063,7 +1063,7 @@ The test result must be in Danish, English, French, German, Icelandic, Italian, 
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 months before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;  
 - passengers with an EU Digital COVID Certificate showing that they were fully vaccinated at least 2 weeks and at most 12 months before departure;  
 - passengers with a COVID-19 vaccination certificate residing in Albania, Andorra, Australia, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Switzerland, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must show that they were fully vaccinated at least 2 weeks and at most 12 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) .  
-3. Passengers entering or transiting through Denmark from Argentina, Bangladesh, Botswana, Brazil, Chile, Colombia, Costa Rica, Eswatini, French Guiana, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Panama, Paraguay, Russian Fed., South Africa, Suriname, United Kingdom, Uruguay, Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Denmark. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at [https://tinyurl.com/4uu3pjwh](https://tinyurl.com/4uu3pjwh) .  
+3. Passengers entering or transiting through Denmark from Argentina, Botswana, Colombia, Costa Rica, Cuba, Eswatini, Iran, Lesotho, Libya, Malawi, Malaysia, Mozambique, Namibia, Panama, Russian Fed., South Africa, Suriname, Tunisia, United Kingdom, Zambia or Zimbabwe must have a negative COVID-19 PCR test taken at most 72 hours before departure of the last direct flight to Denmark. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish. Details can be found at [https://tinyurl.com/4uu3pjwh](https://tinyurl.com/4uu3pjwh) .  
 - This does not apply to:  
 - passengers younger than 16 years;  
 - passengers traveling to Faroe Islands (FAE) or Greenland;  
@@ -1073,10 +1073,10 @@ The test result must be in Danish, English, French, German, Icelandic, Italian, 
 - passengers younger than 16 years;  
 - passengers traveling to Greenland;  
 - passengers with a positive COVID-19 PCR test result issued at least 14 days and at most 12 months before arrival. The test result must be in Danish, English, French, German, Icelandic, Italian, Norwegian, Spanish or Swedish;  
-- passengers with a COVID-19 vaccination certificate issued in Albania, Andorra, Australia, Canada, Chile, Chinse Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Switzerland, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Argentina, Bangladesh, Botswana, Brazil, Chile, Colombia, Costa Rica, Eswatini, French Guiana, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Panama, Paraguay, Russian Fed., South Africa, Suriname, Uruguay, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
+- passengers with a COVID-19 vaccination certificate issued in Albania, Andorra, Australia, Canada, Chile, Chinse Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Switzerland, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) or an EEA Member State. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Argentina, Botswana, Colombia, Costa Rica, Cuba, Eswatini, Iran, Lesotho, Libya, Malawi, Malaysia, Mozambique, Namibia, Panama, Russian Fed., South Africa, Suriname, Tunisia, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) ;  
 - effective 1 August 2021, passengers traveling to Faroe Islands (FAE).  
 5. Passengers could be subject to self-isolation for 10 days. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) .  
-- This does not apply to residents of Albania, Andorra, Australia, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Switzerland, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) and an EEA Member State with a COVID-19 vaccination certificate issued in their country of residence. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Argentina, Bangladesh, Botswana, Brazil, Chile, Colombia, Costa Rica, Eswatini, French Guiana, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Panama, Paraguay, Russian Fed., South Africa, Suriname, Uruguay, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) .  
+- This does not apply to residents of Albania, Andorra, Australia, Canada, Chile, Chinese Taipei, Colombia, Hong Kong (SAR China), Israel, Japan, Korea (Rep.), Lebanon, Macao (SAR China), Mexico, Monaco, New Zealand, North Macedonia (Rep.), Rwanda, San Marino, Serbia, Singapore, Switzerland, Thailand, Turkey, USA, United Kingdom, Vatican City (Holy See) and an EEA Member State with a COVID-19 vaccination certificate issued in their country of residence. The certificate must show that they were fully vaccinated at least 2 weeks and at most 8 months before departure. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTech. They must not arrive from Argentina, Botswana, Colombia, Costa Rica, Cuba, Eswatini, Iran, Lesotho, Libya, Malawi, Malaysia, Mozambique, Namibia, Panama, Russian Fed., South Africa, Suriname, Tunisia, Zambia or Zimbabwe. Details can be found at [https://tinyurl.com/9xbu483d](https://tinyurl.com/9xbu483d) .  
 6. Passengers traveling to Greenland:  
 - must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must be in English or German. Details can be found at [https://visitgreenland.com/corona-faq/](https://visitgreenland.com/corona-faq/) ; and  
 - must have a Personal Location Form (SUMUT) obtained before departure at [https://sumut2020.gl/Instructions/EditInstructions](https://sumut2020.gl/Instructions/EditInstructions) ; and  
@@ -1382,7 +1382,7 @@ This does not apply to:
 - This does not apply to passengers younger than 6 years.
 
 # United Kingdom
-### 06.07.2021
+### 18.07.2021
 1. Passengers who have been in or transited through Afghanistan, Angola, Argentina, Bahrain, Bangladesh, Bolivia, Botswana, Brazil, Burundi, Cape Verde, Chile, Colombia, Congo (Dem. Rep.), Costa Rica, Dominican Rep., Ecuador, Egypt, Eritrea, Eswatini, Ethiopia, French Guiana, Guyana, Haiti, India, Kenya, Lesotho, Malawi, Maldives, Mongolia, Mozambique, Namibia, Nepal, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Qatar, Rwanda, Seychelles, Somalia, South Africa, Sri Lanka, Sudan, Suriname, Tanzania, Trinidad and Tobago, Tunisia, Turkey, Uganda, United Arab Emirates, Uruguay, Venezuela, Zambia or Zimbabwe in the past 10 days are not allowed to enter.  
 This does not apply to:  
 - British nationals;  
@@ -1390,6 +1390,7 @@ This does not apply to:
 - residents of the United Kingdom.  
 2. Passengers arriving from Anguilla, Antigua and Barbuda, Australia, Barbados, Bermuda, Brunei Darussalam, Cayman Isl., Dominica, Falkland Isl., Faroe Isl., Gibraltar, Grenada, Iceland, Israel, Malta, Montserrat, New Zealand, Portugal (only Madeira), Singapore, St. Helena, Spain (only Balearic islands), Turks and Caicos Isl. or Virgin Isl. (British) are subject to a COVID-19 test on day 2 after arrival at their own expense. They must have a payment confirmation obtained at: [https://quarantinehotelbookings.ctmportal.co.uk/](https://quarantinehotelbookings.ctmportal.co.uk/) or [https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals](https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals) .  
 3. Passengers arriving from a country other than Anguilla, Antigua and Barbuda, Australia, Barbados, Bermuda, Brunei Darussalam, Cayman Isl., Dominica, Falkland Isl., Faroe Isl., Gibraltar, Grenada, Iceland, Israel, Malta, Montserrat, New Zealand, Portugal (only Madeira), Singapore, St. Helena, Spain (only Balearic islands), Turks and Caicos Isl. or Virgin Isl. (British) are subject to a COVID-19 test on day 2 and day 8 after arrival at their own expense. They must have a payment confirmation obtained at: [https://quarantinehotelbookings.ctmportal.co.uk/](https://quarantinehotelbookings.ctmportal.co.uk/) or [https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals](https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals) .  
+- Effective 04:00 local time, 19 July 2021, this does not apply to passengers arriving from Bulgaria, Chinese Taipei, Croatia or Hong Kong (SAR China).  
 4. Passengers entering the United Kingdom must complete a "Public Health Passenger Locator Form". The form must include the booking reference number for the required COVID-19 tests or the invoice number for the quarantine hotel booking. The form can be obtained at [https://www.gov.uk/provide-journey-contact-details-before-travel-uk](https://www.gov.uk/provide-journey-contact-details-before-travel-uk) and must be presented at check-in and to immigration upon arrival.  
 - This does not apply to military personnel with an exemption letter from the Ministry of Defence.  
 - More exemptions can be found at [https://tinyurl.com/yytxv2cp](https://tinyurl.com/yytxv2cp) .  
@@ -1420,7 +1421,18 @@ More details can be found at [https://quarantinehotelbookings.ctmportal.co.uk/](
 10. Flights from Ethiopia, Oman, Qatar and United Arab Emirates are suspended.  
 - This does not apply to flights arriving at the South Arrival and Immigration Hall of Birmingham (BHX) or the Terminal 3 of Heathrow (LHR).  
 11. Airline crew not residing in the United Kingdom are subject to self-isolation in a hotel until their next flight.  
-12. Passengers with an Overseas Domestic Worker visa issued by the UK must be accompanied by the sponsor or one of the first degree family members of the sponsor.
+12. Passengers with an Overseas Domestic Worker visa issued by the UK must be accompanied by the sponsor or one of the first degree family members of the sponsor.  
+13. Effective 04:00 local time, 19 July 2021, passengers who have been in or transited through Cuba, Indonesia, Myanmar or Sierra Leone in the past 10 days are not allowed to enter.  
+This does not apply to:  
+- British nationals;  
+- nationals of Ireland (Rep.);  
+- residents of the United Kingdom.  
+14. Effective 04:00 local time, 19 July 2021, passengers arriving in England who have been in or transited through Cuba, Indonesia, Myanmar or Sierra Leone in the past 10 days must:  
+- have a quarantine package for 11 nights; and  
+- arrive at Birmingham (BHX), Farnborough (FAB), Gatwick (LGW), Heathrow (LHR) or London City (LCY).  
+More details can be found at [https://quarantinehotelbookings.ctmportal.co.uk/](https://quarantinehotelbookings.ctmportal.co.uk/) .  
+- This does not apply to military personnel with an exemption letter from the Ministry of Defence.  
+15. Effective 04:00 local time, 19 July 2021, passengers arriving from Bulgaria, Chinese Taipei, Croatia or Hong Kong (SAR China) are subject to a COVID-19 test on day 2 after arrival at their own expense. They must have a payment confirmation obtained at: [https://quarantinehotelbookings.ctmportal.co.uk/](https://quarantinehotelbookings.ctmportal.co.uk/) or [https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals](https://www.gov.uk/guidance/providers-of-day-2-and-day-8-coronavirus-testing-for-international-arrivals) .
 
 # Grenada
 ### 15.07.2021
@@ -2697,7 +2709,7 @@ Passengers arriving from India are subject to self-isolation for 14 days.
 4. Passengers are subject to quarantine for up to 14 days.
 
 # Malta
-### 16.07.2021
+### 18.07.2021
 1. Until 31 August 2021, passengers are not allowed to enter.  
 - This does not apply to:  
 1.1. Nationals and residents of Malta with:  
@@ -2706,14 +2718,16 @@ Passengers arriving from India are subject to self-isolation for 14 days.
    - a COVID-19 vaccination certificate issued by Dubai Health Authority showing that they were fully vaccinated at least 14 days before arrival; or  
    - a COVID-19 vaccination certificate issued in Turkey showing that they were fully vaccinated at least 14 days before arrival; or  
    - a NHS Covid Certificate issued by the United Kingdom showing that they were fully vaccinated; or  
-   - a negative COVID-19 PCR test taken at most 72 hours before arrival.  
+   - a negative COVID-19 PCR test taken at most 72 hours before arrival; or  
+   - effective 19 July 2021, a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival.  
 1.2 Passengers arriving from Andorra, Australia, Austria, Belgium, Bulgaria, Canada, China (People's Rep.), Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Gibraltar, Greece, Hong Kong (SAR China), Guam, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Marshall Isl., Micronesia (Federated States), Monaco, Netherlands, New Zealand, Northern Mariana Isl., Norway, Palau, Poland, Portugal, Puerto Rico, Romania, Samoa, (American), San Marino, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Arab Emirates, USA (only the states of Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana,  Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin and Wyoming), Vatican City (Holy See) or Virgin Isl. (USA). They must have been in one of these countries for at least 14 days before arrival and must have:  
   - a COVID-19 vaccination certificate issued in Malta; or  
   - a COVID-19 vaccination certificate issued in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom showing that they were fully vaccinated; or  
   - a COVID-19 vaccination certificate issued by Dubai Health Authority showing that they were fully vaccinated at least 14 days before arrival; or  
   - a COVID-19 vaccination certificate issued in Turkey showing that they were fully vaccinated at least 14 days before arrival; or  
-  - a  NHS Covid Certificate issued by the United Kingdom showing that they were fully vaccinated;  
-  - a negative COVID-19 PCR test taken at most 72 hours before arrival.  
+  - a  NHS Covid Certificate issued by the United Kingdom showing that they were fully vaccinated; or  
+  - a negative COVID-19 PCR test taken at most 72 hours before arrival; or  
+  - effective 19 July 2021, a COVID-19 vaccination certificate issued in the USA showing that they were fully vaccinated at least 14 days before arrival.  
 1.3. Passengers with a special exemption issued by the Superintendent for Public Health.  
 1.4. Passengers arriving on humanitarian, medevac or repatriation flights.  
 1.5. Merchant Seamen.  
@@ -3171,7 +3185,7 @@ This does not apply to:
 7. Passengers are subject to quarantine for up to 14 days. They must have a hotel booking confirmation.
 
 # Philippines
-### 16.07.2021
+### 18.07.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of the Philippines;  
@@ -3199,7 +3213,8 @@ This does not apply to:
 - passengers with a diplomatic passport and a 9(E) visa.  
 10. Passengers must complete a "Case Investigation Form" and present it upon arrival. The form can be obtained at [https://c19.redcross.org.ph/arriving-passengers](https://c19.redcross.org.ph/arriving-passengers)  
 11. Passengers are subject to quarantine for up to 14 days.  
-12. Passengers must install the app 'TRAZE' on their personal device before departure.
+12. Passengers must install the app 'TRAZE' on their personal device before departure.  
+13. Passengers traveling to Cebu (CEB) must register at most 5 days before departure at [https://mactancebuairport.com/covid-19-registration](https://mactancebuairport.com/covid-19-registration)
 
 # Pakistan
 ### 15.06.2021
