@@ -3,7 +3,7 @@
 Please see Coronavirus (COVID-19) regulations for France or Spain, whichever is transited to enter Andorra.
 
 # United Arab Emirates
-### 06.08.2021
+### 07.08.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of United Arab Emirates;  
@@ -23,8 +23,8 @@ Please see Coronavirus (COVID-19) regulations for France or Spain, whichever is 
 - nationals of United Arab Emirates and their first degree family members;  
 - passengers with a diplomatic or an official passport traveling on duty;  
 - passengers with a golden visa or a silver visa issued by United Arab Emirates;  
-- passengers arriving from India, Nepal, Pakistan, Sri Lanka or Uganda with a residence visa issued by United Arab Emirates and with a COVID-19 vaccination certificate issued in United Arab Emirates showing that they were fully vaccinated at least 14 days before departure. They must have a negative COVID-19 rapid test before departure. They must have an approval from [https://smart.gdrfad.gov.ae/Smart\_OTCServicesPortal/ReturnPermitService.aspx](https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx) (for Dubai) or [https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals](https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals) (except Dubai);   
-- students studying in United Arab Emirates and arriving from India, Nepal, Pakistan, Sri Lanka or Uganda. They must have a negative COVID-19 rapid test before departure. They must have an approval from [https://smart.gdrfad.gov.ae/Smart\_OTCServicesPortal/ReturnPermitService.aspx](https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx) (for Dubai) or [https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals](https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals) (except Dubai);  
+- passengers arriving from India, Nepal, Pakistan, Sri Lanka or Uganda with a residence visa issued by United Arab Emirates and with a COVID-19 vaccination certificate issued in United Arab Emirates showing that they were fully vaccinated at least 14 days before departure. They must have a negative COVID-19 rapid PCR test taken at most 4 hours before departure (except passengers younger than 12 years and passengers with disabilities). They must have an approval from [https://smart.gdrfad.gov.ae/Smart\_OTCServicesPortal/ReturnPermitService.aspx](https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx) (for Dubai) or [https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals](https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals) (except Dubai);   
+- students studying in United Arab Emirates and arriving from India, Nepal, Pakistan, Sri Lanka or Uganda. They must have a negative COVID-19 rapid PCR test taken at most 4 hours before departure (except passengers younger than 12 years and passengers with disabilities). They must have an approval from [https://smart.gdrfad.gov.ae/Smart\_OTCServicesPortal/ReturnPermitService.aspx](https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx) (for Dubai) or [https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals](https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals) (except Dubai);  
 - more exemptions can be found at [https://www.gcaa.gov.ae/en/ePublication/Pages/PdfContent.aspx?d\_=4984](https://www.gcaa.gov.ae/en/ePublication/Pages/PdfContent.aspx?d_=4984) .  
 3. Passengers who in the past 14 days have been in Afghanistan or Indonesia are not allowed to enter.  
 - This does not apply to:  
@@ -35,8 +35,8 @@ Please see Coronavirus (COVID-19) regulations for France or Spain, whichever is 
 - This does not apply to:  
 - nationals of United Arab Emirates;  
 - passengers with a diplomatic passport traveling on duty with an official letter from the MOFA of United Arab Emirates;  
-- passengers arriving from Nigeria with a residence visa issued by United Arab Emirates and with a COVID-19 vaccination certificate issued in United Arab Emirates showing that they were fully vaccinated at least 14 days before departure. They must have a negative COVID-19 rapid test before departure. They must have an approval  from [https://smart.gdrfad.gov.ae/Smart\_OTCServicesPortal/ReturnPermitService.aspx](https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx) (for Dubai) or [https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals](https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals) (except Dubai);  
-- students studying in United Arab Emirates and arriving from Nigeria. They must have a negative COVID-19 rapid test before departure. They must have an approval from [https://smart.gdrfad.gov.ae/Smart\_OTCServicesPortal/ReturnPermitService.aspx](https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx) (for Dubai) or [https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals](https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals) (except Dubai);  
+- passengers arriving from Nigeria with a residence visa issued by United Arab Emirates and with a COVID-19 vaccination certificate issued in United Arab Emirates showing that they were fully vaccinated at least 14 days before departure. They must have a negative COVID-19 rapid PCR test taken at most 4 hours before departure (except passengers younger than 12 years and passengers with disabilities). They must have an approval  from [https://smart.gdrfad.gov.ae/Smart\_OTCServicesPortal/ReturnPermitService.aspx](https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx) (for Dubai) or [https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals](https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals) (except Dubai);  
+- students studying in United Arab Emirates and arriving from Nigeria. They must have a negative COVID-19 rapid PCR test taken at most 4 hours before departure (except passengers younger than 12 years and passengers with disabilities). They must have an approval from [https://smart.gdrfad.gov.ae/Smart\_OTCServicesPortal/ReturnPermitService.aspx](https://smart.gdrfad.gov.ae/Smart_OTCServicesPortal/ReturnPermitService.aspx) (for Dubai) or [https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals](https://smartservices.ica.gov.ae/echannels/web/client/guest/index.html#/registerArrivals) (except Dubai);  
 - more exemptions can be found at [https://www.gcaa.gov.ae/en/ePublication/Pages/PdfContent.aspx?d\_=4984](https://www.gcaa.gov.ae/en/ePublication/Pages/PdfContent.aspx?d_=4984) .  
 5. Passengers arriving at Dubai (DXB):  
 - are subject to medical screening, and  
@@ -885,34 +885,34 @@ A "Check Mig" form must be submitted at most 24 hours before departure at [https
 10. Nationals of Cuba traveling to Cayo Coco (CCC) or Varadero (VRA) must have a reservation for a tourist arrangement that includes a period of self-isolation for 14 nights.
 
 # Cabo Verde
-### 04.08.2021
+### 07.08.2021
 1. Passengers and airline crew must have:  
 - a negative COVID-19 antigen or RT-PCR test taken at most 72 hours before departure from the first embarkation point; or  
 - a COVID-19 vaccination certificate showing that they were fully vaccinated. The certificate must show that they received:  
 - the first vaccine dose of Janssen at least 28 days before arrival; or  
 - the second dose of AstraZeneca, Moderna, Pfizer, Sinopharm, Sinovac or Sputnik V at least 14 days before arrival; or  
 - a COVID-19 recovery certificate issued at least 14 days and at most 90 days before arrival.  
-- This does not apply to passengers younger than 7 years.  
+- This does not apply to passengers younger than 12 years.  
 2. Passengers are subject to medical screening.
 
 # Curaçao
-### 06.08.2802
+### 07.08.2802
 1  
 1. Passengers must present a "Digital Immigration Card" and a "Public Health Passenger Locator Card (PLC)" obtained at [https://dicardcuracao.com/portal](https://dicardcuracao.com/portal) . The forms must be completed at most 48 hours before departure.  
 2. Passengers arriving from Cuba, Martinique, Netherlands, Spain, United Kingdom, Virgin Isl. (British) or Venezuela, must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test results must be uploaded at [https://dicardcuracao.com/portal](https://dicardcuracao.com/portal)  
 - This does not apply to:  
-- passengers younger than 16 years without COVID-19 symptoms;  
+- passengers younger than 12 years without COVID-19 symptoms;  
 - passengers departing on the same calendar day.  
 3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure; or  
 - a negative COVID-19 antigen test taken at most 24 hours before departure. Test results must be uploaded at [https://dicardcuracao.com/portal](https://dicardcuracao.com/portal)  
 - This does not apply to:  
-- passengers who reside in Aruba, Bonaire and Curacao ,with a COVID-19 vaccination certificate issued in Aruba, Bonaire or Curacao, showing that they were fully vaccinated at least 14 days before arrival;  
+- passengers who reside in Aruba, Bonaire, St. Eustatius and Saba, Curacao and St. Maarten ,with a COVID-19 vaccination certificate issued in Aruba, Bonaire, St. Eustatius and Saba, Curacao and St. Maarten, showing that they were fully vaccinated at least 14 days before arrival;  
 - passengers arriving from Cuba, Martinique, Netherlands, Spain, United Kingdom, Virgin Isl. (British) or Venezuela  
-- passengers arriving on direct flights Anguilla, Antigua and Barbuda, Bermuda, Canada, China (People’s Rep.), Chinese Taipei, Dominica, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Romania, Saba, St Barthelemy or St Eustatius.  
-- passengers arriving from Anguilla, Antigua and Barbuda, Bermuda, Canada, China (People’s Rep.), Chinese Taipei, Dominica, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Romania, Saba, St Barthelemy or St Eustatius and transiting within 24 hours through a country other than Anguilla, Antigua and Barbuda, Bermuda, Canada, China (People’s Rep.), Chinese Taipei, Dominica, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Romania, Saba, St Barthelemy or St Eustatius;  
+- passengers arriving on direct flights Anguilla, Antigua and Barbuda, Bermuda, Canada, China (People's Rep.), Chinese Taipei, Dominica, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Romania, Saba, St Barthelemy or St Eustatius.  
+- passengers arriving from Anguilla, Antigua and Barbuda, Bermuda, Canada, China (People's Rep.), Chinese Taipei, Dominica, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Romania, Saba, St Barthelemy or St Eustatius and transiting within 24 hours through a country other than Anguilla, Antigua and Barbuda, Bermuda, Canada, China (People's Rep.), Chinese Taipei, Dominica, Grenada, Hong Kong (SAR China), Hungary, Montserrat, New Zealand, Poland, Romania, Saba, St Barthelemy or St Eustatius;  
 - passengers with a negative COVID-19 antigen test taken at most 24 hours before departure; and  
 a recovery certificate or at least the last two positive COVID-19 tests;  
-- passengers younger than 16 years, without COVID-19 symptoms;  
+- passengers younger than 12 years, without COVID-19 symptoms;  
 - passengers departing on the same calendar day.  
 4. Passengers must have medical insurance to cover COVID-19 expenses.  
 - This does not apply to:  
@@ -1726,7 +1726,7 @@ Passengers must have a medical certificate with a negative Coronavirus (COVID-19
 - nationals of Guyana.
 
 # Hong Kong
-### 04.08.2021
+### 07.08.2021
 1. Passengers are not allowed to enter.  
 -This does not apply to:  
 - passengers with a Hong Kong SAR, China passport;  
@@ -1742,42 +1742,51 @@ Passengers must have a medical certificate with a negative Coronavirus (COVID-19
 - spouses and minor children younger than 18 years of Hong Kong SAR, China residents. They must present proof of their relationship;  
 - deadheading crew;  
 - merchant seamen.  
-2. Passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Nepal, Pakistan, Philippines, South Africa or United Kingdom for more than 2 hours are not allowed to enter.  
-- This does not apply to merchant seamen.  
+2. Passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, Russian Fed., South Africa or United Kingdom for more than 2 hours are not allowed to enter.  
+- This does not apply to:  
+- merchant seamen;  
+- effective 9 August 2021, residents of Hong Kong SAR, China with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival, and their accompanying children younger than 12 years. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination. Details on accepted vaccines can be found at [https://www.coronavirus.gov.hk/pdf/list\_of\_recognised\_covid19\_vaccines.pdf](https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf) .  
 3. Passengers transiting through Hong Kong SAR, China must:  
 - have a connecting flight booked on the same ticket, and  
 - have all the boarding passes printed, and  
 - have their baggage checked through until the final destination.  
 4. Passengers are not allowed to transit through Hong Kong SAR, China to the Mainland of China.  
 - This does not apply to passengers with a diplomatic passport.  
-5. Passengers who have been in or transited through Argentina, Bangladesh, Belgium, Brazil, Cambodia, Canada, Chinese Taipei, Colombia, Ecuador, Egypt, Ethiopia, France, Germany, India, Indonesia, Ireland (Rep.), Italy, Japan, Kazakhstan, Kenya, Korea (Rep.), Malaysia, Nepal, Netherlands, Pakistan, Philippines, Romania, Russian Fed., Singapore, South Africa, Switzerland, Thailand, Turkey, Ukraine, United Arab Emirates, United Kingdom, USA or Viet Nam in the past 21 days must have:  
-- a negative COVID-19 nucleic acid test result. The test must have been taken at most 72 hours before departure of the last direct flight to Hong Kong, SAR China. The name in the test result must match the name on the travel document, or a written confirmation issued by the laboratory with the name of the passenger must be presented; and  
+5. Until 8 August 2021, passengers who have been in or transited through Argentina, Bangladesh, Belgium, Brazil, Cambodia, Canada, Chinese Taipei, Colombia, Ecuador, Egypt, Ethiopia, France, Germany, India, Indonesia, Ireland (Rep.), Italy, Japan, Kazakhstan, Kenya, Korea (Rep.), Malaysia, Nepal, Netherlands, Pakistan, Philippines, Romania, Russian Fed., Singapore, South Africa, Switzerland, Thailand, Turkey, Ukraine, United Arab Emirates, United Kingdom, USA or Viet Nam in the past 21 days must have:  
+- a negative COVID-19 nucleic acid test taken at most 72 hours before departure of the last direct flight to Hong Kong, SAR China. The name in the test result must match the name on the travel document, or a written confirmation issued by the laboratory with the name of the passenger must be presented; and  
 - a document proving that the laboratory is:  
 - ISO 15189 accredited; or  
 - approved by the local government.  
 All documents must be in Chinese or English.  
-6. Passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Nepal, Pakistan, Philippines, South Africa or United Kingdom for two hours or less must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on [https://www.coronavirus.gov.hk/eng/designated-hotel-list.html](https://www.coronavirus.gov.hk/eng/designated-hotel-list.html) . Details can be found at [https://www.coronavirus.gov.hk/pdf/list\_of\_recognised\_covid19\_vaccines.pdf](https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf) .  
-7. Passengers who in the past 21 days have been in or transited through Ireland (Rep.) must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on [https://www.coronavirus.gov.hk/eng/designated-hotel-list.html](https://www.coronavirus.gov.hk/eng/designated-hotel-list.html) . Details can be found at [https://www.coronavirus.gov.hk/pdf/list\_of\_recognised\_covid19\_vaccines.pdf](https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf) .  
-8. Passengers without a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination. The hotel must be listed on [https://www.coronavirus.gov.hk/eng/designated-hotel-list.html](https://www.coronavirus.gov.hk/eng/designated-hotel-list.html) . Details can be found at [https://www.coronavirus.gov.hk/pdf/list\_of\_recognised\_covid19\_vaccines.pdf](https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf)  
+6. Effective 9 August 2021, passengers must have:  
+- a negative COVID-19 nucleic acid test taken at most 72 hours before departure of the last direct flight to Hong Kong, SAR China. The name in the test result must match the name on the travel document, or a written confirmation issued by the laboratory with the name of the passenger must be presented; and  
+- a document proving that the laboratory is:  
+- ISO 15189 accredited; or  
+- approved by the local government.  
+All documents must be in Chinese or English.  
+- This does not apply to passengers arriving from the Mainland of China (excluding Guangdong province) or Macao SAR, China.  
+7. Effective 9 August 2021, passengers arriving from the Mainland of China (excluding Guangdong province) or Macao SAR, China must have a negative COVID-19 nucleic acid test taken at most 3 days before departure.  
+8. Passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, Russian Fed., South Africa or United Kingdom must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The hotel must be listed on [https://www.coronavirus.gov.hk/eng/designated-hotel-list.html](https://www.coronavirus.gov.hk/eng/designated-hotel-list.html) . Details can be found at [https://www.coronavirus.gov.hk/pdf/list\_of\_recognised\_covid19\_vaccines.pdf](https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf) .  
+9. Passengers without a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 21 nights. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination. The hotel must be listed on [https://www.coronavirus.gov.hk/eng/designated-hotel-list.html](https://www.coronavirus.gov.hk/eng/designated-hotel-list.html) . Details can be found at [https://www.coronavirus.gov.hk/pdf/list\_of\_recognised\_covid19\_vaccines.pdf](https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf)  
 - This does not apply to:  
 - passengers who in the past 21 days have only been in Australia, Mainland of China, Macao SAR, China or New Zealand;  
-- passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, South Africa or United Kingdom.  
-9. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination. The hotel must be listed on [https://www.coronavirus.gov.hk/eng/designated-hotel-list.html](https://www.coronavirus.gov.hk/eng/designated-hotel-list.html) . Details can be found at [https://www.coronavirus.gov.hk/pdf/list\_of\_recognised\_covid19\_vaccines.pdf](https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf)  
+- passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, Russian Fed., South Africa or United Kingdom.  
+10. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination. The hotel must be listed on [https://www.coronavirus.gov.hk/eng/designated-hotel-list.html](https://www.coronavirus.gov.hk/eng/designated-hotel-list.html) . Details can be found at [https://www.coronavirus.gov.hk/pdf/list\_of\_recognised\_covid19\_vaccines.pdf](https://www.coronavirus.gov.hk/pdf/list_of_recognised_covid19_vaccines.pdf)  
 - This does not apply to:  
 - passengers who in the past 21 days have only been in Australia, Mainland of China, Macao SAR, China or New Zealand;  
-- passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, South Africa or United Kingdom.  
-10. Passengers who in the past 21 days have only been in Australia or New Zealand must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on [https://www.coronavirus.gov.hk/eng/designated-hotel-list.html](https://www.coronavirus.gov.hk/eng/designated-hotel-list.html) .  
+- passengers who in the past 21 days have been in or transited through Brazil, India, Indonesia, Ireland (Rep.), Nepal, Pakistan, Philippines, Russian Fed., South Africa or United Kingdom.  
+11. Passengers who in the past 21 days have only been in Australia or New Zealand must have a hotel reservation confirmation in Chinese or English for a minimum of 14 nights. The hotel must be listed on [https://www.coronavirus.gov.hk/eng/designated-hotel-list.html](https://www.coronavirus.gov.hk/eng/designated-hotel-list.html) .  
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. They must have a hotel reservation confirmation for a minimum of 7 nights. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination.  
-11. Passengers who in the past 14 days have not been in or transited through Australia, Brazil, India, Indonesia, Ireland (Rep.), Nepal, New Zealand, Pakistan, Philippines, South Africa and United Kingdom must have a hotel reservation confirmation in Chinese or English for a minimum of 7 nights, if they have:  
+12. Passengers who in the past 14 days have not been in or transited through Australia, Brazil, India, Indonesia, Ireland (Rep.), Nepal, New Zealand, Pakistan, Philippines, Russian Fed., South Africa and United Kingdom must have a hotel reservation confirmation in Chinese or English for a minimum of 7 nights, if they have:  
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. The certificate must be in Chinese or English or accompanied by a written confirmation in Chinese or English issued by the health authority of the country of vaccination; and  
 - a positive COVID-19 serology antibody test taken in the past 3 months by a laboratory listed on [https://www.coronavirus.gov.hk/pdf/List\_of\_local\_antibodytesting.pdf](https://www.coronavirus.gov.hk/pdf/List_of_local_antibodytesting.pdf) .  
-12. Passengers and airline crew must complete a Health Declaration Form at [https://www.chp.gov.hk/hdf/](https://www.chp.gov.hk/hdf/). This will generate a QR code which must be presented upon arrival.  
-13. Passengers and airline crew are subject to a COVID-19 test upon arrival. Details can be found at [https://www.coronavirus.gov.hk/eng/inbound-travel.html](https://www.coronavirus.gov.hk/eng/inbound-travel.html) .  
-14. Passengers are subject to medical screening upon arrival and quarantine for up to 21 days. More details can be found at [https://www.coronavirus.gov.hk/eng/inbound-travel.html](https://www.coronavirus.gov.hk/eng/inbound-travel.html) .  
-15. Airline crew must have a negative COVID-19 nucleic acid test result issued at most 48 hours before departure.  
-16. Airline crew are subject to medical screening upon arrival and self-isolation in a hotel.  
-17. Airline crew who have been in or transited through Brazil, India, Indonesia, Nepal, Pakistan, Philippines, South Africa or United Kingdom in the past 21 days are subject to quarantine for 21 days.  
-18. Merchant seamen must have:  
+13. Passengers and airline crew must complete a Health Declaration Form at [https://www.chp.gov.hk/hdf/](https://www.chp.gov.hk/hdf/). This will generate a QR code which must be presented upon arrival.  
+14. Passengers and airline crew are subject to a COVID-19 test upon arrival. Details can be found at [https://www.coronavirus.gov.hk/eng/inbound-travel.html](https://www.coronavirus.gov.hk/eng/inbound-travel.html) .  
+15. Passengers are subject to medical screening upon arrival and quarantine for up to 21 days. More details can be found at [https://www.coronavirus.gov.hk/eng/inbound-travel.html](https://www.coronavirus.gov.hk/eng/inbound-travel.html) .  
+16. Airline crew must have a negative COVID-19 nucleic acid test result issued at most 48 hours before departure.  
+17. Airline crew are subject to medical screening upon arrival and self-isolation in a hotel.  
+18. Airline crew who have been in or transited through Brazil, India, Indonesia, Nepal, Pakistan, Philippines, South Africa or United Kingdom in the past 21 days are subject to quarantine for 21 days.  
+19. Merchant seamen must have:  
 - a negative COVID-19 nucleic acid test result issued at most 48 hours before departure, and  
 - an approval letter from the Marine Department, and  
 - a letter of certification to Department of Health from Hong Kong.
