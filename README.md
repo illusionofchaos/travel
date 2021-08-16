@@ -532,7 +532,7 @@ and at [https://www.mh.government.bg/media/filer\_public/2021/08/03/zapoved\_vli
 - This does not apply to airline crew with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNTec.
 
 # Brunei Darussalam
-### 30.07.2021
+### 15.08.2021
 1. Passengers are not allowed to enter and transit.  
 - This does not apply to:  
 - nationals and permanent residents of Brunei Darussalam;  
@@ -543,7 +543,7 @@ and at [https://www.mh.government.bg/media/filer\_public/2021/08/03/zapoved\_vli
 - a medical certificate with a negative Coronavirus (COVID-19) RT-PCR test result issued at most 72 hours before departure; and  
 - a mobile device with the BruHealth app downloaded.  
 More details can be found at [http://www.pmo.gov.bn/travelportal/Home.aspx](http://www.pmo.gov.bn/travelportal/Home.aspx) and [https://safetravel.ica.gov.sg/brunei/rgl/faq](https://safetravel.ica.gov.sg/brunei/rgl/faq) ;  
-- passengers with an Entry Travel Pass letter issued by The Government of Brunei Darussalam if arriving from a country other than Bangladesh, India, Indonesia, Nepal, Pakistan or Sri Lanka. They must have stayed in the country of departure for the last 14 days before departure.  
+- until 31 August 2021, passengers with an Entry Travel Pass letter issued by The Government of Brunei Darussalam if arriving from a country other than Bangladesh, India, Indonesia, Nepal, Pakistan or Sri Lanka. They must have stayed in the country of departure for the last 14 days before departure.  
 2. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure.  
 - This does not apply to nationals and permanent residents of Brunei Darussalam.  
 3. Passengers with an Entry Travel Pass letter issued by The Government of Brunei Darussalam must have a confirmed hotel reservation and download the BruHealth app in their mobile device.  
@@ -1014,7 +1014,7 @@ This does not apply to:
 7. Passengers between 6 and 12 years of age arriving from Botswana, Brazil, Colombia, Eswatini, India, Lesotho, Malawi, Mozambique, Namibia, Nepal, Paraguay, Peru, Russian Fed., South Africa, Tanzania (incl. Zanzibar and Pemba), Tunisia, Zambia or Zimbabwe, are subject to COVID-19 PCR test upon arrival.
 
 # Germany
-### 14.08.2021
+### 15.08.2021
 1. Passengers are not allowed to enter.  
 1.1. This does not apply to:  
 - nationals and residents of Germany;  
@@ -1026,7 +1026,7 @@ This does not apply to:
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;  
 - British nationals with a residence permit issued by Germany before 31 December 2020;  
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;  
-- residents of Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Israel (until 14 August 2021), Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), Montenegro (until 14 August 2021), New Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore, Ukraine and USA (until 14 August 2021). They must have been living in the residence country in the past 6 months;  
+- residents of Albania, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Canada, Chinese Taipei, Hong Kong (SAR China), Japan, Jordan, Korea (Rep.), Kosovo (Rep.), Lebanon, Macao (SAR China), Moldova (Rep.), New Zealand, North Macedonia (Rep.), Qatar, Saudi Arabia, Serbia, Singapore and Ukraine. They must have been living in the residence country in the past 6 months;  
 - military personnel;  
 - merchant seamen;  
 - students;  
@@ -4161,7 +4161,7 @@ Passengers must have:
 - passengers traveling with a diplomatic passport.
 
 # Sint Maarten (Dutch part)
-### 13.08.2021
+### 15.08.2021
 1. Passengers are not allowed to enter if in the past 14 days they have been in Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, French Guiana, Guyana, India, Nepal, Pakistan, Panama, Paraguay, Peru, South Africa, Suriname, Trinidad and Tobago, Uruguay or Venezuela.  
 - This does not apply to:  
 - residents of St. Maarten, St. Martin, Saba or St. Eustatius;  
@@ -4178,7 +4178,7 @@ Passengers must have:
 - passengers younger than 10 years;  
 - until 15 August 2021, residents of St. Maarten, St. Martin, Saba or St. Eustatius with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival.;  
 - effective 16 August 2021, residents of St. Maarten, St. Martin, Saba or St. Eustatius.  
-5. Effective 16 August 2021, residents of St. Maarten, St. Martin, Saba or St. Eustatius entering or transiting through St. Maarten from a country other than Anguilla, Antigua and Barbuda, Argentina, Barbados, Bolivia, Bonaire, St. Eustatius and Saba, Brazil, Canada, Cayman Isl., Chile, China (People’s Rep.), Colombia, Costa Rica, Dominica, Ecuador, French Guiana, Grenada, Guyana, Hong Kong (SAR China), India, Montserrat, Nepal, New Zealand, Pakistan, Panama, Paraguay, Peru, Singapore, South Africa, St. Barthelemy, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Isl., Uruguay, USA or Venezuela must have:  
+5. Effective 16 August 2021, residents of St. Maarten, St. Martin, Saba or St. Eustatius entering or transiting through St. Maarten from a country other than Anguilla, Antigua and Barbuda, Argentina, Barbados, Bolivia, Bonaire, St. Eustatius and Saba, Brazil, Cayman Isl., Chile, China (People’s Rep.), Colombia, Costa Rica, Dominica, Ecuador, French Guiana, Grenada, Guyana, Hong Kong (SAR China), India, Montserrat, Nepal, New Zealand, Pakistan, Panama, Paraguay, Peru, Singapore, South Africa, St. Barthelemy, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Trinidad and Tobago, Turks and Caicos Isl., Uruguay or Venezuela must have:  
 - a negative COVID-19 RT-PCR test taken at most 72 hours before departure of the last direct flight to St. Maarten, if they do not have a COVID-19 vaccination certificate; or  
 - a negative COVID-19 antigen test taken at most 48 hours before departure of the last direct flight to St. Maarten or a negative COVID-19 RT-PCR test taken at most 72 hours before departure of the last direct flight to St. Maarten, if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival.  
 The test must be based on a nasopharyngeal swab.  
