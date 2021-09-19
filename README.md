@@ -653,10 +653,10 @@ This does not apply to:
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and a negative COVID-19 PCR or rapid antigen test.
 
 # Canada
-### 17.09.2021
+### 18.09.2021
 1. Until 21 September 2021, flights from India are suspended.  
 2. Until 29 September 2021, flights from Morocco are suspended.  
-3. Until 21 September 2021, passengers are not allowed to enter.  
+3. Until 21 November 2021, passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Canada;  
 - dual nationals of Canada with a Special Authorization approval email;  
@@ -998,7 +998,7 @@ a recovery certificate or at least the last two positive COVID-19 tests;
 4. Passengers could be subject to a COVID-19 test upon arrival and quarantine.
 
 # Germany
-### 13.09.2021
+### 18.09.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of Germany;  
@@ -1009,7 +1009,7 @@ a recovery certificate or at least the last two positive COVID-19 tests;
 - passengers with a residence permit issued by Andorra, Monaco, San Marino, Switzerland, Vatican City (Holy See) or an EEA Member State;  
 - British nationals with a residence permit issued by Germany before 31 December 2020;  
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;  
-- residents of Australia, Canada, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), New Zealand, Qatar, Saudi Arabia, Singapore, Ukraine and Uruguay. They must have been living in the residence country in the past 6 months;  
+- residents of Australia, Canada, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Macao (SAR China), New Zealand, Qatar, Saudi Arabia, Singapore, Ukraine and Uruguay. They must have been living in the residence country in the past 6 months;  
 - military personnel;  
 - merchant seamen;  
 - students;  
