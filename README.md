@@ -1632,15 +1632,10 @@ ronavirus (COVID-19) regulations for Denmark.
 - quarantine until test results are ready.
 
 # Guinea
-### 05.05.2021
-1. Passengers are not allowed to enter.  
-This does not apply:  
-- nationals of Guinea and their spouses, partners, parents or children;  
-- passengers with a residence permit issued by Guinea;  
-- passengers with a long-term visa issued by Guinea.  
-2. Passengers must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.  
+### 25.09.2021
+1. Passengers must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point.  
 - This does not apply to passengers younger than 11 years.  
-3. Passengers are subject to medical screening upon arrival.
+2. Passengers are subject to medical screening upon arrival.
 
 # Guadeloupe
 ### 28.07.2021
@@ -1865,9 +1860,11 @@ This does not apply to:
 8. More information can be found at [https://mup.gov.hr/uzg-covid/english/286212](https://mup.gov.hr/uzg-covid/english/286212)
 
 # Haiti
-### 21.05.2021
+### 25.09.2021
 1. Passengers must have a negative COVID-19 antigen or RT-PCR test result. The test must be taken at most 72 hours before departure from the first embarkation point.  
-- This does not apply to passengers with a medical certificate with a positive COVID-19 test result. They must have the evaluation of the doctor who treated them.  
+- This does not apply to:  
+   - passengers with a medical certificate with a positive COVID-19 test result. They must have the evaluation of the doctor who treated them;  
+   - passengers younger than 5 years.  
 2. Passengers are subject to medical screening.  
 3. A completed Health Declaration Form must be presented to immigration upon arrival.
 
@@ -2035,7 +2032,7 @@ This does not apply to:
 - are subject to a COVID-19 PCR test upon arrival, at their own expense.  
 - This does not apply to passengers younger than 11 years.  
 12. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates can obtain a visa on arrival at Najaf (NJF) for a maximum stay of 7 days.  
-13. Nationals of Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Korea (Rep.), Kuwait, Latvia, Lebanon, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, United Arab Emirates, United Kingdom and USA, can obtain a visa on arrival at Najaf (NJF). They must have a return ticket and a reservation confirmation from one of the following hotels: Qaser Aldur Hotel, Qaser Altad Hotel or Rebal Hotel.  
+13. Nationals of Australia, Austria, Bahrain, Belgium, Bulgaria, Canada, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Japan, Korea (Rep.), Kuwait, Latvia, Lebanon, Lithuania, Luxembourg, Malta, Netherlands, Oman, Poland, Portugal, Qatar, Romania, Russian Fed., Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, United Arab Emirates, United Kingdom and USA, can obtain a visa on arrival at Najaf (NJF). They must have a return ticket and a reservation confirmation from one of the following hotels: Qaser Aldur Hotel, Qaser Altad Hotel or Rebal Hotel.  
 14. Passengers traveling to Erbil (EBL) could be subject to quarantine at a designated facility for up to 14 days.  
 15. Airline crew traveling to Erbil (EBL) or Sulaymaniyah (ISU) are subject to self-isolation in a hotel until their next flight.  
 16. Passengers are subject to medical screening and quarantine.
@@ -2399,8 +2396,8 @@ This does not apply to:
 - upload the certificate at [https://vaxcert.moh.gov.kw/SPCMS/PH/CVD\_19\_Vaccine\_External\_Registration.aspx](https://vaxcert.moh.gov.kw/SPCMS/PH/CVD_19_Vaccine_External_Registration.aspx) .
 
 # Cayman Islands
-### 19.07.2021
-1. Passengers are not allowed to enter.  
+### 25.09.2021
+1. Until 31 December 2021, passengers are not allowed to enter.  
 This does not apply to:  
 - nationals and residents of Cayman Isl.;  
 - brothers, sisters, parents, grandparents or fiances of residents of Cayman Isl.;  
@@ -4730,7 +4727,7 @@ This does not apply to:
 7. Passengers could be subject to quarantine for 14 days. More details can be found at [https://www.samoagovt.ws/wp-content/uploads/2021/04/SOE-ORDER-43\_ENGLISH.pdf](https://www.samoagovt.ws/wp-content/uploads/2021/04/SOE-ORDER-43_ENGLISH.pdf)
 
 # Yemen
-### 07.01.2021
+### 25.09.2021
 Passengers must have a printed negative COVID-19 PCR test result issued at most 72 hours before arrival. The certificate must be in English.  
 - This does not apply to passengers younger than 10 years.
 
