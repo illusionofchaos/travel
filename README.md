@@ -745,34 +745,36 @@ Passengers must have a negative COVID-19 PCR test taken at most 72 hours before 
 - This does not apply to passengers who are 11 years and younger.
 
 # Switzerland
-### 16.09.2021
+### 26.09.2021
 1. Passengers are not allowed to enter.  
 -This does not apply to:  
 - nationals and residents of Liechtenstein and Switzerland;  
 - passengers with a "D" visa issued by Switzerland;  
-- passengers with a "C" visa issued by Switzerland on or after 16 March 2020;  
-- nationals and residents of EEA Member States;  
+- until 26 September 2021, passengers with a "C" visa issued by Switzerland on or after 16 March 2020;  
+- nationals and residents of EEA Member States;  
 - passengers arriving from Schengen Member States;  
-- passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Japan, Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Ukraine or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- until 26 September 2021, passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Japan, Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Ukraine or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- effective 27 September 2021, passengers arriving from Andorra, Australia, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Singapore, Ukraine, Uruguay or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States. They must present proof of their relationship;  
-- passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of “British Citizens", "British Overseas Territories Citizens" from Gibraltar or British nationals with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom, who have a residence permit issued by Switzerland:  
+- passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of "British Citizens", "British Overseas Territories Citizens" from Gibraltar or British nationals with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom, who have a residence permit issued by Switzerland:  
 - with reference to the CH-UK agreement form 25 February 2019; or  
 - issued before 1 January 2021;  
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
 - unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians;  
-- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 12 months before arrival. They must also have a positive COVID-19 PCR or rapid antigen test taken at least 4 weeks before receiving the first dose;  
+- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 12 months before arrival. They must also have a positive COVID-19 PCR or rapid antigen test taken at least 4 weeks before receiving the first dose;  
 - merchant seamen;  
 - military personnel with a letter issued by the Federal Department of Foreign Affairs of Switzerland or the Federal Department of Defense of Switzerland.  
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.  
 -This does not apply to:  
 - nationals and residents of EEA Member States and Switzerland;  
-- passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Japan, Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Ukraine or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- until 26 September 2021, passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Japan, Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Ukraine or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- effective 27 September 2021, passengers arriving from Andorra, Australia, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Singapore, Ukraine, Uruguay or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;  
 - passengers with a "D" visa issued by a Schengen Member State they are traveling to;  
 - passengers with a "C" visa issued by Switzerland on or after 16 March 2020;  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
-- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 12 months before arrival. They must also have a positive COVID-19 PCR or rapid antigen test taken at least 4 weeks before receiving the first dose;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
+- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 12 months before arrival. They must also have a positive COVID-19 PCR or rapid antigen test taken at least 4 weeks before receiving the first dose;  
 - merchant seamen;  
 - military personnel with a letter issued by the Federal Department of Foreign Affairs of Switzerland or the Federal Department of Defense of Switzerland.  
 3. Passengers must have:  
@@ -780,7 +782,7 @@ Passengers must have a negative COVID-19 PCR test taken at most 72 hours before 
 - a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point.  
 - This does not apply to:  
 - passengers with a COVID-19 recovery certificate issued at most 6 months before arrival;  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
 - passengers younger than 16 years;  
 - nationals and residents of Switzerland with no possibility of getting tested in the departure country. They must complete a self-declaration form obtained at [https://tinyurl.com/2xllqfnn](https://tinyurl.com/2xllqfnn) . They are subject to a COVID-19 test upon arrival;  
 - more exemptions can be found at [https://tinyurl.com/2xllqfnn](https://tinyurl.com/2xllqfnn)  
@@ -2477,34 +2479,36 @@ This does not apply to:
 6. Passengers and airline crew are subject to medical screening.
 
 # Liechtenstein
-### 16.09.2021
+### 26.09.2021
 1. Passengers are not allowed to enter.  
 -This does not apply to:  
 - nationals and residents of Liechtenstein and Switzerland;  
 - passengers with a "D" visa issued by Switzerland;  
-- passengers with a "C" visa issued by Switzerland on or after 16 March 2020;  
-- nationals and residents of EEA Member States;  
+- until 26 September 2021, passengers with a "C" visa issued by Switzerland on or after 16 March 2020;  
+- nationals and residents of EEA Member States;  
 - passengers arriving from Schengen Member States;  
-- passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Japan, Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Ukraine or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- until 26 September 2021, passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Japan, Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Ukraine or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- effective 27 September 2021, passengers arriving from Andorra, Australia, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Singapore, Ukraine, Uruguay or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States. They must present proof of their relationship;  
-- passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of “British Citizens", "British Overseas Territories Citizens" from Gibraltar or British nationals with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom, who have a residence permit issued by Switzerland:  
+- passengers with proof of being spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of "British Citizens", "British Overseas Territories Citizens" from Gibraltar or British nationals with a Certificate of Entitlement to the Right of Abode issued by the United Kingdom, who have a residence permit issued by Switzerland:  
 - with reference to the CH-UK agreement form 25 February 2019; or  
 - issued before 1 January 2021;  
 - unmarried partners of residents of Switzerland. They must have a written invitation from the residents in Switzerland and present proof of their relationship;  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
 - unvaccinated passengers younger than 18 years if they are traveling with their fully vaccinated parents/guardians;  
-- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 12 months before arrival. They must also have a positive COVID-19 PCR or rapid antigen test taken at least 4 weeks before receiving the first dose;  
+- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 12 months before arrival. They must also have a positive COVID-19 PCR or rapid antigen test taken at least 4 weeks before receiving the first dose;  
 - merchant seamen;  
 - military personnel with a letter issued by the Federal Department of Foreign Affairs of Switzerland or the Federal Department of Defense of Switzerland.  
 2. Passengers are not allowed to transit if arriving from a non-Schengen Member State to another Schengen Member State.  
 -This does not apply to:  
 - nationals and residents of EEA Member States and Switzerland;  
-- passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Japan, Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Ukraine or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- until 26 September 2021, passengers arriving from Albania, Andorra, Armenia, Australia, Azerbaijan, Bosnia and Herzegovina, Brunei Darussalam, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Japan, Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Serbia, Singapore, Ukraine or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
+- effective 27 September 2021, passengers arriving from Andorra, Australia, Bosnia and Herzegovina, Bulgaria, Canada, Chinese Taipei, Croatia, Cyprus, Hong Kong (SAR China), Ireland (Rep.), Jordan, Korea (Rep.), Macao (SAR China), Moldova (Rep.), Monaco, New Zealand, Qatar, Romania, San Marino, Saudi Arabia, Singapore, Ukraine, Uruguay or Vatican City (Holy See). If they transit through other countries, they must stay in the international transit area of the airport;  
 - spouses, registered partners, children under 21 years, grandchildren under 21 years, dependent children, dependent grandchildren, dependent parents or dependent grandparents of nationals of EEA Member States and Switzerland. They must present proof of their relationship;  
 - passengers with a "D" visa issued by a Schengen Member State they are traveling to;  
 - passengers with a "C" visa issued by Switzerland on or after 16 March 2020;  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
-- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 12 months before arrival. They must also have a positive COVID-19 PCR or rapid antigen test taken at least 4 weeks before receiving the first dose;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
+- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 12 months before arrival. They must also have a positive COVID-19 PCR or rapid antigen test taken at least 4 weeks before receiving the first dose;  
 - merchant seamen;  
 - military personnel with a letter issued by the Federal Department of Foreign Affairs of Switzerland or the Federal Department of Defense of Switzerland.  
 3. Passengers must have:  
@@ -2512,7 +2516,7 @@ This does not apply to:
 - a negative COVID-19 rapid antigen test taken at most 48 hours before departure from the first embarkation point.  
 - This does not apply to:  
 - passengers with a COVID-19 recovery certificate issued at most 6 months before arrival;  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna, Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at most 12 months before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac. More details can be found at [https://tinyurl.com/hyk4cbj7](https://tinyurl.com/hyk4cbj7) ;  
 - passengers younger than 16 years;  
 - nationals and residents of Switzerland with no possibility of getting tested in the departure country. They must complete a self-declaration form obtained at [https://tinyurl.com/2xllqfnn](https://tinyurl.com/2xllqfnn) . They are subject to a COVID-19 test upon arrival;  
 - more exemptions can be found at [https://tinyurl.com/2xllqfnn](https://tinyurl.com/2xllqfnn)  
@@ -3175,71 +3179,41 @@ Details can be found at [https://tinyurl.com/59zy6bna](https://tinyurl.com/59zy6
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 28 days before arrival.
 
 # Norway
-### 23.09.2021
-1. Until 1 October 2021, passengers are not allowed to enter.  
--This does not apply to:  
-- nationals and residents of Norway;  
-- spouses, registered partners, unmarried partners, children, stepchildren, parents, stepparents of residents of Norway;  
-- passengers who are sons or daughters, parents or stepparents, grandchildren or step-grandchildren, grandparents or step-grandparents of residents of Norway;  
-- passengers with consent application issued by the Norway Directorate of Immigration (UDI) and who are boyfriends or girlfriends of residents of Norway and their minor children;  
-- passengers arriving from and residing in Czechia, Faroe Isl., Hungary, Poland, if in the past 10 days they have been in their country of residence;  
-- passengers who are residing in and in the past 10 days have been in specific green regions of Denmark, Finland and Sweden. Details can be found at [https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from](https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from) ;  
-- merchant seamen;  
-- students studying in Norway. They must be enrolled at an approved educational institution or have a residence permit for students;  
-- passengers with:  
-- a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or  
-- a digital COVID-19 recovery certificate issued at most 6 months before arrival.  
-The certificate must be:  
-- an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or  
-- a certificate with a QR code issued by Albania, Denmark, Faroe Isl., Morocco, Norway, Panama or Sweden; or  
-- an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales (UK);  
-- more COVID-19 related information can be found at [https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/](https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/)  
-2. Passengers must have a negative COVID-19 test taken at most 24 hours before departure from the first embarkation point. Tests accepted are: PCR, rapid antigen and RT-PCR. The test result must be in Danish, English, French, German, Norwegian or Swedish.  
+### 26.09.2021
+1. Passengers are not allowed to enter.  
+ - This does not apply to:  
+   - nationals and residents of Austria, Belgium, Bulgaria, Chinese Taipei, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Saudi Arabia, Slovakia, Slovenia, Spain, Sweden, Switzerland or United Kingdom;  
+   -spouses, registered partners, unmarried partners, children, stepchildren, parents, stepparents of residents of Norway;  
+   - passengers who are sons or daughters, parents or stepparents, grandchildren or step-grandchildren, grandparents or step-grandparents of residents of Norway;  
+   - passengers with consent application issued by the Norway Directorate of Immigration (UDI) and who are boyfriends or girlfriends of residents of Norway and their minor children;  
+   - merchant seamen;  
+   - students studying in Norway. They must be enrolled at an approved educational institution or have a residence permit for students.  
+2. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at [www.entrynorway.no](http://www.entrynorway.no)  
 - This does not apply to:  
-- passengers younger than 12 years;  
-- passengers arriving from Czechia, Faroe Isl., Hungary or Poland;  
-- passengers arriving from specific green regions of Denmark, Finland and Sweden. Details can be found at [https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from](https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from) ;  
-- passengers with:  
-- a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or  
-- a digital COVID-19 recovery certificate issued at most 6 months before arrival.  
-The certificate must be:  
-- an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or  
-- a certificate with a QR code issued by Albania, Denmark, Faroe Isl., Morocco, Norway, Panama or Sweden; or  
-- an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales (UK);  
-- passengers with a diplomatic or service passport;  
-- merchant seamen;  
-- nationals and residents of Norway with no possibility of getting tested in the departure country;  
-- more exemptions can be found at [https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/](https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/entry-quarantine-travel-covid19/)  
-3. Passengers and airline crew must complete a registration form before arrival. The form can be obtained at [www.entrynorway.no](http://www.entrynorway.no)  
-- This does not apply to:  
-- airline crew who are not leaving the aircraft;  
-- passengers younger than 17 years;  
-- passengers with:  
-- a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or  
-- a digital COVID-19 recovery certificate issued at most 6 months before arrival.  
-The certificate must be:  
-- an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or  
-- a certificate with a QR code issued by Albania, Denmark, Faroe Isl., Morocco, Norway, Panama or Sweden; or  
-- an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales (UK).  
-4. Passengers are subject to:  
+   - airline crew who are not leaving the aircraft;  
+   - passengers younger than 17 18 years;  
+   - passengers arriving from Czechia, Faroe Isl., France, Hungary, Iceland, Italy, Luxembourg, Mongolia, Netherlands, Poland, Portugal, San Marino, Slovakia or Vatican City (Holy See);  
+   - passengers arriving from specific green regions of Denmark, Finland, Greece, Spain or Sweden. Details can be found at [https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from](https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from) ;  
+   - passengers with:  
+    - a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or  
+    - a digital COVID-19 recovery certificate issued at most 6 months before arrival.  
+    The certificate must be:  
+    - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or  
+    - a certificate with a QR code issued by Albania, Denmark, Faroe Isl., Morocco, Norway, Panama or Sweden; or  
+    - an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales (UK).  
+3. Passengers are subject to:  
 - a COVID-19 antigen test and a PCR test upon arrival; or  
 - a COVID-19 antigen test or PCR test upon arrival.  
-- This does not apply to passengers with:  
-- a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or  
-- a digital COVID-19 recovery certificate issued at most 6 months before arrival.  
-The certificate must be:  
-- an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or  
-- a certificate with a QR code issued by Albania, Denmark, Faroe Isl., Morocco, Norway, Panama or Sweden; or  
-- an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales (UK).  
-5. Passengers could be subject to home or hotel quarantine.  
-- This does not apply to passengers with:  
-- a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or  
-- a digital COVID-19 recovery certificate issued at most 6 months before arrival.  
-The certificate must be:  
-- an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or  
-- a certificate with a QR code issued by Albania, Denmark, Faroe Isl., Morocco, Norway, Panama or Sweden; or  
-- an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales (UK);  
-- more exemptions can be found at [https://tinyurl.com/yoqc3omu](https://tinyurl.com/yoqc3omu)
+- This does not apply to:  
+   - passengers arriving from Czechia, Faroe Isl., France, Hungary, Iceland, Italy, Luxembourg, Monaco, The Netherlands, Portugal, San Marino, Slovakia, The Vatican or Poland;  
+   - passengers arriving from specific green regions of Denmark, Finland, Sweden, and islands of Spain and Greece. Details can be found at [https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from](https://www.helsenorge.no/en/coronavirus/international-travels/#what-is-the-colour-of-the-country-you-are-travelling-from)  
+   - passengers with:  
+    - a digital COVID-19 vaccination certificate showing that they were fully vaccinated; or  
+    - a digital COVID-19 recovery certificate issued at most 6 months before arrival.  
+    The certificate must be:  
+    - an EU Digital COVID Certificate with a QR code issued by Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or  
+    - a certificate with a QR code issued by Albania, Denmark, Faroe Isl., Morocco, Norway, Panama or Sweden; or  
+    - an NHS Covid Pass with a QR code, issued in England, Northern Ireland, Scotland or Wales (UK).
 
 # Nepal
 ### 23.08.2021
@@ -4669,10 +4643,10 @@ All documents for passengers arriving from Israel must be issued in Israel.
 12. Airline crew must make a medical declaration and are subject to self-isolation until their next flight.
 
 # Vanuatu
-### 10.09.2021
+### 26.09.2021
 1. Until 31 December 2021, Vanuatu's borders are closed.  
 - This does not apply to humanitarian flights.  
-2. Flights to Vanuatu are suspended.  
+2. Until 26 September 2021, flights to Vanuatu are suspended.  
 3. Until 31 December 2021, passengers are not allowed to enter.  
 This does not apply to:  
 - nationals of Vanuatu;  
