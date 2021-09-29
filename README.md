@@ -3,7 +3,7 @@
 ronavirus (COVID-19) regulations for France or Spain, whichever is transited to enter Andorra.
 
 # United Arab Emirates
-### 27.09.2021
+### 28.09.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of United Arab Emirates;  
@@ -105,7 +105,8 @@ The test result must be in Arabic or English and must be issued by an approved l
 - This does not apply to:  
 - nationals of United Arab Emirates;  
 - passengers entering Abu Dhabi for the World Policy Conference.  
-27. Residents of United Arab Emirates entering Abu Dhabi (AUH) must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before departure. They must update the certificate on [https://smartservices.ica.gov.ae](https://smartservices.ica.gov.ae) and obtain a QR code before arrival.
+27. Residents of United Arab Emirates entering Abu Dhabi (AUH) must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 14 days before departure. They must update the certificate on [https://smartservices.ica.gov.ae](https://smartservices.ica.gov.ae) .  
+- This does not apply to passengers younger than 16 years.
 
 # Afghanistan
 ### 18.05.2021
@@ -289,7 +290,7 @@ This does not apply to:
 - more exemptions can be found at [https://tinyurl.com/8w8kyybv](https://tinyurl.com/8w8kyybv)
 
 # Australia
-### 28.05.2021
+### 28.09.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Australia and their immediate family members;  
@@ -297,7 +298,8 @@ This does not apply to:
 - nationals of New Zealand residing in Australia and their immediate family members;  
 - passengers who have been in Australia, New Zealand or both for the full 14 days before their flight to Australia;  
 - passengers who have a visa and have been granted an exemption before departure; details can be found at [https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form)  
-2. Passengers are not allowed to transit through Australia to New Zealand.  
+2. Passengers are not allowed to transit through Australia to New Zealand for more than 72 hours.  
+- This does not apply to passengers with an exemption applied at [https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form)  
 3. Passengers could be subject to presenting a "Travel Declaration" form and present it at time of check-in. The form can be found at [https://covid19.homeaffairs.gov.au/australia-travel-declaration](https://covid19.homeaffairs.gov.au/australia-travel-declaration)  
 4. Passengers could be subject to quarantine for 14 days at the first point of entry. Details can be found at [https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone](https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone)  
 5. Airline crew are subject to self-isolation until their next flight.  
@@ -305,7 +307,15 @@ This does not apply to:
 7. Passengers entering or transiting through Australia must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. More details can be found at [https://tinyurl.com/y398dxv4](https://tinyurl.com/y398dxv4)  
 - This does not apply to:  
 - passengers younger than 5 years;  
-- passengers arriving from Kiribati, New Zealand, Niue, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;  
+- passengers arriving from Kiribati, Myanmar, New Zealand, Niue, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;  
+- passengers arriving from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl.;  
+- passengers with a positive COVID-19 PCR test result, and a medical discharge issued at most 4 weeks before departure which specifies that:  
+- at least 14 days have passed since they were infected with COVID-19; and  
+- 72 hours have passed since recovery of fever and respiratory symptoms; and  
+- passengers who have recovered from COVID-19 and are not contagious.  
+8. Passengers entering or transiting through Australia from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl. must have a negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. More details can be found at [https://tinyurl.com/y398dxv4](https://tinyurl.com/y398dxv4)  
+- This does not apply to:  
+- passengers younger than 5 years;  
 - passengers with a positive COVID-19 PCR test result, and a medical discharge issued at most 4 weeks before departure which specifies that:  
 - at least 14 days have passed since they were infected with COVID-19; and  
 - 72 hours have passed since recovery of fever and respiratory symptoms; and  
@@ -691,7 +701,7 @@ This does not apply to:
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and a negative COVID-19 PCR or rapid antigen test.
 
 # Canada
-### 27.09.2021
+### 28.09.2021
 1. Until 28 October 2021, flights from Morocco are suspended.  
 2. Until 21 November 2021, passengers are not allowed to enter.  
 - This does not apply to:  
@@ -716,19 +726,24 @@ This does not apply to:
 - Test results issued in India or Morocco are not accepted.  
 - This does not apply to:  
 - passengers younger than 5 years;  
-- passengers with a positive COVID-19 test taken at least 15 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS.  
-5. Passengers must arrive at Calgary (YYC), Edmonton (YEG), Halifax (YHZ), Montreal (YUL), Ottawa (YOW), Quebec (YQB), Toronto Pearson (YYZ), Toronto Billy Bishop (YTZ), Vancouver (YVR) or Winnipeg (YWG).  
-- This does not apply to passengers arriving on direct flights from St. Pierre and Miquelon.  
-6. Passengers could be subject to quarantine for 14 days; details can be found at [https://travel.gc.ca/travel-covid/travel-restrictions/flying-canada-checklist](https://travel.gc.ca/travel-covid/travel-restrictions/flying-canada-checklist)  
-- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival, and their accompanying children younger than 12 years. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech. A combination of vaccines is accepted. More details can be found at [https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada](https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada) .  
-7. Passengers are subject to a COVID-19 molecular test on day 1 and day 8 after arrival.  
+- passengers with a positive COVID-19 test taken at least 14 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS;  
+- passengers arriving from directly from India.  
+5. Passengers arriving directly from India must have a negative COVID-19 test taken at most 18 hours before departure. The test result must be issued by the laboratory Genestrings at the New Delhi airport (DEL) and have a QR code. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS.  
 - This does not apply to:  
-- passengers with a positive COVID-19 test taken at least 15 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS;  
+- passengers younger than 5 years;  
+- passengers with a positive COVID-19 test taken at least 14 days and at most 180 days before departure. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS.  
+6. Passengers must arrive at Calgary (YYC), Edmonton (YEG), Halifax (YHZ), Montreal (YUL), Ottawa (YOW), Quebec (YQB), Toronto Pearson (YYZ), Toronto Billy Bishop (YTZ), Vancouver (YVR) or Winnipeg (YWG).  
+- This does not apply to passengers arriving on direct flights from St. Pierre and Miquelon.  
+7. Passengers could be subject to quarantine for 14 days; details can be found at [https://travel.gc.ca/travel-covid/travel-restrictions/flying-canada-checklist](https://travel.gc.ca/travel-covid/travel-restrictions/flying-canada-checklist)  
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival, and their accompanying children younger than 12 years. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech. A combination of vaccines is accepted. More details can be found at [https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada](https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada) .  
+8. Passengers are subject to a COVID-19 molecular test on day 1 and day 8 after arrival.  
+- This does not apply to:  
+- passengers with a positive COVID-19 test taken at least 14 days and at most 180 days before departure of the last direct flight to Canada. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS;  
 - residents of Point Roberts in Washington in the USA entering Canada to return to their place of residence;  
 - passengers who are members of the Canadian Forces or a visiting force traveling on duty;  
 - the COVID-19 molecular test on day 8 after arrival does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech. A combination of vaccines is accepted. More details can be found at [https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada](https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada) ;  
 - more exemptions can be found at [https://tinyurl.com/y33jxz4f](https://tinyurl.com/y33jxz4f) .  
-8. All travel restrictions may be prolonged as necessary for public health reasons.
+9. All travel restrictions may be prolonged as necessary for public health reasons.
 
 # Democratic Republic of the Congo
 ### 03.08.2021
@@ -963,12 +978,12 @@ a recovery certificate or at least the last two positive COVID-19 tests;
 6. More information can be found at [https://ccaa.cw/publications/covid-19/](https://ccaa.cw/publications/covid-19/)
 
 # Cyprus
-### 21.09.2021
+### 28.09.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;  
 - residents of Cyprus;  
-- passengers arriving from Andorra, Armenia, Australia, Austria, Bahrain, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, China (People's Rep.), Croatia, Czechia, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Kuwait, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Moldova (Rep.), Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Ukraine, United Arab Emirates, United Kingdom, Uruguay or Vatican City (Holy See);  
+- passengers arriving from Andorra, Armenia, Australia, Austria, Bahrain, Belarus, Belgium, Bulgaria, Canada, China (People's Rep.), Croatia, Czechia, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, Ireland (Rep.), Israel, Italy, Japan, Jordan, Korea (Rep.), Kuwait, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Monaco, Netherlands, New Zealand, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Ukraine, United Arab Emirates, United Kingdom, Uruguay or Vatican City (Holy See);  
 - spouses and children of nationals of Cyprus;  
 - passengers with a COVID-19 vaccination certificate issued in Andorra, Armenia, Austria, Bahrain, Belarus, Belgium, Bulgaria, Canada, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Jordan, Kuwait, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Saudi Arabia, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine, United Arab Emirates, United Kingdom, USA or Vatican City (Holy See). Details can be found at [https://cyprusflightpass.gov.cy/en/vaccinated-passengers](https://cyprusflightpass.gov.cy/en/vaccinated-passengers)  
 - passengers with a digital EU Digital COVID Certificate (EU DCC) with a positive COVID-19 PCR test taken at least 14 days and at most 180 days before departure.  
@@ -981,7 +996,7 @@ a recovery certificate or at least the last two positive COVID-19 tests;
 - This does not apply to:  
 - passengers younger than 12 years;  
 - passengers arriving from Australia, Czechia, Hungary, Jordan, New Zealand, Poland or Saudi Arabia;  
-- nationals and residents of Cyprus if arriving from Andorra, Armenia, Austria, Bahrain, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, China (People's Rep.), Croatia, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Moldova (Rep.), Monaco, Netherlands, Norway, Portugal, Qatar, Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Ukraine, United Arab Emirates, United Kingdom, Uruguay or Vatican City (Holy See);  
+- nationals and residents of Cyprus if arriving from Andorra, Armenia, Austria, Bahrain, Belarus, Belgium, Bulgaria, Canada, China (People's Rep.), Croatia, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hong Kong (SAR China), Iceland, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Macao (SAR China), Malta, Monaco, Netherlands, Norway, Portugal, Qatar, Romania, Russian Fed., San Marino, Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, USA, Ukraine, United Arab Emirates, United Kingdom, Uruguay or Vatican City (Holy See);  
 - passengers with a COVID-19 vaccination certificate issued in Andorra, Armenia, Austria, Bahrain, Belarus, Belgium, Bulgaria, Canada, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Egypt, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Israel, Italy, Jordan, Kuwait, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Saudi Arabia, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine, United Arab Emirates, United Kingdom, USA or Vatican City (Holy See). Details can be found at [https://cyprusflightpass.gov.cy/en/vaccinated-passengers](https://cyprusflightpass.gov.cy/en/vaccinated-passengers) ;  
 - passengers with a digital EU Digital COVID Certificate (EU DCC) with a positive COVID-19 PCR test taken at least 14 days and at most 180 days before departure.  
 5. Passengers could be subject to a COVID-19 test upon arrival at their own expense and quarantine for up to 14 days. More details can be found at [https://tinyurl.com/459t4ket](https://tinyurl.com/459t4ket) , [https://tinyurl.com/p44y8nds](https://tinyurl.com/p44y8nds) and [https://cyprusflightpass.gov.cy/en/country-categories](https://cyprusflightpass.gov.cy/en/country-categories)
@@ -1271,14 +1286,14 @@ This does not apply to:
 - military personnel;  
 - immediate family members of a national of an EU Member State traveling together or traveling to join the national of an EU Member State;  
 - passengers who are unmarried partners of nationals of Spain. They must have a confirmation of their relationship issued by a consulate of Spain;  
-- passengers older than 11 years with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival;  
+- passengers older than 11 years with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival;  
 - passengers younger than 12 years traveling with their parents who have been fully vaccinated;  
 - students with proof of being enrolled in a course in Austria, Belgium, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden or Switzerland. They must have medical insurance; and  
 - be traveling to the country where they study, at most 15 days before the start of the course.  
 2. Passengers must have:  
 - a negative COVID-19 rapid antigen test taken at most 48 hours before arrival. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or  
 - a negative COVID-19 NAAT test taken at most 72 hours before arrival. Tests accepted are: CRISPR, HAD, LAMP, NEAR, PCR, RT-LAMP, RT-PCR, SDA and TMA. The test result must be in English, French, German, Spanish or accompanied by a certified Spanish translation; or  
-- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna or Pfizer-BioNTech, Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival; or  
+- a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Serum Institute of India, Sinopharm or Sinovac at least 14 days before arrival; or  
 - a COVID-19 recovery certificate issued at least 11 days after the positive COVID-19 NAAT test result. The sample for the certificate must have been taken at most 180 days before arrival.  
 This does not apply to:  
 - passengers younger than 12 years;  
@@ -2309,7 +2324,7 @@ Tarawa (TRW) is closed.
 2. Passengers are subject to quarantine.
 
 # South Korea
-### 22.09.2021
+### 28.09.2021
 1. Short-term visas (type C-1 and C-3) issued on or before 5 April 2020 are no longer valid.  
 2. Suspension of visa exemptions for nationals of Antigua and Barbuda, Argentina, Australia, Austria, Bahamas, Bahrain, Belgium, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Canada, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Rep., Ecuador, El Salvador, Estonia, Eswatini (Swaziland), Fiji, Finland, France, Germany, Greece, Grenada, Guatemala, Haiti, Honduras, Hungary, Iceland, Israel, Italy, Jamaica, Kazakhstan, Kiribati, Kuwait, Latvia, Lesotho, Liechtenstein, Lithuania, Luxembourg, Malaysia, Marshall Isl., Mauritius, Micronesia (Federated States), Montenegro, Morocco, Nauru, Netherlands, New Zealand, Norway, Oman, Panama, Paraguay, Peru, Poland, Portugal, Qatar, Romania, Russian Fed., Samoa, Saudi Arabia, Serbia, Seychelles, Singapore, Slovakia, Solomon Isl., South Africa, Spain, St. Lucia, Suriname, Sweden, Switzerland, Thailand, Tonga, Trinidad and Tobago, Tunisia, Turkey, Tuvalu, United Arab Emirates or Uruguay with a normal passport.  
 - This does not apply to airline crew.  
@@ -2330,6 +2345,15 @@ Tarawa (TRW) is closed.
 - a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival; or  
 - a Quarantine Exemption Certificate.  
 8. Passengers must install the 'self-quarantine safety protection mobile app' found at [https://tinyurl.com/m9fcz6dc](https://tinyurl.com/m9fcz6dc) before departure or upon arrival.  
+- This does not apply to:  
+- passengers arriving from a country other than Angola, Bangladesh, Brazil, Chile, Indonesia, Kazakhstan, Kyrgyzstan, Malawi, Mozambique, Myanmar, Namibia, Pakistan, Peru, Philippines, South Africa, Suriname, Trinidad and Tobago or Uzbekistan with a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival; or  
+- a Quarantine Exemption Certificate;  
+- until 30 September 2021, passengers arriving from a country other than Botswana, Eswatini, Ghana, Haiti, India, Japan, Jordan, Kuwait, Lebanon, Nepal, Oman, Russian Fed., Tajikistan, Tanzania, Turkey, United Arab Emirates, Viet Nam or Zimbabwe with:  
+- a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival; or  
+- a Quarantine Exemption Certificate;  
+- effective 1 October 2021, passengers arriving from a country other than Djibouti or Zambia with:  
+- a COVID-19 vaccination certificate showing that they received the vaccine in Korea (Rep.) at least 2 weeks before arrival; or  
+- a Quarantine Exemption Certificate.  
 9. Passengers must complete a "Health Declaration Form" and a "Travel Record Declaration" and present it upon arrival. The forms can be obtained upon arrival.  
 10. Passengers are not allowed to transit through Korea (Rep.) for more than 24 hours.  
 11. Nationals of Thailand are not allowed to transit if they are traveling onward to Thailand.  
@@ -2993,7 +3017,7 @@ This does not apply to:
 A completed "Cuestionario de identificacion de factores de riesgo en viajeros" must be presented to immigration upon arrival.
 
 # Malaysia
-### 24.09.2021
+### 28.09.2021
 1. Passengers are not allowed to enter.  
 This does not apply to:  
 - nationals of Malaysia;  
@@ -3006,8 +3030,7 @@ This does not apply to:
 4. Passengers arriving from Bangladesh, India, Nepal, Pakistan or Sri Lanka must have a COVID-19 vaccination certificate showing that they were fully vaccinated.  
 5. Passengers are subject to a COVID-19 RT-PCR test upon arrival at their own expense.  
 6. Passengers are subject to medical screening and quarantine for 14 or 21 days at the first point of entry at their own expense.  
-- Until 27 September 2021, this does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated. They are subject to self-isolation at home for 14 days. They must send an email to [hso@moh.gov.my](mailto:hso@moh.gov.my) at least 14 days before departure to apply for the home isolation.  
-- Effective 28 September 2021, this does not apply to passengers with an approval letter for home quarantine applied at [https://ecovid19.moh.gov.my/outbreak-portal-hqa/index](https://ecovid19.moh.gov.my/outbreak-portal-hqa/index) between 7 and 10 days before arrival. They are subject to home isolation for 14 days.  
+- This does not apply to passengers with an approval letter for home quarantine applied at [https://ecovid19.moh.gov.my/outbreak-portal-hqa/index](https://ecovid19.moh.gov.my/outbreak-portal-hqa/index) between 7 and 10 days before arrival. They are subject to home isolation for 14 days.  
 7. Airline crew must have their names listed on the General Declaration.  
 8. Airline crew are subject to quarantine until their next flight and must install 'MySejahtera app' in their phone.  
 9. The maximum transit time through Kuala Lumpur (KUL) changed from 48 hours to 24 hours.  
@@ -3069,7 +3092,7 @@ This does not apply to:
 2. Passengers are subject to self-isolation for 7 days.
 
 # Norfolk Island
-### 28.05.2021
+### 28.09.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Australia and their immediate family members;  
@@ -3077,7 +3100,8 @@ This does not apply to:
 - nationals of New Zealand residing in Australia and their immediate family members;  
 - passengers who have been in Australia, New Zealand or both for the full 14 days before their flight to Australia;  
 - passengers who have a visa and have been granted an exemption before departure; details can be found at [https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form)  
-2. Passengers are not allowed to transit through Australia to New Zealand.  
+2. Passengers are not allowed to transit through Australia to New Zealand for more than 72 hours.  
+- This does not apply to passengers with an exemption applied at [https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/covid19-enquiry-form)  
 3. Passengers could be subject to presenting a "Travel Declaration" form and present it at time of check-in. The form can be found at [https://covid19.homeaffairs.gov.au/australia-travel-declaration](https://covid19.homeaffairs.gov.au/australia-travel-declaration)  
 4. Passengers could be subject to quarantine for 14 days at the first point of entry. Details can be found at [https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone](https://covid19.homeaffairs.gov.au/new-zealand-safe-travel-zone)  
 5. Airline crew are subject to self-isolation until their next flight.  
@@ -3085,7 +3109,15 @@ This does not apply to:
 7. Passengers entering or transiting through Australia must have a negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. More details can be found at [https://tinyurl.com/y398dxv4](https://tinyurl.com/y398dxv4)  
 - This does not apply to:  
 - passengers younger than 5 years;  
-- passengers arriving from Kiribati, New Zealand, Niue, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;  
+- passengers arriving from Kiribati, Myanmar, New Zealand, Niue, Samoa, Solomon Isl., Tokelau, Tonga, Tuvalu or Vanuatu;  
+- passengers arriving from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl.;  
+- passengers with a positive COVID-19 PCR test result, and a medical discharge issued at most 4 weeks before departure which specifies that:  
+- at least 14 days have passed since they were infected with COVID-19; and  
+- 72 hours have passed since recovery of fever and respiratory symptoms; and  
+- passengers who have recovered from COVID-19 and are not contagious.  
+8. Passengers entering or transiting through Australia from Belize, Cook Isl., Fiji, French Polynesia, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, Palau, Papua New Guinea, Timor-Leste or Wallis and Futuna Isl. must have a negative COVID-19 PCR test taken at most 96 hours before departure from the first embarkation point. More details can be found at [https://tinyurl.com/y398dxv4](https://tinyurl.com/y398dxv4)  
+- This does not apply to:  
+- passengers younger than 5 years;  
 - passengers with a positive COVID-19 PCR test result, and a medical discharge issued at most 4 weeks before departure which specifies that:  
 - at least 14 days have passed since they were infected with COVID-19; and  
 - 72 hours have passed since recovery of fever and respiratory symptoms; and  
@@ -3248,7 +3280,7 @@ Details can be found at [https://tinyurl.com/59zy6bna](https://tinyurl.com/59zy6
 4. Passengers are subject to quarantine for 14 days.
 
 # New Zealand
-### 14.09.2021
+### 28.09.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of New Zealand;  
