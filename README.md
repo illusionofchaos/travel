@@ -525,14 +525,15 @@ passengers younger than 12 years;
 7. More details can be found at [https://tinyurl.com/3r4645mp](https://tinyurl.com/3r4645mp) and [https://tinyurl.com/eknswf87](https://tinyurl.com/eknswf87)
 
 # Bahrain
-### 24.09.2021
+### 09.10.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Bahrain, Kuwait, Oman, Saudi Arabia and United Arab Emirates;  
 - passengers with a residence permit issued by Bahrain;  
 - passengers with an e-visa obtained before departure;  
 - passengers who can obtain a visa on arrival;  
-- military personnel.  
+- military personnel;  
+- passengers arriving from a country other than Bangladesh, Bosnia and Herzegovina, Costa Rica, Ecuador, Ethiopia, Georgia, Indonesia, Iran, Iraq, Malawi, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Philippines, Slovenia, South Africa, Sri Lanka, Tunisia, Uganda, Ukraine, Viet Nam or Zimbabwe with a COVID-19 vaccination certificate issued in countries that are eligible for visa on arrival.  
 2. Passengers are not allowed to enter if in the past 14 days they have been in or transited through Bangladesh, Bosnia and Herzegovina, Costa Rica, Ecuador, Ethiopia, Georgia, Indonesia, Iran, Iraq, Malawi, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Philippines, Slovenia, South Africa, Sri Lanka, Tunisia, Uganda, Ukraine, Viet Nam or Zimbabwe.  
 - This does not apply to:  
 - nationals of Bahrain;  
@@ -540,7 +541,8 @@ passengers younger than 12 years;
 3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before departure. The test result must have a QR code if arriving from Bangladesh, Bosnia and Herzegovina, Costa Rica, Ecuador, Ethiopia, Georgia, Indonesia, Iran, Iraq, Malawi, Malaysia, Mexico, Mongolia, Mozambique, Myanmar, Namibia, Nepal, Philippines, Slovenia, South Africa, Sri Lanka, Tunisia, Uganda, Ukraine, Viet Nam or Zimbabwe.  
 - This does not apply to:  
 - passengers younger than 6 years;  
-- nationals of Bahrain, Cyprus, Hungary, Israel, Kuwait, Oman, Saudi Arabia, Seychelles and United Arab Emirates with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival.  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival;  
+- passengers with a COVID-19 recovery certificate.  
 4. Passengers are subject to a COVID-19 PCR test upon arrival.  
 - This does not apply to passengers younger than 6 years.  
 5. Passengers must have a reservation confirmation for 10 days, for a designated government hotel listed at [https://www.nhra.bh/Departments/HCF/?page=159](https://www.nhra.bh/Departments/HCF/?page=159) or proof that they reside in Bahrain.  
@@ -1058,7 +1060,7 @@ a recovery certificate or at least the last two positive COVID-19 tests;
 4. Passengers could be subject to a COVID-19 test upon arrival and quarantine.
 
 # Germany
-### 27.09.2021
+### 09.10.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of Germany;  
@@ -1070,6 +1072,8 @@ a recovery certificate or at least the last two positive COVID-19 tests;
 - British nationals with a residence permit issued by Germany before 31 December 2020;  
 - passengers with a long term "D" visa issued by an EEA Member State or Switzerland;  
 - residents of Australia, Canada, Chile, Chinese Taipei, Hong Kong (SAR China), Jordan, Korea (Rep.), Kuwait, Macao (SAR China), New Zealand, Qatar, Rwanda, Saudi Arabia, Singapore, Ukraine and Uruguay. They must have been living in the residence country in the past 6 months;  
+- until 9 October 2021, residents of Ukraine. They must have been living in the residence country in the past 6 months;  
+- effective 10 October 2021, residents of Bahrain and United Arab Emirates. They must have been living in the residence country in the past 6 months;  
 - military personnel;  
 - merchant seamen;  
 - students;  
