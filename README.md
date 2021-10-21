@@ -644,7 +644,7 @@ Passengers and airline crew without a negative COVID-19 PCR test result issued a
 7. Passengers could be subject to quarantine for 5 days. More details can be found at [http://www.sabatourism.com/travel-requirements](http://www.sabatourism.com/travel-requirements) and [https://www.statiagovernment.com/key-topics/covid-19/entry-policy](https://www.statiagovernment.com/key-topics/covid-19/entry-policy) .
 
 # Brazil
-### 08.10.2021
+### 20.10.2021
 1. Passengers entering or transiting through Brazil must have:  
 - a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point; or  
 - a negative COVID-19 antigen test taken at most 24 hours before departure from the first embarkation point. The test result must be in English, Portuguese or Spanish.  
@@ -654,7 +654,8 @@ Passengers and airline crew without a negative COVID-19 PCR test result issued a
 - passengers with two positive COVID-19 RT-PCR tests. The tests must be taken at least 14 days apart and the second test at most 72 hours before departure; and  
 - a negative or non-detectable COVID-19 antigen test taken after the last positive COVID-19 RT-PCR test; and  
 - a COVID-19 recovery certificate in English, Portuguese or Spanish showing that they are asymptomatic and fit to fly. The certificate must show the travel date.  
-2. Passengers and airline crew must complete a "Traveler's Health Declaration" form before departure and present it upon arrival. The form can be found at [https://formulario.anvisa.gov.br/](https://formulario.anvisa.gov.br/)
+2. Passengers and airline crew must complete a "Traveler's Health Declaration" form before departure and present it upon arrival. The form can be found at [https://formulario.anvisa.gov.br/](https://formulario.anvisa.gov.br/)  
+3. Airline crew are subject to quarantine at a hotel until their next flight.
 
 # Commonwealth of The Bahamas
 ### 30.09.2021
@@ -1177,36 +1178,35 @@ The test result must be in Danish, English, French, German, Icelandic, Italian, 
 - This does not apply to passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty) and Sinopharm. The certificate must be in English.
 
 # Dominican Republic
-### 30.09.2021
+### 20.10.2021
 1. Passengers must complete an "Electronic Ticket" at [https://eticket.migracion.gob.do/](https://eticket.migracion.gob.do/) before arrival. This will generate a QR code which must be presented upon arrival.  
-2. Passengers arriving from or who in the past 14 days have been in Spain must have:  
+2. Passengers and airline crew arriving from or who in the past 14 days have been in Spain must have:  
 - a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival; or  
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival.  
 - This does not apply to passengers younger than 7 years.  
 3. Passengers arriving from or who in the past 14 days have been in Australia, Brazil, Congo (Dem. Rep.), India, Indonesia, Iran, Iraq, Ireland (Rep.), Kuwait, Monaco, Senegal, South Africa, St. Vincent and the Grenadines, Sweden, Syria, Thailand, Tunisia or United Kingdom must have:  
 - a negative COVID-19 PCR test taken at most 72 hours before arrival; or  
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least three weeks before arrival.  
-- This does not apply to passengers younger than 5 years.  
+- This does not apply to passengers younger than 7 years.  
 4. Passengers arriving from Venezuela must have an authorization obtained from immigration authorities before departure.  
 5. Passengers could be subject to a COVID-19 test upon arrival.  
 - This does not apply to:  
 - passengers with a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival; or  
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least three weeks before arrival.  
 6. Passengers and airline crew could be subject to medical screening upon arrival. Details can be found at [www.godominicanrepublic.com/newsroom/coronavirus](http://www.godominicanrepublic.com/newsroom/coronavirus)  
-7. Airline crew arriving from Spain without a negative COVID-19 antigen or PCR test taken at most 72 hours before arrival or a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival, are subject to self-isolation until their next flight.  
-8. Airline crew arriving from Australia, Brazil, Congo (Dem. Rep.), India, Indonesia, Iran, Iraq, Ireland (Rep.), Kuwait, Monaco, Senegal, South Africa, St. Vincent and the Grenadines, Sweden, Syria, Thailand, Tunisia or United Kingdom without a negative COVID-19 PCR test taken at most 72 hours before arrival or a COVID-19 vaccination certificate showing that they were fully vaccinated at least three weeks before arrival, are subject to self-isolation until their next flight.
+7. Airline crew arriving from Australia, Brazil, Congo (Dem. Rep.), India, Indonesia, Iran, Iraq, Ireland (Rep.), Kuwait, Monaco, Senegal, South Africa, St. Vincent and the Grenadines, Sweden, Syria, Thailand, Tunisia or United Kingdom without a negative COVID-19 PCR test taken at most 72 hours before arrival or a COVID-19 vaccination certificate showing that they were fully vaccinated at least three weeks before arrival, are subject to self-isolation until their next flight.
 
 # Algeria
-### 03.08.2021
+### 20.10.2021
 1. Flights to Algeria are suspended.  
-This does not apply to:  
+- This does not apply to:  
 - flights arriving from France, Germany, Italy, Russian Fed., Spain, Tunisia and Turkey;  
 - medevac and repatriation flights.  
-2. Passengers must have a printed negative COVID-19 RT-PCR test result issued at most 36 hours before arrival. The test result must be in Arabic, English or French.  
+2. Passengers must have a printed negative COVID-19 RT-PCR test result issued at most 36 hours before departure. The test result must be in Arabic, English or French.  
 - This does not apply to:  
 - passengers younger than 12 years;  
-- passengers with a diplomatic passport arriving on a indirect long-haul flight.  
-3. Passengers with a diplomatic passport arriving on a indirect long-haul flight must have a printed negative COVID-19 RT-PCR test result issued at most 72 hours before arrival. The test result must be in Arabic, English or French.  
+- passengers with a diplomatic passport arriving on an indirect long-haul flight.  
+3. Passengers with a diplomatic passport arriving on an indirect long-haul flight must have a printed negative COVID-19 RT-PCR test result issued at most 72 hours before departure. The test result must be in Arabic, English or French.  
 4. Passengers are subject to a COVID-19 antigen test upon arrival.
 
 # Ecuador
@@ -2285,7 +2285,7 @@ Details can be found at [https://www.mhlw.go.jp/content/000800272.pdf](https://w
 4. Visa on arrival facilities have been reinstated.
 
 # Cambodia
-### 04.08.2021
+### 20.10.2021
 1. All visa exemptions, visas on arrival and e-visas are suspended.  
 - This does not apply to passengers with a diplomatic visa (Visa A) or an official visa (Visa B) issued by Cambodia.  
 2. Passengers must have a printed negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English and have a stamp or the signature of the doctor.  
@@ -2297,7 +2297,7 @@ This does not apply to:
 - passengers with a diplomatic visa (Visa A) or an official visa (Visa B) issued by Cambodia;  
 - nationals of Cambodia with a foreign passport and a Visa K entry permit issued by Cambodia;  
 - passengers traveling on business with a “Validation Application on Payment Guarantee/Invitation" (VAPGI).  
-4. Passengers are subject to a COVID-19 test upon arrival and quarantine for 14 days.
+4. Passengers are subject to a COVID-19 test upon arrival and quarantine for up to 14 days.
 
 # Kiribati
 ### 30.09.2021
@@ -3444,7 +3444,7 @@ The certificate must have a QR code or be approved by the authorities in the cou
 7. Passengers are subject to quarantine for up to 21 days. They must have a hotel booking confirmation.
 
 # Philippines
-### 16.10.2021
+### 20.10.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of the Philippines;  
@@ -3466,14 +3466,14 @@ The certificate must have a QR code or be approved by the authorities in the cou
 - a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point, if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac; or  
 - a hotel reservation confirmation for at least 6 days, if they do not have a COVID-19 vaccination certificate. The hotel must be approved by Tourism and Health Agencies and listed at [https://quarantine.doh.gov.ph/quarantine-facilities/](https://quarantine.doh.gov.ph/quarantine-facilities/) .  
 - This does not apply to:  
-- nationals of the Philippines who are Overseas Filipino Workers (OFW);  
+- nationals of the Philippines;  
 - passengers with a diplomatic passport and passengers with a 9(E) visa.  
 6. Passengers arriving from a country other than Algeria, Bhutan, Burkina Faso, Cameroon, Cayman Isl., Chad, China (People's Rep.), Chinese Taipei, Comoros, Congo, Cook Isl., Eritrea, Falkland Isl. (Malvinas), Gibraltar, Hong Kong (SAR China), Kiribati, Korea (Dem. People's Rep.), Madagascar, Mali, Marshall Isl., Micronesia (Federated States), Montserrat, Nauru, New Zealand, Nicaragua, Niger, Niue, Northern Mariana Isl., Palau, Poland, Samoa, Samoa (American), Sierra Leone, Solomon Isl., St. Helena, St. Pierre and Miquelon, Sudan, Syria, Tajikistan, Tanzania, Tonga, Turkmenistan, Tuvalu, Uzbekistan, Vanuatu or Yemen must have a hotel reservation confirmation for at least:  
 - 6 days, if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or  
 - 8 days, if they do not have a COVID-19 vaccination certificate.  
 The hotel must be approved by Tourism and Health Agencies and listed at [https://quarantine.doh.gov.ph/quarantine-facilities/](https://quarantine.doh.gov.ph/quarantine-facilities/) . Vaccines accepted are: AstraZeneca (Vaxzevria), AstraZeneca (SK Bioscience), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac.  
 - This does not apply to:  
-- nationals of the Philippines who are Overseas Filipino Workers (OFW);  
+- nationals of the Philippines;  
 - passengers with a diplomatic passport and passengers with a 9(E) visa.  
 7. Passengers with a diplomatic passport and passengers with a 9(E) visa could be subject to home quarantine for 10 days.  
 8. Passengers are subject to quarantine at the first point of entry for 10 to 14 days, including the hotel quarantine in item 5.  
@@ -3625,7 +3625,7 @@ More exemptions can be found at [https://tinyurl.com/4wtws28x](https://tinyurl.c
 - This does not apply to emergency passports which must be valid on arrival.
 
 # Portugal
-### 15.10.2021
+### 20.10.2021
 1. Until 31 October 2021, passengers are not allowed to enter.  
 This does not apply to:  
 - nationals of Portugal and their family members;  
@@ -3658,12 +3658,12 @@ This does not apply to:
 - passengers with an EU Digital Covid Certificate (EU DCC); or  
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and issued in Albania, Andorra, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See). Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);  
 - passengers with a positive COVID-19 test result and a recovery certificate.  
-5. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test result of a test taken at most 72 hours before departure are subject to an RT-PCR test upon arrival and quarantine.  
+5. Passengers traveling on a direct flight to Madeira without a negative COVID-19 RT-PCR test result of a test taken at most 72 hours before departure are subject to an RT-PCR test upon arrival or quarantine.  
 This does not apply to:  
 - passengers younger than 12 years;  
-- passengers with a COVID-19 recovery certificate issued at most 90 days before arrival;  
+- passengers with a COVID-19 recovery certificate issued at most 180 days before arrival;  
 - passengers with an EU Digital Covid Certificate (EU DCC); or  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and issued in Albania, Andorra, Faroe Isl., Israel, Monaco, Morocco, North Macedonia (Rep.), Panama, San Marino, Switzerland, Turkey, Ukraine or Vatican City (Holy See). Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty);  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac and Sputnik V;  
 - passengers with a positive COVID-19 test result and a recovery certificate.  
 6. Passengers traveling to Azores must:  
 - complete a "Health Form upon arrival at the Azores" and a "Draft statement for inter-island travel" upon arrival; or  
@@ -3694,7 +3694,7 @@ This does not apply to:
 2. Passengers must complete a "Traveler's Health Information" form at most 24 hours before arrival at [https://tinyurl.com/2er8ee42](https://tinyurl.com/2er8ee42) . This will generate a QR code which must be presented upon arrival.
 
 # Qatar
-### 07.10.2021
+### 20.10.2021
 1. Passengers are not allowed to enter Qatar.  
 - This does not apply to:  
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;  
@@ -3702,7 +3702,7 @@ This does not apply to:
 - passengers with a Diplomatic ID issued by the MOFA of Qatar;  
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield,  Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival;  
 - passengers younger than 18 years accompanied by their parents who were fully vaccinated with AstraZeneca (Vaxzevria), Covishield,  Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival. They must not be arriving from a red country listed on [https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx](https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx) ;  
-- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield,  Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival; and  
+- passengers with a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covishield,  Janssen, Moderna (Spikevax), or Pfizer-BioNTech (Comirnaty), at least 14 days before arrival; and  
 - a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates.  
 2. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival.  
 - This does not apply to:  
@@ -4152,7 +4152,7 @@ All documents for passengers arriving from Israel must be issued in Israel.
 3. Passengers and airline crew are subject to medical screening and quarantine for 7 days.
 
 # Suriname
-### 26.08.2021
+### 20.10.2021
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - passengers with an attestation of the Ministry of Foreign Affairs, International Business and International Cooperation of Suriname obtained before departure by sending an email to [conza@gov.sr](mailto:conza@gov.sr) ;  
@@ -4162,7 +4162,7 @@ All documents for passengers arriving from Israel must be issued in Israel.
 Vaccines accepted are: AstraZeneca (Vaxzevria), AZD1222 (SK Bioscience Co Ltd.), Covishield, Janssen, Moderna, Pfizer-BioNTech, Sinopharm and Sinovac.  
 2. Flights to Suriname are suspended  
 - This does not apply to flights arriving from Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Brazil, Cayman Isl., Curacao, Dominica, French Guiana, Grenada, Guyana, Jamaica, Martinique, Montserrat, Netherlands, St. Barthelemy, St. Kitts and Nevis, St. Lucia, St. Maarten, St. Martin, St. Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Isl., USA, Virgin Isl. (British) or Virgin Isl. (USA).  
-3. Passengers must have a negative COVID-19 PCR test taken at most 72 hours before arrival.  
+3. Passengers must have a negative COVID-19 antigen test taken at most 24 hours before arrival.  
 - This does not apply to passengers younger than 12 years.  
 4. Passengers must have a confirmed accommodation booking for at least 7 days at a registered SHATA accommodation.  
 - This does not apply to passengers older than 17 years with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before arrival.  
@@ -4222,11 +4222,11 @@ Vaccines accepted are: AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Sp
 7. Passengers are subject to medical screening and could be subject to COVID-19 test upon arrival and to self-isolation.
 
 # Syrian Arab Republic
-### 01.06.2021
+### 20.10.2021
 1. Flights to Syria are suspended.  
 - This does not apply to Aleppo (ALP), Damascus (DAM) and Kameshly (KAC).  
 2. Passengers are not allowed to enter.  
-This does not apply to:  
+- This does not apply to:  
 - nationals and residents of Syria;  
 - passengers with a diplomatic passport;  
 - passengers with a visa issued by Syria;  
@@ -4235,8 +4235,10 @@ This does not apply to:
 - children of mothers who are nationals of Syria;  
 - students registered in Syrian schools or universities.  
 3. Passengers must have a negative COVID-19 PCR test result issued at most 96 hours before departure from the first embarkation point.  
-- This does not apply to passengers younger than 12 years.  
-4. Passengers are subject to a COVID-19 PCR test upon arrival.  
+- This does not apply to:  
+- passengers younger than 12 years;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 7 days before departure.  
+4. Passengers could be subject to a COVID-19 PCR test upon arrival.  
 - This does not apply to passengers younger than 12 years.  
 5. A completed "Passenger Locator Form" (PLF) must be presented upon arrival.  
 6. Passengers could be subject to self-isolation or quarantine.
@@ -4632,8 +4634,8 @@ All documents for passengers arriving from Israel must be issued in Israel.
 5. Passengers transiting overnight in St. Vincent and the Grenadines must stay in an approved hotel; details can be found at [http://health.gov.vc/health/index.php/covid-19-protocols-documents](http://health.gov.vc/health/index.php/covid-19-protocols-documents) .
 
 # Venezuela (Bolivarian Republic of)
-### 21.09.2021
-1. Flights to Venezuela are suspended.  
+### 20.10.2021
+1. Until 18 November 2021, flights to Venezuela are suspended.  
 - This does not apply to:  
 - flights from Bolivia, Dominican Rep., Mexico, Panama, Russian Fed. or Turkey;  
 - humanitarian, medevac and repatriation flights.  
@@ -4662,21 +4664,15 @@ All documents for passengers arriving from Israel must be issued in Israel.
 7. Passengers are subject to quarantine for up to 7 days. More details can be found at [https://bvigateway.bviaa.com/](https://bvigateway.bviaa.com/)
 
 # Virgin Islands (U.S.)
-### 16.08.2021
+### 20.10.2021
 1. Passengers entering or transiting through Virgin Isl. (USA) must have a travel certification obtained at [https://usvitravelportal.com/](https://usvitravelportal.com/) at most 5 days before departure from the first embarkation point. This will generate a green QR code which must be presented before boarding.  
 - This does not apply to passengers younger than 5 years.  
 2. Passengers entering or transiting through Virgin Isl. (USA) must have a negative COVID-19 antigen or molecular test taken at most 5 days before departure from the first embarkation point. The test result must be issued by an approved laboratory, details can be found at [https://usviupdate.com/](https://usviupdate.com/) .  
 - This does not apply to:  
 - passengers younger than 5 years;  
-- passengers arriving from Puerto Rico, USA, Virgin Isl. (British) or Virgin Isl. (USA).  
-3. Passengers entering or transiting through Virgin Isl. (USA) and arriving from Virgin Isl. (British) must have a negative COVID-19 antigen or PCR test taken at most 48 hours before departure from the first embarkation point. The test result must be issued by an approved laboratory, details can be found at [https://usviupdate.com/](https://usviupdate.com/) .  
-- This does not apply to passengers younger than 5 years.  
-4. Passengers entering or transiting through Virgin Isl. (USA) and arriving from Puerto Rico or USA must have:  
-- a COVID-19 vaccination certificate issued in Virgin Isl. (USA) showing that they were fully vaccinated at least 14 days before arrival; or  
-- a negative COVID-19 antigen or molecular test taken at most 5 days before departure from the first embarkation point. The test result must be issued by an approved laboratory, details can be found at [https://usviupdate.com/](https://usviupdate.com/) .  
-- This does not apply to passengers younger than 5 years.  
-5. Passengers could be subject to medical screening and quarantine upon arrival.  
-6. Nationals of the U.S.A. are allowed to enter with an expired passport.  
+- passengers arriving from USA with a COVID-19 vaccination certificate issued in Virgin Isl. (USA) showing that they were fully vaccinated at least 14 days before arrival.  
+3. Passengers could be subject to medical screening and quarantine upon arrival.  
+4. Nationals of the U.S.A. are allowed to enter with an expired passport.  
 - This does not apply to emergency passports which must be valid on arrival.
 
 # Vietnam
