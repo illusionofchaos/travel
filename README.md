@@ -569,10 +569,9 @@ Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covi
 2. Passengers are subject to a PCR test upon arrival at their own expense.
 
 # Benin
-### 30.12.2021
+### 01.01.2022
 1. Passengers must complete an online application form before departure at [http://centresurveillancesanitaire.com](http://centresurveillancesanitaire.com)  
-2. Until 31 December 2021, passengers are subject to a COVID-19 PCR test upon arrival at their own expense.  
-Effective 1 January 2022, passengers must have a negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point.  
+2. Passengers must have a negative COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point.  
 - This does not apply to passengers younger than 1 year.
 
 # Bermuda
@@ -600,32 +599,7 @@ Effective 1 January 2022, passengers must have a negative COVID-19 PCR test take
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: AstraZeneca (Vaxzevria), Janssen, Moderna (Spikevax), Pfizer (Comirnaty), Sinopharm (BIBP) and Sinovac.
 
 # Brunei Darussalam
-### 30.12.2021
-Until 31 December 2021:  
-1. Passengers are not allowed to enter and transit.  
-- This does not apply to:  
-- nationals and permanent residents of Brunei Darussalam;  
-- passengers with a diplomatic passport. They must have an Entry Travel Pass letter issued by The Government of Brunei Darussalam and a return/onward ticket. They must not arrive from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe;  
-- members of the Armed Forces. They must not arrive from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe;  
-- passengers travelling on business or on duty with an Entry Travel Pass letter issued by the Government of Brunei Darussalam. They must have stayed in the country of departure in the last 14 days before departure and have a mobile device with the BruHealth app downloaded. They must not arrive from Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa and Zimbabwe;  
-- passengers traveling on business or on duty from Singapore if they:  
-- have a valid Entry Travel Pass issued by Brunei Darussalam under the Brunei Darussalam-Singapore Reciprocal Green Lane; and  
-- have a visa to enter Brunei Darussalam (if they are a visa-required); and  
-- have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point; and  
-- stayed in Singapore in the last 14 days before departure; and  
-- have a return ticket or proof of other transportation arrangements to depart from Brunei Darussalam.  
-More details can be found at [http://www.pmo.gov.bn/travelportal/Home.aspx](http://www.pmo.gov.bn/travelportal/Home.aspx) and [https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-brunei](https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-brunei)  
-2. Passengers must have a negative COVID-19 RT-PCR test taken at most 48 hours before departure.  
-3. Passengers with an Entry Travel Pass letter issued by The Government of Brunei Darussalam must have a confirmed hotel reservation and download the BruHealth app in their mobile device.  
-- This does not apply to passengers with a diplomatic passport.  
-4. Passengers are subject to a COVID-19 RT-PCR test upon arrival.  
-5. Passengers must have a proof of payment for the PCR test.  
-- This does not apply to:  
-- nationals and permanent residents of Brunei Darussalam;  
-- passengers with a diplomatic passport.  
-6. Passengers could be subject to quarantine.  
-7. More details can be found at [http://www.pmo.gov.bn/travelportal/Home.aspx](http://www.pmo.gov.bn/travelportal/Home.aspx)  
-Effective 01 January 2022:  
+### 01.01.2022
 1. Passengers are not allowed to enter and transit.  
 - This does not apply to:  
 - nationals and permanent residents of Brunei Darussalam;  
@@ -1055,13 +1029,12 @@ Vaccines accepted are AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikev
 3. Passengers are subject to medical screening.
 
 # Curaçao
-### 25.12.2021
+### 01.01.2022
 1. Passengers must present a "Digital Immigration Card" and a "Public Health Passenger Locator Card (PLC)" obtained at [https://dicardcuracao.com/portal](https://dicardcuracao.com/portal) . The forms must be completed at most 48 hours before departure.  
 2. Passengers must have a negative COVID-19 PCR test taken at most 48 hours before departure. The test result must be uploaded at [https://dicardcuracao.com/portal](https://dicardcuracao.com/portal) .  
 -This does not apply to:  
 - passengers younger than 12 years without COVID-19 symptoms;  
 - passengers arriving and departing, or departing and returning, on the same calendar day;  
-- passengers arriving on direct flights from Saba or St. Eustatius;  
 - passengers with two  positive COVID-19 PCR tests: the first one take at most 3 months before departure, the second one taken at most 48 hours before departure and a negative COVID-19 antigen test taken at most 24 hours before departure.  
 3. Passengers must have medical insurance to cover COVID-19 expenses.  
 - This does not apply to:  
@@ -1496,7 +1469,7 @@ Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Mo
 - effective 1 January 2022, passengers younger than 15 years.
 
 # Fiji
-### 29.12.2021
+### 01.01.2022
 1. Passengers arriving from Australia, Bahrain, Belgium, Cambodia, Canada, Chile, Cook Isl., Cyprus, Czechia, Denmark, Finland, France, French Polynesia, Greece, Guam, Ireland (Rep.), Israel, Italy, Japan, Kiribati, Korea (Rep.), Kuwait, Luxembourg, Malta, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Norfolk Isl., Northern Mariana Isl., Palau, Portugal, Qatar, Samoa, Samoa (American), Singapore, Solomon Isl., Spain, Sweden, Switzerland, Tonga, Turkey, Tuvalu, United Arab Emirates, United Kingdom, USA, Vanuatu or Wallis and Futuna Isl. must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure.  
 Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).  
 - This does not apply to passengers younger than 18 years traveling with a fully vaccinated parent or guardian.  
@@ -1504,31 +1477,23 @@ Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covi
 - a pre-approval from the COVID-19 Risk Mitigation Taskforce (CRMT); and  
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty).  
 - This does not apply to passengers younger than 18 years traveling with a fully vaccinated parent or guardian.  
-3. Until 31 December 2021, passengers must have a negative COVID-19 PCR test taken at most 3 days before departure. The test must be based on nasal, nasopharyngeal or mid-turbinate swab.  
-- This does not apply to:  
-- passengers younger than 6 years;  
-- passengers younger than 12 years arriving from Australia, Bahrain, Belgium, Cambodia, Canada, Chile, Cook Isl., Cyprus, Czechia, Denmark, Finland, France, French Polynesia, Greece, Guam, Ireland (Rep.), Israel, Italy, Japan, Kiribati, Korea (Rep.), Kuwait, Luxembourg, Malta, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Norfolk Isl., Northern Mariana Isl., Palau, Portugal, Qatar, Samoa, Samoa (American), Singapore, Solomon Isl., Spain, Sweden, Switzerland, Tonga, Turkey, Tuvalu, United Arab Emirates, Vanuatu or Wallis and Futuna Isl.;  
-- passengers arriving from United Kingdom or USA;  
-- passengers with a positive PCR test taken at most 90 days before departure. They must have a medical certificate issued by a medical practitioner showing they are fit to fly and have completed an isolation period.  
-4. Until 31 December 2021, passengers entering or transiting through Fiji arriving from United Kingdom or USA must have a negative COVID-19 PCR test taken at most 1 day before departure from the first embarkation point. The test must be based on nasal, nasopharyngeal or mid-turbinate swab.  
-- This does not apply to passengers younger than 12 years.  
-5. Effective 1 January 2022, passengers must have a negative COVID-19 PCR test taken at most 2 days before departure from the first embarkation point. The test must be based on nasal, nasopharyngeal or mid-turbinate swab.  
+3. Passengers must have a negative COVID-19 PCR test taken at most 2 days before departure from the first embarkation point. The test must be based on nasal, nasopharyngeal or mid-turbinate swab.  
 - This does not apply to:  
 - passengers younger than 6 years;  
 - passengers younger than 12 years arriving from Australia, Bahrain, Belgium, Cambodia, Canada, Chile, Cook Isl., Cyprus, Czechia, Denmark, Finland, France, French Polynesia, Greece, Guam, Ireland (Rep.), Israel, Italy, Japan, Kiribati, Korea (Rep.), Kuwait, Luxembourg, Malta, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Norfolk Isl., Northern Mariana Isl., Palau, Portugal, Qatar, Samoa, Samoa (American), Singapore, Solomon Isl., Spain, Sweden, Switzerland, Tonga, Turkey, Tuvalu, United Arab Emirates, Vanuatu or Wallis and Futuna Isl.;  
 - passengers with a positive PCR test taken at most 90 days before departure. They must have a medical certificate issued by a medical practitioner showing they are fit to fly and have completed an isolation period.  
-6. Passengers arriving from Australia, Bahrain, Belgium, Cambodia, Canada, Chile, Cook Isl., Cyprus, Czechia, Denmark, Finland, France, French Polynesia, Greece, Guam, Ireland (Rep.), Israel, Italy, Japan, Kiribati, Korea (Rep.), Kuwait, Luxembourg, Malta, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Norfolk Isl., Northern Mariana Isl., Palau, Portugal, Qatar, Samoa, Samoa (American), Singapore, Solomon Isl., Spain, Sweden, Switzerland, Tonga, Turkey, Tuvalu, United Arab Emirates, United Kingdom, USA, Vanuatu or Wallis and Futuna Isl. must have proof of:  
+4. Passengers arriving from Australia, Bahrain, Belgium, Cambodia, Canada, Chile, Cook Isl., Cyprus, Czechia, Denmark, Finland, France, French Polynesia, Greece, Guam, Ireland (Rep.), Israel, Italy, Japan, Kiribati, Korea (Rep.), Kuwait, Luxembourg, Malta, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Norfolk Isl., Northern Mariana Isl., Palau, Portugal, Qatar, Samoa, Samoa (American), Singapore, Solomon Isl., Spain, Sweden, Switzerland, Tonga, Turkey, Tuvalu, United Arab Emirates, United Kingdom, USA, Vanuatu or Wallis and Futuna Isl. must have proof of:  
 - at least 3 nights pre-paid accommodation at a Care Fiji Commitment (CFC) hotel; and  
 - certified transport from the airport.  
 They must have stayed in Australia, Bahrain, Belgium, Cambodia, Canada, Chile, Cook Isl., Cyprus, Czechia, Denmark, Finland, France, French Polynesia, Greece, Guam, Ireland (Rep.), Israel, Italy, Japan, Kiribati, Korea (Rep.), Kuwait, Luxembourg, Malta, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Norfolk Isl., Northern Mariana Isl., Palau, Portugal, Qatar, Samoa, Samoa (American), Singapore, Solomon Isl., Spain, Sweden, Switzerland, Tonga, Turkey, Tuvalu, United Arab Emirates, United Kingdom, USA, Vanuatu or Wallis and Futuna Isl. in the last 14 days.  
-7. Passengers arriving from a country other than Australia, Bahrain, Belgium, Cambodia, Canada, Chile, Cook Isl., Cyprus, Czechia, Denmark, Finland, France, French Polynesia, Greece, Guam, Ireland (Rep.), Israel, Italy, Japan, Kiribati, Korea (Rep.), Kuwait, Luxembourg, Malta, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Norfolk Isl., Northern Mariana Isl., Palau, Portugal, Qatar, Samoa, Samoa (American), Singapore, Solomon Isl., Spain, Sweden, Switzerland, Tonga, Turkey, Tuvalu, United Arab Emirates, United Kingdom, USA, Vanuatu or Wallis and Futuna Isl. must have proof of pre-paid accommodation of at least 10 nights at a Fiji Managed Quarantine facility.  
-8. Passengers must have health insurance to cover COVID-19 expenses.  
+5. Passengers arriving from a country other than Australia, Bahrain, Belgium, Cambodia, Canada, Chile, Cook Isl., Cyprus, Czechia, Denmark, Finland, France, French Polynesia, Greece, Guam, Ireland (Rep.), Israel, Italy, Japan, Kiribati, Korea (Rep.), Kuwait, Luxembourg, Malta, Marshall Isl., Micronesia (Federated States), Nauru, New Caledonia, New Zealand, Norfolk Isl., Northern Mariana Isl., Palau, Portugal, Qatar, Samoa, Samoa (American), Singapore, Solomon Isl., Spain, Sweden, Switzerland, Tonga, Turkey, Tuvalu, United Arab Emirates, United Kingdom, USA, Vanuatu or Wallis and Futuna Isl. must have proof of pre-paid accommodation of at least 10 nights at a Fiji Managed Quarantine facility.  
+6. Passengers must have health insurance to cover COVID-19 expenses.  
 - This does not apply to nationals and residents of Fiji.  
-9. Passengers transiting through Fiji for 10 hours or longer are subject to quarantine until their connection flight at a hotel booked at [https://fijimanagedquarantine.com](https://fijimanagedquarantine.com) or at a Fiji Managed Quarantine Facility.  
-10. Airline crew of foreign airlines must have:  
+7. Passengers transiting through Fiji for 10 hours or longer are subject to quarantine until their connection flight at a hotel booked at [https://fijimanagedquarantine.com](https://fijimanagedquarantine.com) or at a Fiji Managed Quarantine Facility.  
+8. Airline crew of foreign airlines must have:  
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. Vaccines accepted are AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax) and Pfizer-BioNTech (Comirnaty); and  
 - a negative COVID-19 PCR test taken at most 3 days before departure. The test must be based on nasal, nasopharyngeal or mid-turbinate swab.  
-11. Airline crew of foreign airlines are subject to quarantine until their next flight at a hotel booked at [https://fijimanagedquarantine.com](https://fijimanagedquarantine.com) or at a Fiji Managed Quarantine Facility.
+9. Airline crew of foreign airlines are subject to quarantine until their next flight at a hotel booked at [https://fijimanagedquarantine.com](https://fijimanagedquarantine.com) or at a Fiji Managed Quarantine Facility.
 
 # Falkland Islands
 ### 24.11.2021
@@ -2631,7 +2596,7 @@ This does not apply to:
 5. Passengers could be subject to quarantine for 10 days. A list of quarantine exemptions can be found at [https://tinyurl.com/yjn3csr7](https://tinyurl.com/yjn3csr7)
 
 # Sri Lanka
-### 14.12.2021
+### 01.01.2022
 1. Passengers must have a printed negative COVID-19 PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.  
 - This does not apply to:  
 - passengers younger than 12 years;  
@@ -2643,8 +2608,7 @@ This does not apply to:
 - passengers with a positive COVID-19 antigen or PCR test taken at most 3 months before departure; and  
 - a COVID-19 vaccination certificate stating that they received a vaccine dose at least 14 days after the positive test and at least 14 days before departure.  
 They must also have a printed negative COVID-19 antigen test taken at most 48 hours before departure from the first embarkation point. Test results and vaccination certificates must be in English.  
-3. Until 31 December 2021, passengers must complete a "Health Declaration" form online at [https://airport.lk/health\_declaration/index](https://airport.lk/health_declaration/index) or upon arrival.  
-Effective 1 January 2022, passengers must complete a "Health Declaration" form online at [https://airport.lk/health\_declaration/index](https://airport.lk/health_declaration/index)  
+3. Passengers must complete a "Health Declaration" form online at [https://airport.lk/health\_declaration/index](https://airport.lk/health_declaration/index)  
 4. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 2 weeks before departure traveling as tourists can obtain an Electronic Travel Authorization (ETA) on arrival.  
 5. Passengers could be subject to quarantine for 7 days. Details can be found at [https://www.epid.gov.lk/web/](https://www.epid.gov.lk/web/)  
 - This does not apply to:  
@@ -2921,14 +2885,14 @@ Until 31 January 2022, passengers are not allowed to enter.
 4. Airline crew are subject to quarantine until their next scheduled flight.
 
 # Myanmar
-### 31.12.2021
+### 01.01.2022
 1. Until 31 January 2022, flights to Myanmar are suspended.  
 - This does not apply to medevac flights.  
 2. Passengers must have an approval from Ministry of Foreign Affairs Myanmar.  
 - This does not apply to nationals of Myanmar.  
 3. Passengers must have a negative COVID-19 PCR test result issued at most 72 hours before departure.  
 - This does not apply to nationals of Myanmar.  
-4. Passengers are subject to quarantine for 10 days.  
+4. Passengers are subject to quarantine for up to 10 days.  
 5. Airline crew are subject to quarantine until their next flight.  
 6. Suspension of all visa exemptions and visa on arrival facilities.
 
@@ -3471,8 +3435,8 @@ The certificate and the test must have a QR code or be approved by the authoriti
 5. A completed "Declaracion Jurada de Salud" must be presented upon arrival. The form can be obtained at [https://www.panamadigital.gob.pa](https://www.panamadigital.gob.pa/)
 
 # Peru
-### 31.12.2021
-1. Flights from South Africa are suspended.  
+### 01.01.2022
+1. Until 31 January 2022, flights from South Africa are suspended.  
 2. Until 16 January 2022, passengers are not allowed to enter if in the past 14 days they have been in or transited through Botswana or South Africa.  
 - This does not apply to nationals and residents of Peru.  
 3. Passengers must have:  
@@ -3521,13 +3485,13 @@ The certificate and the test must have a QR code or be approved by the authoriti
 7. Passengers are subject to quarantine for up to 21 days. They must have a hotel booking confirmation.
 
 # Philippines
-### 17.12.2021
-1. Passengers who in the past 14 days have been in Andorra, France, Monaco, Northern Mariana Isl., Reunion, San Marino, South Africa or Switzerland, are not allowed to enter.  
+### 01.01.2022
+1. Passengers who in the past 14 days have been in Eswatini, Lesotho, Malawi, Mozambique, Namibia or Spain, are not allowed to enter.  
 - This does not apply to:  
 - nationals of the Philippines on Bayanihan flights or repatriation flights;  
 - passengers with diplomatic or official passports and their family members;  
-- passengers who only transited through Andorra, France, Monaco, Northern Mariana Isl., Reunion, San Marino, South Africa or Switzerland.  
-2. Passengers arriving from Andorra, France, Monaco, Northern Mariana Isl., Reunion, San Marino, South Africa or Switzerland , must enter the Philippines via Angeles city (CRK) or Manila (MNL).  
+- passengers who only transited through Eswatini, Lesotho, Malawi, Mozambique, Namibia or Spain.  
+2. Passengers arriving from Eswatini, Lesotho, Malawi, Mozambique, Namibia or Spain, must enter the Philippines via Angeles city (CRK) or Manila (MNL).  
 3. Passengers must have a negative COVID-19 RT-PCR test taken at most 72 hours before departure from the first embarkation point.  
 - This does not apply to passengers without COVID-19 symptoms who are 3 years old and younger.  
 4. Passengers are not allowed to enter.  
@@ -3742,14 +3706,14 @@ This does not apply to:
 5. Passengers could be subject to quarantine for 10 days.
 
 # Qatar
-### 30.12.2021
+### 01.01.2022
 1. Passengers and airline crew are not allowed to enter Qatar.  
 - This does not apply to:  
 - nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates;  
 - residents of Qatar;  
 - passengers with a Diplomatic ID issued by the MOFA of Qatar;  
 - passengers younger than 12 years traveling with fully vaccinated parent(s);  
-- passengers arriving from green list countries: Afghanistan, Albania, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Azerbaijan, Bahamas, Bahrain, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Cayman Isl., Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Cook Isl., Costa Rica, Cote d'Ivoire, Cuba, Curacao, Cyprus, Djibouti, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, Estonia, Ethiopia, Fiji, Finland, France, French Polynesia, Gabon, Gambia, Ghana, Gibraltar, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hong Kong (SAR China), Iceland, Iraq, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kiribati, Korea (Rep.), Kosovo (Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Latvia, Lebanon, Liberia, Libya, Liechtenstein, Luxembourg, Macao (SAR China), Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Isl., Mauritania, Mauritius, Mexico, Micronesia (Federated States), Moldova (Rep.), Mongolia, Montserrat, Morocco, Mozambique, Myanmar, Nauru, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Niue, North Macedonia (Rep.), Norway, Oman, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Portugal, Romania, Russian Fed., Rwanda, Samoa, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Solomon Isl., Somalia, Spain, St. Helena, St. Kitts and Nevis, St. Lucia, St. Maarten, St. Vincent and the Grenadines, Suriname, Sweden, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Isl., Tuvalu, USA, Uganda, Ukraine, United Arab Emirates, Uruguay, Uzbekistan, Vanuatu, Venezuela, Viet Nam, Virgin Isl. (British), Wallis and Futuna Isl., Yemen or Zambia. Effective 1 January 2022, Qatar will remove Anguilla, Canada, Cayman Isl, Cyprus, Ethiopia, France, Gibraltar, Jordan, Kenya, Lebanon, Liechtenstein, Luxembourg, Maldives, Mauritius, Norway, Saudi Arabia, Spain, USA and United Arab Emirates from the green list of countries and add Austria, Barbados, Greece, Hungary, Iran, Montenegro and Syria to the green list of countries.  
+- passengers arriving from green list countries: Afghanistan, Albania, Angola, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Barbados, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Cape Verde, Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Cook Isl., Costa Rica, Cote d'Ivoire, Cuba, Curacao, Djibouti, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, Estonia, Fiji, Finland, French Polynesia, Gabon, Gambia, Ghana, Greece, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hong Kong (SAR China), Hungary, Iceland, Iran, Iraq, Italy, Jamaica, Japan, Kazakhstan, Kiribati, Korea (Rep.), Kosovo (Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Latvia, Liberia, Libya, Macao (SAR China), Madagascar, Malawi, Malaysia, Mali, Malta, Marshall Isl., Mauritania, Mexico, Micronesia (Federated States), Moldova (Rep.), Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Myanmar, Nauru, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Niue, North Macedonia (Rep.), Oman, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Portugal, Romania, Russian Fed., Rwanda, Samoa, Sao Tome and Principe, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Solomon Isl., Somalia, St. Helena, St. Kitts and Nevis, St. Lucia, St. Maarten, St. Vincent and the Grenadines, Suriname, Sweden, Syria, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Isl., Tuvalu, Uganda, Ukraine, Uruguay, Uzbekistan, Vanuatu, Venezuela, Viet Nam, Virgin Isl. (British), Wallis and Futuna Isl., Yemen or Zambia.  
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival;  
 - passengers with a COVID-19 recovery certificate issued in the past 12 months in Bahrain, Kuwait, Oman, Qatar, Saudi Arabia or United Arab Emirates; and  
 - a COVID-19 vaccination certificate showing that they received the first vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival;  
@@ -3762,26 +3726,26 @@ This does not apply to:
 - nationals and residents of Qatar arriving from Saudi Arabia, if they are Umrah passengers;  
 - Umrah passengers arriving from Saudi Arabia with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival.  
 - This does not apply to nationals and residents of Qatar;  
-- nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival, when arriving from green list countries: Afghanistan, Albania, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Azerbaijan, Bahamas, Bahrain, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Cayman Isl., Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Cook Isl., Costa Rica, Cote d'Ivoire, Cuba, Curacao, Cyprus, Djibouti, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, Estonia, Ethiopia, Fiji, Finland, France, French Polynesia, Gabon, Gambia, Ghana, Gibraltar, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hong Kong (SAR China), Iceland, Iraq, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kiribati, Korea (Rep.), Kosovo (Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Latvia, Lebanon, Liberia, Libya, Liechtenstein, Luxembourg, Macao (SAR China), Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Isl., Mauritania, Mauritius, Mexico, Micronesia (Federated States), Moldova (Rep.), Mongolia, Montserrat, Morocco, Mozambique, Myanmar, Nauru, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Niue, North Macedonia (Rep.), Norway, Oman, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Portugal, Romania, Russian Fed., Rwanda, Samoa, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Solomon Isl., Somalia, Spain, St. Helena, St. Kitts and Nevis, St. Lucia, St. Maarten, St. Vincent and the Grenadines, Suriname, Sweden, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Isl., Tuvalu, USA, Uganda, Ukraine, United Arab Emirates, Uruguay, Uzbekistan, Vanuatu, Venezuela, Viet Nam, Virgin Isl. (British), Wallis and Futuna Isl., Yemen or Zambia. Effective 1 January 2022, Qatar will remove Anguilla, Canada, Cayman Isl, Cyprus, Ethiopia, France, Gibraltar, Jordan, Kenya, Lebanon, Liechtenstein, Luxembourg, Maldives, Mauritius, Norway, Saudi Arabia, Spain, USA and United Arab Emirates from the green list of countries and add Austria, Barbados, Greece, Hungary, Iran, Montenegro and Syria to the green list of countries.  
+- nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival, when arriving from green list countries: Afghanistan, Albania, Angola, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Barbados, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Cape Verde, Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Cook Isl., Costa Rica, Cote d'Ivoire, Cuba, Curacao, Djibouti, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, Estonia, Fiji, Finland, French Polynesia, Gabon, Gambia, Ghana, Greece, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hong Kong (SAR China), Hungary, Iceland, Iran, Iraq, Italy, Jamaica, Japan, Kazakhstan, Kiribati, Korea (Rep.), Kosovo (Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Latvia, Liberia, Libya, Macao (SAR China), Madagascar, Malawi, Malaysia, Mali, Malta, Marshall Isl., Mauritania, Mexico, Micronesia (Federated States), Moldova (Rep.), Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Myanmar, Nauru, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Niue, North Macedonia (Rep.), Oman, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Portugal, Romania, Russian Fed., Rwanda, Samoa, Sao Tome and Principe, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Solomon Isl., Somalia, St. Helena, St. Kitts and Nevis, St. Lucia, St. Maarten, St. Vincent and the Grenadines, Suriname, Sweden, Syria, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Isl., Tuvalu, Uganda, Ukraine, Uruguay, Uzbekistan, Vanuatu, Venezuela, Viet Nam, Virgin Isl. (British), Wallis and Futuna Isl., Yemen or Zambia.  
 3. Passengers must register at [https://www.ehteraz.gov.qa/](https://www.ehteraz.gov.qa/) at least 3 days before arrival and obtain pre-travel approval.  
 - This does not apply to nationals and residents of Qatar.  
 4. Passengers must complete the “Undertaking and Acknowledgment Form" before arrival. The form can be found at [https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx](https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx)  
 - This does not apply to:  
 - nationals and residents of Qatar with a COVID-19 vaccination certificate showing that they were fully vaccinated in Qatar, with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival; and  
-- arriving from green list countries: Afghanistan, Albania, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Azerbaijan, Bahamas, Bahrain, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Cayman Isl., Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Cook Isl., Costa Rica, Cote d'Ivoire, Cuba, Curacao, Cyprus, Djibouti, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, Estonia, Ethiopia, Fiji, Finland, France, French Polynesia, Gabon, Gambia, Ghana, Gibraltar, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hong Kong (SAR China), Iceland, Iraq, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kiribati, Korea (Rep.), Kosovo (Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Latvia, Lebanon, Liberia, Libya, Liechtenstein, Luxembourg, Macao (SAR China), Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Isl., Mauritania, Mauritius, Mexico, Micronesia (Federated States), Moldova (Rep.), Mongolia, Montserrat, Morocco, Mozambique, Myanmar, Nauru, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Niue, North Macedonia (Rep.), Norway, Oman, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Portugal, Romania, Russian Fed., Rwanda, Samoa, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Solomon Isl., Somalia, Spain, St. Helena, St. Kitts and Nevis, St. Lucia, St. Maarten, St. Vincent and the Grenadines, Suriname, Sweden, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Isl., Tuvalu, USA, Uganda, Ukraine, United Arab Emirates, Uruguay, Uzbekistan, Vanuatu, Venezuela, Viet Nam, Virgin Isl. (British), Wallis and Futuna Isl., Yemen or Zambia. Effective 1 January 2022, Qatar will remove Anguilla, Canada, Cayman Isl, Cyprus, Ethiopia, France, Gibraltar, Jordan, Kenya, Lebanon, Liechtenstein, Luxembourg, Maldives, Mauritius, Norway, Saudi Arabia, Spain, USA and United Arab Emirates from the green list of countries and add Austria, Barbados, Greece, Hungary, Iran, Montenegro and Syria to the green list of countries.  
+- arriving from green list countries: Afghanistan, Albania, Angola, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Barbados, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Cape Verde, Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Cook Isl., Costa Rica, Cote d'Ivoire, Cuba, Curacao, Djibouti, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, Estonia, Fiji, Finland, French Polynesia, Gabon, Gambia, Ghana, Greece, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hong Kong (SAR China), Hungary, Iceland, Iran, Iraq, Italy, Jamaica, Japan, Kazakhstan, Kiribati, Korea (Rep.), Kosovo (Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Latvia, Liberia, Libya, Macao (SAR China), Madagascar, Malawi, Malaysia, Mali, Malta, Marshall Isl., Mauritania, Mexico, Micronesia (Federated States), Moldova (Rep.), Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Myanmar, Nauru, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Niue, North Macedonia (Rep.), Oman, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Portugal, Romania, Russian Fed., Rwanda, Samoa, Sao Tome and Principe, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Solomon Isl., Somalia, St. Helena, St. Kitts and Nevis, St. Lucia, St. Maarten, St. Vincent and the Grenadines, Suriname, Sweden, Syria, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Isl., Tuvalu, Uganda, Ukraine, Uruguay, Uzbekistan, Vanuatu, Venezuela, Viet Nam, Virgin Isl. (British), Wallis and Futuna Isl., Yemen or Zambia.  
 5. Passengers could be subject to home or hotel quarantine, details can be found at [https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx](https://covid19.moph.gov.qa/EN/Pages/Qatar-Travel-Policyy.aspx)  
 - This does not apply to:  
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival, and their accompanying minors younger than 12 years, when:  
-- arriving from green list countries: Afghanistan, Albania, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Azerbaijan, Bahamas, Bahrain, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Cayman Isl., Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Cook Isl., Costa Rica, Cote d'Ivoire, Cuba, Curacao, Cyprus, Djibouti, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, Estonia, Ethiopia, Fiji, Finland, France, French Polynesia, Gabon, Gambia, Ghana, Gibraltar, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hong Kong (SAR China), Iceland, Iraq, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kiribati, Korea (Rep.), Kosovo (Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Latvia, Lebanon, Liberia, Libya, Liechtenstein, Luxembourg, Macao (SAR China), Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Isl., Mauritania, Mauritius, Mexico, Micronesia (Federated States), Moldova (Rep.), Mongolia, Montserrat, Morocco, Mozambique, Myanmar, Nauru, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Niue, North Macedonia (Rep.), Norway, Oman, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Portugal, Romania, Russian Fed., Rwanda, Samoa, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Solomon Isl., Somalia, Spain, St. Helena, St. Kitts and Nevis, St. Lucia, St. Maarten, St. Vincent and the Grenadines, Suriname, Sweden, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Isl., Tuvalu, USA, Uganda, Ukraine, United Arab Emirates, Uruguay, Uzbekistan, Vanuatu, Venezuela, Viet Nam, Virgin Isl. (British), Wallis and Futuna Isl., Yemen or Zambia; . Effective 1 January 2022, Qatar will remove Anguilla, Canada, Cayman Isl, Cyprus, Ethiopia, France, Gibraltar, Jordan, Kenya, Lebanon, Liechtenstein, Luxembourg, Maldives, Mauritius, Norway, Saudi Arabia, Spain, USA and United Arab Emirates from the green list of countries and add Austria, Barbados, Greece, Hungary, Iran, Montenegro and Syria to the green list of countries.  
-- nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates, 12 years and older, arriving from red list countries: Algeria, Austria, Barbados, Belgium, Croatia, Czechia, Denmark, Dominica, Georgia, Germany, Greece, Hungary, Iran, Ireland (Rep.), Lithuania, Montenegro, Netherlands, Poland, Slovakia, Slovenia, Switzerland, Syria or United Kingdom, with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival; Effective 1 January 2022, Qatar will remove Austria, Barbados, Greece, Hungary, Iran, Montenegro and Syria from the red list of countries and add Anguilla, Canada, Cayman Isl., Cyprus, Eswatini, Ethiopia, France, Gibraltar, Indonesia, Italy, Jordan, Kenya, Lebanon, Liechtenstein, Luxembourg, Maldives, Mauritius, Norway, Philippines, Saudi Arabia, South Africa, South Sudan, Sri Lanka, Spain, Sudan, USA and United Arab Emirates to the red list of countries.  
-- residents of Qatar, 12 years and older, arriving from red list countries: Algeria, Austria, Barbados, Belgium, Croatia, Czechia, Denmark, Dominica, Georgia, Germany, Greece, Hungary, Iran, Ireland (Rep.), Lithuania, Montenegro, Netherlands, Poland, Slovakia, Slovenia, Switzerland, Syria or United Kingdom, with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival. Effective 1 January 2022, Qatar will remove Austria, Barbados, Greece, Hungary, Iran, Montenegro and Syria from the red list of countries and add Anguilla, Canada, Cayman Isl., Cyprus, Eswatini, Ethiopia, France, Gibraltar, Indonesia, Italy, Jordan, Kenya, Lebanon, Liechtenstein, Luxembourg, Maldives, Mauritius, Norway, Philippines, Saudi Arabia, South Africa, South Sudan, Sri Lanka, Spain, Sudan, USA and United Arab Emirates to the red list of countries.  
+- arriving from green list countries: Afghanistan, Albania, Angola, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Barbados, Belarus, Belize, Benin, Bermuda, Bhutan, Bolivia, Bonaire, St. Eustatius and Saba, Bosnia and Herzegovina, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Cape Verde, Central African Rep., Chad, Chile, China (People's Rep.), Colombia, Comoros, Congo, Congo (Dem. Rep.), Cook Isl., Costa Rica, Cote d'Ivoire, Cuba, Curacao, Djibouti, Dominican Rep., Ecuador, El Salvador, Equatorial Guinea, Eritrea, Estonia, Fiji, Finland, French Polynesia, Gabon, Gambia, Ghana, Greece, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hong Kong (SAR China), Hungary, Iceland, Iran, Iraq, Italy, Jamaica, Japan, Kazakhstan, Kiribati, Korea (Rep.), Kosovo (Rep.), Kuwait, Kyrgyzstan, Lao People's Dem. Rep., Latvia, Liberia, Libya, Macao (SAR China), Madagascar, Malawi, Malaysia, Mali, Malta, Marshall Isl., Mauritania, Mexico, Micronesia (Federated States), Moldova (Rep.), Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Myanmar, Nauru, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Niue, North Macedonia (Rep.), Oman, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Portugal, Romania, Russian Fed., Rwanda, Samoa, Sao Tome and Principe, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Solomon Isl., Somalia, St. Helena, St. Kitts and Nevis, St. Lucia, St. Maarten, St. Vincent and the Grenadines, Suriname, Sweden, Syria, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Isl., Tuvalu, Uganda, Ukraine, Uruguay, Uzbekistan, Vanuatu, Venezuela, Viet Nam, Virgin Isl. (British), Wallis and Futuna Isl., Yemen or Zambia;  
+- nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates, 12 years and older, arriving from red list countries: Algeria, Anguilla, Belgium, Canada, Cayman Isl., Croatia, Cyprus, Czechia, Denmark, Dominica, Eswatini, Ethiopia, France, Georgia, Germany, Gibraltar, Indonesia, Ireland (Rep.), Italy, Jordan, Kenya, Lebanon, Liechtenstein, Lithuania, Luxembourg, Maldives, Mauritius, Netherlands, Norway, Philippines, Poland, Saudi Arabia, Slovakia, Slovenia, South Africa, South Sudan, Spain, Sri Lanka, Sudan, Switzerland, USA, United Arab Emirates or United Kingdom, with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival;  
+- residents of Qatar, 12 years and older, arriving from red list countries: Algeria, Anguilla, Belgium, Canada, Cayman Isl., Croatia, Cyprus, Czechia, Denmark, Dominica, Eswatini, Ethiopia, France, Georgia, Germany, Gibraltar, Indonesia, Ireland (Rep.), Italy, Jordan, Kenya, Lebanon, Liechtenstein, Lithuania, Luxembourg, Maldives, Mauritius, Netherlands, Norway, Philippines, Poland, Saudi Arabia, Slovakia, Slovenia, South Africa, South Sudan, Spain, Sri Lanka, Sudan, Switzerland, USA, United Arab Emirates or United Kingdom, with a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival.  
 6. Passengers could be subject to a COVID-19 PCR test upon arrival.  
 7. Passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated with Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival, must have:  
 - a positive COVID-19 serology antibody test taken at most 30 days before departure; or  
 - a COVID-19 vaccination certificate stating that they also received one vaccine dose of Covaxin, Moderna (Spikevax) or Pfizer-BioNTech (Comirnaty) at least 14 days before arrival.  
 8. Nationals of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and United Arab Emirates are not allowed to enter with a national ID card.  
 9. Visa on arrival facilities restarted.  
-10. Passengers arriving from, or who transited through, exceptional red list countries: Bangladesh, Botswana, Egypt, Eswatini, India, Indonesia, Lesotho, Namibia, Nepal, Pakistan, Philippines, South Africa, South Sudan, Sri Lanka, Sudan or Zimbabwe, must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival. Effective 1 January 2022, Qatar will remove Eswatini, Indonesia, Philippines, South Africa, South Sudan, Sri Lanka and Sudan from the list of exceptionally red countries.  
+10. Passengers arriving from, or who transited through, exceptional red list countries: Bangladesh, Botswana, Egypt, India, Lesotho, Namibia, Nepal, Pakistan or Zimbabwe, must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V, at least 14 days before arrival.  
 11. Passengers must install the Ehteraz app in their mobile devices. Details can be found at [https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx](https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx)  
 - This does not apply to passengers with diplomatic passports traveling on duty.
 
@@ -4803,29 +4767,24 @@ Effective 3 January 2022, passengers who are arriving from Guam, Northern Marian
 - This does not apply to emergency passports which must be valid on arrival.
 
 # Vietnam
-### 17.12.2021
+### 01.01.2022
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Viet Nam;  
 - passengers with a diplomatic or an official passport;  
-- passengers traveling on business as experts, business managers or high-tech workers.  
+- passengers traveling on business as experts, business managers or high-tech workers;  
+- students  
 2. Passengers are not allowed to transit.  
-3. Passengers must have:  
-- a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival and at most 12 months before arrival; or  
-- a recovery certificate issued at most 6 months before arrival.  
-The COVID-19 vaccination certificate or the recover certificate must be issued by Algeria, Argentina, Armenia, Australia, Austria, Azerbaijan, Belarus, Belgium, Bolivia, Brazil, Brunei Darussalam, Bulgaria, Cambodia, Canada, China (People's Rep.), Chinese Taipei, Colombia, Croatia, Czechia, Denmark, Egypt, Finland, France, Germany, Greece, Hungary, Indonesia, Ireland (Rep.), India, Iran, Iraq, Israel, Italy, Japan, Jordan, Kazakhstan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Libya, Luxembourg, Malaysia, Maldives, Mexico, Mongolia, Morocco, Netherlands, Nepal, New Zealand, Norway, Oman, Pakistan, Palestinian Territory, Philippines, Poland, Portugal, Qatar, Romania, Russian Fed., San Marino, Saudi Arabia, Singapore, Slovakia, South Africa, Spain, Sri Lanka, Sweden, Switzerland, Thailand, Timor-Leste, Turkey, Turkmenistan, USA, Ukraine, United Arab Emirates, United Kingdom or Zimbabwe.  
-4. Passengers must have a printed negative COVID-19 RT-LAMP or RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.  
-- This does not apply to passengers younger than 12 years if accompanied by parents/guardians who have a COVID-19 test.  
-5. Passengers must have medical or travel insurance to cover COVID-19 expenses (minimum coverage of USD50,000).  
-6. Passengers traveling on business must have medical insurance or guarantee from the hosting company to cover COVID-19 expenses.  
+3. Passengers must have a printed negative COVID-19 RT-LAMP or RT-PCR test taken at most 72 hours before arrival. The test result must be in English.  
+- This does not apply to passengers younger than 2 years.  
+4. Passengers must complete a ‘Health Declaration Form’ before arrival. The form can be found at [https://tokhaiyte.vn/](https://tokhaiyte.vn/)  
+5. Passengers are subject to medical screening and quarantine for 7 days.  
+6. Airline crew must make a medical declaration and are subject to self-isolation until their next flight.  
 7. Suspension of visa exemptions for British nationals and for nationals of Denmark, Finland, France, Germany, Norway, Spain and Sweden.  
 8. Suspension of visa exemptions for nationals of Belarus, Italy, Japan, Korea (Rep.) and Russian Fed. with a normal passport.  
 9. Certificates of Visa Exemption issued to nationals of Belarus, Japan and Russian Fed. with normal passports are no longer valid.  
-10. Certificates of Visa Exemption issued to residents of China (People's Rep.), Denmark, Finland, France, Germany, Iran, Italy, Korea (Rep.), Norway, Spain, Sweden and the United Kingdom are no longer valid.  
-11. Suspension of visa on arrival facilities.  
-12. A Health Declaration Form must be completed before arrival. The form can be found at [https://tokhaiyte.vn/](https://tokhaiyte.vn/)  
-13. Passengers are subject to medical screening and quarantine for up to 28 days.  
-14. Airline crew must make a medical declaration and are subject to self-isolation until their next flight.
+12. Certificates of Visa Exemption issued to residents of China (People's Rep.), Denmark, Finland, France, Germany, Iran, Italy, Korea (Rep.), Norway, Spain, Sweden and the United Kingdom are no longer valid.  
+13. Suspension of visa on arrival facilities.
 
 # Vanuatu
 ### 30.12.2021
