@@ -245,46 +245,33 @@ are subject to a PCR test upon arrival at their own expense and self-isolation u
 - This does not apply to emergency passports which must be valid on arrival.
 
 # Austria
-### 10.01.2022
-1. Passengers arriving from or who have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe in the past 10 days are not allowed to enter.  
+### 13.01.2022
+1. Passengers who in the past 10 days have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe are not allowed to enter.  
 - This does not apply to:  
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland;  
-- residents of Austria;  
-- passengers with a negative COVID-19 LAMP, PCR or TMA test result issued at most 48 hours before arrival and with a COVID-19 vaccination certificate showing that they received a booster dose;  
+- passengers residing in Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland and Vatican City (Holy See);  
+- passengers with a negative COVID-19 LAMP, PCR or TMA test result issued at most 48 hours before arrival and a COVID-19 vaccination certificate showing that they received a booster dose;  
 - more exemptions can be found at [https://tinyurl.com/8w8kyybv](https://tinyurl.com/8w8kyybv)  
-2. Passengers arriving from or who have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe in the past 10 days must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; and  
-- a COVID-19 recovery certificate issued at most 180 days before arrival; or  
-- a COVID-19 vaccination certificate stating that they received:  
-- the second vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days before arrival. A combination of vaccines is accepted; or  
-- the third vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the second dose and at most 270 days before arrival; or  
-- the Janssen vaccine at least 22 days and at most 270 days before arrival; or  
-- the second vaccine dose of Janssen vaccine at least 14 days after the first dose and at most 270 days before arrival; or  
-- the first vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 22 days and at most 270 days before arrival and proof of previous COVID-19 infection; or  
-- the second vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the first dose and at most 270 days before arrival and proof of previous COVID-19 infection; and  
-- are subject to quarantine for 10 days.  
+2. Passengers must have a COVID-19 recovery certificate issued at most 180 days before arrival; or  
+- a COVID-19 vaccination certificate showing that at most 270 days before arrival they were fully vaccinated or received a booster dose. Vaccines accepted are: AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm and Sinovac; or  
+- a COVID-19 vaccination certificate showing that they were fully vaccinated with Janssen at least 21 days and at most 270 days before arrival; or  
+- a COVID-19 vaccination certificate showing that received a booster dose of Janssen at most 270 days before arrival; or  
+- proof of previous infection and a COVID-19 vaccination certificate showing that at least 21 days and at most 270 days before arrival they received the first dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.  
+A combination of vaccines is accepted.  
+More details can be found at [https://tinyurl.com/3sj2ynan](https://tinyurl.com/3sj2ynan)  
 - This does not apply to:  
-- passengers younger than 12 years if accompanied by an adult;  
-- passengers with a negative COVID-19 LAMP, PCR or TMA test result issued at most 48 hours before arrival and with a COVID-19 vaccination certificate showing that they received a booster dose;  
-- passengers between 6 and 15 years, traveling alone if they have a negative COVID-19 LAMP, PCR, TMA issued at most 72 hours before arrival or a negative Antigen test issued at most 48 hours before arrival.  
-Passengers with a medical certificate of contraindication who cannot be vaccinated and pregnant women do not need a COVID-19 recovery or vaccination certificate.  
-3. Passengers must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival; or  
-- take a test after arrival; and  
-- have a COVID-19 recovery certificate issued at most 180 days before arrival; or  
-- have a COVID-19 vaccination certificate stating that they received:  
-- the second vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at most 270 days before arrival. A combination of vaccines is accepted; or  
-- the third vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the second dose and at most 270 days before arrival; or  
-- the Janssen vaccine at least 22 days and at most 270 days before arrival; or  
-- the second vaccine dose of Janssen vaccine at least 14 days after the first dose and at most 270 days before arrival; or  
-- the first vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac at least 22 days and at most 270 days before arrival and proof of previous COVID-19 infection; or  
-- the second vaccine dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac, at least 120 days after the first dose and at most 270 days before arrival and proof of previous COVID-19 infection.  
+- passengers younger than 12 years traveling with an adult;  
+- passengers between 6 and 15 years with a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival or;  
+- passengers between 6 and 15 years with a negative COVID-19 antigen test result issued at most 48 hours before arrival.  
+3. Passengers who in the past 10 days have been in Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe must have a negative COVID-19 LAMP, PCR or TMA test result issued at most 72 hours before arrival.  
 - This does not apply to:  
-- passengers arriving from Angola, Botswana, Denmark, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Netherlands, Norway, South Africa, United Kingdom, Zambia or Zimbabwe;  
-- passengers younger than 12 years if accompanied by an adult;  
-- passengers with a COVID-19 vaccination certificate showing that they received a booster dose;  
-- passengers between 6 and 15 years, if they have a negative COVID-19 LAMP, PCR, TMA issued at most 72 hours before arrival or a negative COVID-19 antigen test issued at most 48 hours before arrival.  
-Passengers with a medical certificate of contraindication who cannot be vaccinated and pregnant women do not need a COVID-19 recovery or vaccination certificate.  
-4. Passengers must present a completed "Pre-Travel-Clearance" upon arrival. The form can be found at [https://entry.ptc.gv.at](https://entry.ptc.gv.at)  
-5. Passengers could be subject to self-quarantine for 10 days. Exemptions can be found at [https://tinyurl.com/8w8kyybv](https://tinyurl.com/8w8kyybv)
+- passengers younger than 12 years traveling with an adult;  
+- passengers between 6 and 15 years with a negative antigen test result issued at most 48 hours before arrival;  
+4. Passengers could be subject to quarantine or self-isolation for 10 days.  
+- This does not apply to passengers with a COVID-19 vaccination certificate showing that they received a booster dose; and  
+- a negative COVID-19 LAMP, PCR or TMA test result issued at most 48 hours before arrival.  
+More exemptions can be found at [https://tinyurl.com/8w8kyybv](https://tinyurl.com/8w8kyybv)  
+5. Passengers must present a completed "Pre-Travel-Clearance" upon arrival. The form can be found at [https://entry.ptc.gv.at](https://entry.ptc.gv.at/)
 
 # Australia
 ### 23.12.2021
@@ -718,23 +705,24 @@ This does not apply to:
 - passengers with a COVID-19 recovery certificate issued at most 3 months before arrival.
 
 # Canada
-### 22.12.2021
-1. Until 31 January 2022, passengers are not allowed to enter.  
+### 13.01.2022
+1. Until 31 January 2022, passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Canada;  
 - permanent residents of Canada;  
 - persons registered under Canada's Indian Act with the Certificate of Indian Status (CIS) or the Secure Certificate of Indian Status (SCIS);  
 - passengers with a Canadian Refugee Travel Document or a Single Journey Document for Resettlement to Canada;  
-- immediate family members of nationals of Canada, of permanent residents of Canada and of persons registered under Canada's Indian Act. They must stay for at least 15 days and have a quarantine plan. Staying for less than 15 days is allowed if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted.  
-- extended family members of nationals of Canada, of permanent residents of Canada and of persons registered under Canada's Indian Act. They must stay for at least 15 days, have a quarantine plan, and have a written authorization issued by Immigration, Refugees and Citizenship Canada (IRCC). Staying for less than 15 days is allowed if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted.  
-- passengers with an authorization from the Public Health Agency of Canada (PHAC);  
-- passengers with a letter of authorization from the Deputy Minister of Canadian Heritage (PCH);  
+- until 14 January 2022, immediate family members of nationals of Canada, of permanent residents of Canada and of persons registered under Canada's Indian Act. They must stay for at least 15 days and have a quarantine plan. Staying for less than 15 days is allowed if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted.  
+- until 14 January 2022, extended family members of nationals of Canada, of permanent residents of Canada and of persons registered under Canada's Indian Act. They must stay for at least 15 days, have a quarantine plan, and have a written authorization issued by Immigration, Refugees and Citizenship Canada (IRCC). Staying for less than 15 days is allowed if they have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted.  
+- passengers with an authorization from the Public Health Agency of Canada (PHAC) for compassionate entry;  
+- until 14 January 2022, passengers with a letter of authorization from the Deputy Minister of Canadian Heritage (PCH);  
 - passengers with a COVID-19 vaccination certificate uploaded in ArriveCAN showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted.  
+- effective 15 January 2022, airline crew with a COVID-19 vaccination certificate uploaded in ArriveCAN showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted;  
 - passengers younger than 12 years accompanied by a guardian with a COVID-19 vaccination certificate uploaded in ArriveCAN showing that the guardian was fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival. The certificate must be in English, French or accompanied by a certified English or French translation. Vaccines accepted are: AstraZeneca (Covishield), AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. A combination of vaccines is accepted.  
-- passengers arriving directly from the USA and traveling on an essential purpose listed on [https://tinyurl.com/4absxrpa](https://tinyurl.com/4absxrpa)  
-- passengers with a study permit or a post-graduation work permit, issued by Canada. They must be attending a designated learning institution (DLI) with a COVID-19 readiness plan approved by its province or territory. They must travel only to attend their study;  
+- until 14 January 2022, passengers arriving directly from the USA and traveling on an essential purpose listed on [https://tinyurl.com/4absxrpa](https://tinyurl.com/4absxrpa)  
+- until 14 January 2022, passengers with a study permit or a post-graduation work permit, issued by Canada. They must be attending a designated learning institution (DLI) with a COVID-19 readiness plan approved by its province or territory. They must travel only to attend their study;  
 - passengers with an application for permanent residence. They must have a written notice issued under the Immigration and Refugee Protection Act;  
-- members of the Canadian forces traveling on duty, and their immediate family members;  
+- until 14 January 2022, members of the Canadian forces traveling on duty, and their immediate family members;  
 - more exemptions can be found at [https://tinyurl.com/s4tbrc8](https://tinyurl.com/s4tbrc8)  
 2. Passengers must have a negative COVID-19 test taken at most 72 hours before departure of the last direct flight to Canada. The test result must not be issued in India or Morocco. Tests accepted are: CRISPR, Ct, detection of the E gene, detection of the N gene, detection of Orf1a/b, detection of the RdRp gene, detection of the S gene, ddPCR, isothermal amplification, LamPORE, NAAT, NAT, NGS, PCR, qPCR, RNA, RT-LAMP, RT-PCR, sequencing and WGS. More details can be found at [https://tinyurl.com/uuf5nntc](https://tinyurl.com/uuf5nntc)  
 - This does not apply to:  
@@ -813,23 +801,19 @@ This does not apply to:
 5. Passengers could be subject to quarantine for 10 days. A list of quarantine exemptions can be found at [https://tinyurl.com/yjn3csr7](https://tinyurl.com/yjn3csr7)
 
 # Côte d'Ivoire
-### 13.12.2021
-1. Passengers must have a printed negative COVID-19 PCR test taken at most 3 days (day of test + 2 days) before arrival.  
-- This does not apply to passengers younger than 12 years.  
+### 13.01.2022
+1. Passengers must have a printed negative COVID-19 PCR test taken at most 48 hours before arrival.  
+- This does not apply to passengers younger than 12 years.   
 2. Passengers must complete a "Health Declaration Form" at [https://deplacement-aerien.gouv.ci](https://deplacement-aerien.gouv.ci). The form must be printed and presented upon arrival.  
-3. Passengers are subject to a COVID-19 PCR test upon arrival.
+3. Passengers are subject to a COVID-19 antigen test upon arrival.
 
 # Cook Islands
-### 05.11.2021
-1. Flights from New Zealand are suspended.  
-- This does not apply to repatriation flights.  
-2. Passengers are not allowed to enter.  
-- This does not apply to:  
-- Cook Islanders;  
-- passengers with a permanent residence permit;  
-- passengers with an entry permit issued by the Cook Isl.;  
-- passengers who have been in Cook Isl. or New Zealand for 14 consecutive days before traveling to Cook Isl.  
-3. Passengers must complete the "Online Contact Information" form at least 24 hours before departure. The form can be found at [https://tinyurl.com/yhary2fb](https://tinyurl.com/yhary2fb)
+### 13.01.2022
+1. Passengers must have been in New Zealand for 10 consecutive days before traveling to Cook Isl.  
+2. Passengers must complete the "Online Contact Information" form at least 96 hours before departure. The form can be found at [https://tinyurl.com/yhary2fb](https://tinyurl.com/yhary2fb)  
+3. Passengers must have a COVID-19 PCR test taken at most 48 hours before departure from the first embarkation point.  
+4. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival. Vaccines accepted are: Astrazeneca (SK Bioscience), Astrazeneca (Vaxveria), Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm (BIBP) and Sinovac.  
+- This does not apply to Cook Islanders. and permanent residents of Cook Isl.
 
 # Chile
 ### 22.12.2021
@@ -881,7 +865,7 @@ This does not apply to:
 3. Passengers are subject to a COVID-19 rapid antigen test upon arrival.
 
 # China
-### 07.01.2022
+### 13.01.2022
 1. Entry by foreign nationals holding a visa is suspended.  
 - This does not apply to:  
 - foreign nationals with a visa issued after 28 March 2020 with the place of issue outside the Mainland of China. They must not arrive from Bangladesh, Belgium, France, India, Italy, Philippines, Russian Fed. and United Kingdom;  
@@ -916,13 +900,13 @@ This does not apply to:
 - passengers arriving from Chinese Taipei, Hong Kong SAR, China, Macao SAR, China, United Arab Emirates or USA;  
 - passengers with an invitation letter issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games;  
 - passengers with a Pre-Valid card (PVC) issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games.  
-15. Nationals of China (People's Rep.) arriving directly from the USA must have a green QR code with an 'HS' mark. The code can be obtained from the WeChat App 'Fang Yi Jian Kang Ma Guo Ji Ban' by uploading a negative Coronavirus (COVID-19) nucleic acid test result issued at most 2 days before departure and a negative IgM antibody test result issued at most 2 days before departure. A positive IgM antibody test result could be accepted with a COVID-19 vaccination certificate. More details can be found at the website of the respective Chinese embassy. Passengers not arriving directly in China (People's Rep.) must repeat both tests in the transit countries and obtain a new green QR code with an 'HS' mark in each transit country. Effective 13 January 2022, passengers must also have a negative COVID-19 nucleic acid test taken 7 days before departure, and complete a personal health monitoring form. More details can be found at  
+15. Nationals of China (People's Rep.) arriving directly from the USA must have a green QR code with an 'HS' mark. The code can be obtained from the WeChat App 'Fang Yi Jian Kang Ma Guo Ji Ban' by uploading a negative Coronavirus (COVID-19) nucleic acid test result issued at most 2 days before departure and a negative IgM antibody test result issued at most 2 days before departure. A positive IgM antibody test result could be accepted with a COVID-19 vaccination certificate. Passengers must also have a negative COVID-19 nucleic acid test taken 7 days before departure, and complete a personal health monitoring form. More details can be found at  
 [http://www.china-embassy.org/eng/lsfw/sjc1/zytz\_120351/202201/t20220106\_10479315.htm](http://www.china-embassy.org/eng/lsfw/sjc1/zytz_120351/202201/t20220106_10479315.htm)   
 - This does not apply to:  
 - passengers younger than 3 years;  
 - passengers with an invitation letter issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games;  
 - passengers with a Pre-Valid card (PVC) issued by the Beijing Organising Committee for the 2022 Olympic and Paralympic Winter Games.  
-16. Passengers arriving directly from the USA must have a green QR code with an 'HDC' mark. The code can be obtained at [https://hrhk.cs.mfa.gov.cn/H5/](https://hrhk.cs.mfa.gov.cn/H5/) with a negative Coronavirus (COVID-19) nucleic acid test result issued at most 2 days before departure and a negative IgM antibody test result issued at most 2 days before departure. A positive IgM antibody test result could be accepted with a COVID-19 vaccination certificate. More details can be found at the website of the respective Chinese embassy. Passengers not arriving directly in China (People's Rep.) must repeat both tests in the transit countries and obtain a new green QR code with an 'HDC' mark in each transit country. Effective 13 January 2022, passengers must also have a negative COVID-19 nucleic acid test taken 7 days before departure, and complete a personal health monitoring form. More details can be found at  
+16. Passengers arriving directly from the USA must have a green QR code with an 'HDC' mark. The code can be obtained at [https://hrhk.cs.mfa.gov.cn/H5/](https://hrhk.cs.mfa.gov.cn/H5/) with a negative Coronavirus (COVID-19) nucleic acid test result issued at most 2 days before departure and a negative IgM antibody test result issued at most 2 days before departure. A positive IgM antibody test result could be accepted with a COVID-19 vaccination certificate. Passengers must also have a negative COVID-19 nucleic acid test taken 7 days before departure, and complete a personal health monitoring form. More details can be found at  
 [http://www.china-embassy.org/eng/lsfw/sjc1/zytz\_120351/202201/t20220106\_10479315.htm](http://www.china-embassy.org/eng/lsfw/sjc1/zytz_120351/202201/t20220106_10479315.htm)  
 - This does not apply to:  
 - nationals of China (People's Rep.);  
@@ -1258,7 +1242,7 @@ Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNT
 5. Passengers are subject to a COVID-19 antigen test upon arrival.
 
 # Ecuador
-### 07.01.2022
+### 13.01.2022
 1. Passengers arriving from or who have transited through Botswana, Egypt, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are not allowed to enter.  
 - This does not apply to:  
 - nationals of Ecuador;  
@@ -1267,7 +1251,7 @@ Vaccines accepted are AstraZeneca (Vaxzevria), Janssen, Moderna and Pfizer-BioNT
 - This does not apply to:  
 - passengers younger than 2 years;  
 - passengers with a positive COVID-19 RT-PCR test result issued at least 1 month before departure and a medical certificate stating that they are not contagious;  
-- until 16 January 2022, residents of Ecuador arriving from USA. They are subject to a COVID-19 RT-PCR upon arrival at their own expense and quarantine for 14 days.  
+- until 23.59h 13 January 2022, residents of Ecuador arriving from USA. They are subject to a COVID-19 RT-PCR upon arrival at their own expense and quarantine for 14 days.  
 3. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure.  
 - This does not apply to:  
 - nationals of Ecuador who left Ecuador before 1 December 2021 and are not fully vaccinated;  
@@ -1311,54 +1295,54 @@ More details can be found at [https://www.terviseamet.ee/en/coronavirus/travelli
 More exemptions can be found at [https://vm.ee/en/information-countries-and-self-isolation-requirements-passengers](https://vm.ee/en/information-countries-and-self-isolation-requirements-passengers)
 
 # Egypt
-### 20.12.2021
+### 13.01.2022
 1. Passengers arriving from Argentina, Australia, Bolivia, Brazil, Canada, Chile, China (People's Rep.), Colombia, Ecuador, France (Paris), Germany (Frankfurt), Guyana, Italy (Rome), Japan, Korea (Rep.), Mexico, New-Zealand, Paraguay, Peru, Suriname, Thailand, USA, United Kingdom (London Heathrow), Uruguay or Venezuela must have:  
 - a printed negative COVID-19 RT-PCR test taken at most 96 hours before departure of the last direct flight to Egypt; or  
 - a printed negative COVID-19 rapid antigen test taken at most 24 hours before departure of the last direct flight to Egypt.  
 The test must be based on a nasal or oral swab. The test result must have a stamp of the issuing laboratory or a QR code. A COVID-19 RT-PCR test used to depart Egypt becomes invalid for re-entry in all cases.  
-This does not apply to:  
+- This does not apply to:  
 - passengers younger than 12 years;  
 - passengers arriving directly at Hurghada (HRG), Marsa Alam (RMF), Sharm El Sheikh (SSH) or Taba (TCP);  
-- passengers with a COVID-19 vaccination certificate stating that they received:  
+- passengers with a COVID-19 vaccination certificate showing that they received:  
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure; or  
-- the Janssen vaccine at least 14 days before departure. The certificate must be in Arabic, French or English and have a QR code or must be approved by the Egyptian Embassy in the country of departure;  
-- passengers with an electronic COVID-19 vaccination certificate issued in Egypt by the Egyptian Ministry of Health stating that they received:  
+- the Janssen vaccine at least 14 days before departure. The certificate must be in Arabic, French or English and have a QR code;  
+- passengers with a COVID-19 vaccination certificate approved and certified by the Egyptian Embassy in the country of departure showing that they received:  
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure; or  
-- the Janssen vaccine at least 14 days before departure. The certificate must have the logo of the Egyptian Ministry of Health.  
+- the Janssen vaccine at least 14 days before departure.  
 2. Passengers arriving from a country other than Argentina, Australia, Bolivia, Brazil, Cameroon, Canada, Chile, China (People's Rep.), Colombia, Ecuador, France (Paris), Germany (Frankfurt), Guyana, Italy (Rome), Japan, Korea (Rep.), Mexico, New-Zealand, Paraguay, Peru, Suriname, Thailand, USA, United Kingdom (London Heathrow), Uruguay or Venezuela must have:  
 - a printed negative COVID-19 RT-PCR test taken at most 72 hours before departure of the last direct flight to Egypt; or  
 - a printed negative COVID-19 rapid antigen test taken at most 24 hours before departure of the last direct flight to Egypt.  
 The test must be based on a nasal or oral swab. The test result must have a stamp of the issuing laboratory or a QR code. A COVID-19 RT-PCR test used to depart Egypt becomes invalid for re-entry in all cases.  
-This does not apply to:  
+- This does not apply to:  
 - passengers younger than 12 years;  
 - passengers arriving directly at Hurghada (HRG), Marsa Alam (RMF), Sharm El Sheikh (SSH) or Taba (TCP);  
-- passengers with a COVID-19 vaccination certificate stating that they received:  
+- passengers with a COVID-19 vaccination certificate showing that they received:  
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure; or  
-- the Janssen vaccine at least 14 days before departure. The certificate must be in Arabic, French or English and have a QR code or must be approved by the Egyptian Embassy in the country of departure;  
-- passengers with an electronic COVID-19 vaccination certificate issued in Egypt by the Egyptian Ministry of Health stating that they received:  
+- the Janssen vaccine at least 14 days before departure. The certificate must be in Arabic, French or English and have a QR code;  
+- passengers with a COVID-19 vaccination certificate approved and certified by the Egyptian Embassy in the country of departure showing that they received:  
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure; or  
-- the Janssen vaccine at least 14 days before departure. The certificate must have the logo of the Egyptian Ministry of Health.  
+- the Janssen vaccine at least 14 days before departure.  
 3. Passengers arriving from Cameroon must have:  
 - a negative COVID-19 RT-PCR test taken at most 72 hours before departure of the last direct flight to Egypt; or  
 - a negative COVID-19 rapid antigen test taken at most 24 hours before departure of the last direct flight to Egypt.  
 The test must be based on a nasal or oral swab. The test result must have a stamp of the issuing laboratory or a QR code. A COVID-19 RT-PCR test used to depart Egypt becomes invalid for re-entry in all cases.  
-This does not apply to:  
+- This does not apply to:  
 - passengers younger than 12 years;  
 - passengers arriving directly at Hurghada (HRG), Marsa Alam (RMF), Sharm El Sheikh (SSH) or Taba (TCP);  
-- passengers with a COVID-19 vaccination certificate stating that they received:  
+- passengers with a COVID-19 vaccination certificate showing that they received:  
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure; or  
-- the Janssen vaccine at least 14 days before departure. The certificate must be in Arabic, French or English and have a QR code or must be approved by the Egyptian Embassy in the country of departure;  
-- passengers with an electronic COVID-19 vaccination certificate issued in Egypt by the Egyptian Ministry of Health stating that they received:  
+- the Janssen vaccine at least 14 days before departure. The certificate must be in Arabic, French or English and have a QR code;  
+- passengers with a COVID-19 vaccination certificate approved and certified by the Egyptian Embassy in the country of departure showing that they received:  
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure; or  
-- the Janssen vaccine at least 14 days before departure. The certificate must have the logo of the Egyptian Ministry of Health.  
+- the Janssen vaccine at least 14 days before departure.  
 4. Passengers arriving directly at Hurghada (HRG), Marsa Alam (RMF), Sharm El Sheikh (SSH) or Taba (TCP) without a printed negative COVID-19 PCR or rapid antigen test result are subject to a PCR test upon arrival at their own expense.  
-This does not apply to:  
-- passengers with a COVID-19 vaccination certificate stating that they received:  
+- This does not apply to:  
+- passengers with a COVID-19 vaccination certificate showing that they received:  
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure; or  
-- the Janssen vaccine at least 14 days before departure. The certificate must be in Arabic, French or English and have a QR code or must be approved by the Egyptian Embassy in the country of departure;  
-- passengers with an electronic COVID-19 vaccination certificate issued in Egypt by the Egyptian Ministry of Health stating that they received:  
+- the Janssen vaccine at least 14 days before departure. The certificate must be in Arabic, French or English and have a QR code;  
+- passengers with a COVID-19 vaccination certificate approved and certified by the Egyptian Embassy in the country of departure showing that they received:  
 - the second vaccine dose of AstraZeneca (Vaxzevria), Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure; or  
-- the Janssen vaccine at least 14 days before departure. The certificate must have the logo of the Egyptian Ministry of Health.  
+- the Janssen vaccine at least 14 days before departure.  
 5. Passengers arriving from Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to a PCR test upon arrival at their own expense and quarantine for 14 days.
 
 # Eritrea
@@ -1560,10 +1544,10 @@ More exemptions can be found at [https://tinyurl.com/2p8mf8fy](https://tinyurl.c
 - This does not apply to passengers younger than 6 years.
 
 # United Kingdom
-### 10.01.2022
+### 13.01.2022
 1. Passengers entering or transiting through the United Kingdom must have a negative COVID-19 antigen, NAAT, PCR, LAMP or LFD test, taken at most 2 days before departure from the first embarkation point. The test result must be in English, French or Spanish. More details can be found at [https://tinyurl.com/yeypzpy8](https://tinyurl.com/yeypzpy8)  
 - This does not apply to:  
-- passengers younger than 12 years;  
+- passengers younger than 18 years;  
 - passengers arriving from Ethiopia, Falkland Isl. (Malvinas), Ireland (Rep.) or St. Helena;  
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 15 days (day of vaccination + 14 days) before arrival, with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covavax, Covaxin, Covishield, Janssen, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinovac or Sinopharm (BIBP). A combination of vaccines is accepted. The vaccination certificate must be issued in Albania, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Australia, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belize, Bermuda, Bhutan, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Cambodia, Cameroon, Canada, Cayman Isl., Chile, Chinese Taipei, Colombia, Costa Rica, Cote d'Ivoire, Djibouti, Dominica, Egypt, Eswatini, Falkland Isl., Fiji, Gambia, Georgia, Ghana, Gibraltar, Grenada, Guyana, Honduras, Hong Kong (SAR China), India, Indonesia, Iraq, Israel, Jamaica, Japan, Jordan, Kenya, Korea (Rep.), Kosovo (Rep.), Kuwait, Lebanon, Lesotho, Liberia, Madagascar, Malaysia, Maldives, Mali, Mauritania, Mauritius, Moldova (Rep.), Monaco, Mongolia, Montenegro, Morocco, Namibia, Nepal, New Zealand, Niger, Nigeria, North Macedonia (Rep.), Oman, Pakistan, Palau, Palestinian Territory, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Qatar, Rwanda, San Marino, Saudi Arabia, Serbia, Seychelles, Sierra Leone, Singapore, Solomon Isl., South Africa, Sri Lanka, St. Helena, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname, Switzerland, Tanzania, Thailand, Trinidad and Tobago, Tunisia, Turkey, Turks and Caicos Isl., Uganda, Ukraine, United Arab Emirates, United Kingdom, Uruguay, USA, Uzbekistan, Vatican City (Holy See), Virgin Isl. (British), Viet Nam or an EEA Member State.  
 2. A "Public Health Passenger Locator Form" completed at [https://www.gov.uk/provide-journey-contact-details-before-travel-uk](https://www.gov.uk/provide-journey-contact-details-before-travel-uk) is required for:  
@@ -1721,7 +1705,7 @@ ronavirus (COVID-19) regulations for Denmark.
 3. Passengers are subject to hotel quarantine for 5 days at their own expense.
 
 # Greece
-### 10.01.2022
+### 13.01.2022
 1. Until 24 January 2022, passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden and Switzerland and their family members;  
@@ -1745,7 +1729,7 @@ All documents must be in English, French, German, Greek, Italian, Spanish or Rus
 - passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival; or  
 - passengers with a COVID-19 recovery certificate.  
 5. Passengers arriving from a country other than Albania, Argentina, Brazil, Bulgaria, Chile, China (People's Rep.), Cuba, Egypt, Georgia, India, Libya, Mexico, Morocco, North Macedonia (Rep.), Oman, Pakistan, Russian Fed., Turkey, United Arab Emirates or Uruguay could be subject to a COVID-19 rapid test upon arrival.  
-6. Passengers could be subject to self-isolation for up to 10 days. Details can be found at [https://travel.gov.gr/](https://travel.gov.gr/)
+6. Passengers could be subject to quarantine for 5 days. Details can be found at [https://travel.gov.gr/](https://travel.gov.gr/)
 
 # Guatemala
 ### 12.01.2022
@@ -1977,12 +1961,8 @@ More details can be found at [http://www.police.hu/en/content/information-on-gen
 5. Airline crew are subject to medical screening and quarantine until their next scheduled flight.
 
 # Indonesia
-### 10.01.2022
-1. Passengers who in the past 14 days have been in Angola, Botswana, Denmark, Eswatini, France, Lesotho, Malawi, Mozambique, Namibia, Norway, South Africa, United Kingdom, Zambia or Zimbabwe are not allowed to enter.  
-- This does not apply to:  
-- nationals of Indonesia;  
-- participants of the G20 event with a diplomatic assignment letter issued by their government and invitation letter from the Ministry of Indonesia.  
-2. Passengers are not allowed to enter.  
+### 13.01.2022
+1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals of Indonesia;  
 - passengers with a Temporary Stay Permit (ITAS) or Permanent Stay Permit (ITAP);  
@@ -1992,24 +1972,25 @@ More details can be found at [http://www.police.hu/en/content/information-on-gen
 - passengers with an APEC Business Travel Card;  
 - passengers traveling under the Travel Corridor Arrangement (TCA);  
 - participants of the G20 event with a diplomatic assignment letter issued by their government and invitation letter from the Ministry of Indonesia;  
-- nationals of Bahrain, China (People's Rep.), France, Hungary, India, Italy, Japan, Korea (Rep.), Kuwait, Liechtenstein, New Zealand, Norway, Poland, Portugal, Qatar, Saudi Arabia, Spain, Sweden and United Arab Emirates arriving at Denpasar-Bali (DPS) or Batam (BTH) as tourists from their country of nationality. They must have:  
-- a confirmed booking of accommodation; and  
-- an e-visit tourist visa with a visa number ending with LN; and  
-- a medical insurance with minimal coverage of USD 100,000- for COVID-19 treatment.  
-3. Passengers are not allowed to transit.  
-4. Passengers must enter Indonesia via Jakarta (CGK) or Manado (MDC).  
+- passengers arriving at Denpasar-Bali (DPS) or Batam (BTH) as tourists.  
+2. Passengers are not allowed to transit.  
+3. Passengers must enter Indonesia via Jakarta (CGK) or Manado (MDC).  
 - This does not apply to nationals of Indonesia.  
-5. Nationals of Indonesia must enter Indonesia via Jakarta (CGK), Manado (MDC) or Surabaya (SUB).   
-6. Passengers must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.  
-7. Airline crew must have a negative COVID-19 PCR or RT-PCR test taken at most 3 days before departure from the first embarkation point. The test result must be in English.  
-8. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. The certificate must be issued in both English and a local language of the country where passengers were vaccinated.  
+4. Nationals of Indonesia must enter Indonesia via Batam (BTH) (as tourists), Denpasar-Bali (DPS) (as tourists), Jakarta (CGK), Manado (MDC) or Surabaya (SUB).   
+5. Passengers must have a negative COVID-19 PCR or RT-PCR test taken at most 72 hours before departure from the first embarkation point. The test result must be in English.  
+6. Airline crew must have a negative COVID-19 PCR or RT-PCR test taken at most 3 days before departure from the first embarkation point. The test result must be in English.  
+7. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. The certificate must be issued in both English and a local language of the country where passengers were vaccinated.  
 - This does not apply to:  
 - nationals of Indonesia;  
 - passengers younger than 18 years;  
 - passengers with a diplomatic or service visa and an invitation letter issued by an Indonesian Ministry under the Travel Corridor Arrangement (TCA).  
+8. Passengers arriving at Denpasar-Bali (DPS) or Batam (BTH) as tourists must have:  
+- a confirmed booking of accommodation; and  
+- an e-visit tourist visa with a visa number ending with LN; and  
+- a medical insurance with minimal coverage of USD 100,000- for COVID-19 treatment.  
 9. Airline crew must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before departure. The certificate must be issued in both English and a local language of the country where the airline crew was vaccinated.  
 - This does not apply to airline crew transiting without disembarking the aircraft.  
-10. Passengers are subject to a COVID-19 PCR test upon arrival and quarantine for up to 10 days.  
+10. Passengers are subject to a COVID-19 PCR test upon arrival and quarantine for 7 days.  
 11. A completed "electronic health awareness card (e-HAC)" must be presented upon arrival. The card can be obtained before departure through the "Pedulilindungi" mobile app.  
 12. Airline crew with a crew ID card are visa exempt if they are listed in the General Declaration and wearing uniform.  
 13. Deadhead crew will be given an entry stamp. They must:  
@@ -2375,7 +2356,7 @@ Tarawa (TRW) is closed.
 2. Passengers are subject to quarantine.
 
 # South Korea
-### 06.01.2022
+### 13.01.2022
 1. Until 3 February 2022, flights from Ethiopia are suspended.  
 2. Until 3 February 2022, passengers arriving from or who in the past 14 days have been in Botswana, Eswatini, Ghana, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Zambia and Zimbabwe are not allowed to enter and transit.  
 - This does not apply to:  
@@ -2411,17 +2392,7 @@ Tarawa (TRW) is closed.
 - This does not apply to nationals of Egypt with a diplomatic or service passport.  
 14. Passengers with a visa on an expired passport must present a printed "Visa Grant Notice" and the expired passport to the immigration upon arrival.  
 15. Passengers with an E-9 visa issued by Korea (Rep.) must present a completed 'Confirmation of Self-quarantine' form upon arrival. The form can be obtained at the local EPS center.  
-16. Until 12 January 2022, passengers must have a printed negative COVID-19 test result issued at most 3 days before departure from the first embarkation point. Tests accepted are: LAMP, NAAT, NEAR, PCR, SDA, RT-PCR and TMA tests.  
-The test result must:  
-- be in English, Korean or accompanied by a certified English or Korean translation; and  
-- have the name of the passenger which must match the name in the passport, the date of birth or passport/ID number and the name of the issuing laboratory; and  
-- specify the date that the test was taken; and  
-- be issued by an approved laboratory if arriving from Philippines or Uzbekistan. Details can be found at the Korean (Rep.) Embassy website in those countries.  
-- This does not apply to:  
-- nationals of Korea (Rep.) arriving from Myanmar;  
-- passengers younger than 6 years;  
-- passengers traveling on official business or funeral attendance purposes with a Quarantine Exemption Certificate.  
-Effective 13 January 2022, passengers must have a printed negative COVID-19 test taken at most 3 days before departure from the first embarkation point. Tests accepted are: LAMP, NAAT, NEAR, PCR, RT-PCR, SDA and TMA tests.  
+16. Passengers must have a printed negative COVID-19 test taken at most 3 days before departure from the first embarkation point. Tests accepted are: LAMP, NAAT, NEAR, PCR, RT-PCR, SDA and TMA tests.  
 The test result must:  
 - be in English, Korean or accompanied by a certified English or Korean translation; and  
 - have the name of the passenger which must match the name in the passport, the date of birth or passport/ID number and the name of the issuing laboratory; and  
@@ -2708,7 +2679,7 @@ The test result must be in English, French, German, Italian, Luxembourgish, Port
 3. Until 14 January 2022, passengers who in the past 14 days have been in Botswana, Eswatini, Lesotho, Mozambique, Namibia, South Africa or Zimbabwe are subject to a COVID-19 test upon arrival and quarantine for 7 days. More details can be found at [https://covid19.public.lu/en/travellers/visiting-luxembourg.html](https://covid19.public.lu/en/travellers/visiting-luxembourg.html)
 
 # Latvia
-### 12.01.2022
+### 13.01.2022
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of Latvia;  
@@ -2719,11 +2690,15 @@ The test result must be in English, French, German, Italian, Luxembourgish, Port
 - passengers with a diplomatic passport traveling on duty and their family members;  
 - merchant seamen.  
 2. Passengers must have:  
-- a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days before arrival; or  
+- until 31 January 2022, a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days before arrival; or  
+- from 1 February 2022, a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days and at most 270 days before arrival; or  
+- from 1 February 2022, a COVID-19 EU digital green vaccination certificate showing that they received a booster dose; or  
 - a negative COVID-19 PCR test taken at most 72 hours before departure from the last embarkation point; or  
 - a negative COVID-19 antigen test taken at most 48 hours before departure from the last embarkation point; or  
 - a COVID-19 EU digital green recovery certificate issued at least 11 days and at most 180 days before arrival; or  
-- a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days before arrival; or  
+- until 31 January 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days before arrival; or  
+- from 1 February 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days and at most 270 days before arrival; or  
+- from 1 February 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they received a booster dose; or  
 - a COVID-19 recovery certificate issued in Australia, Canada, New Zealand, United Kingdom or USA issued at least 11 days and at most 180 days before arrival.  
 - This does not apply to:  
 - passengers younger than 12 years;  
@@ -2734,11 +2709,15 @@ The test result must be in English, French, German, Italian, Luxembourgish, Port
 - This does not apply to:  
 - passengers younger than 12 years;  
 - merchant seamen.  
-5. Passengers could be subject to self-isolation for 10 days. More information is available in the latest “List of countries with 14-day COVID-19 morbidity rates" which can be found at [https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0](https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0)  
+5. Passengers could be subject to self-isolation for 10 days. More information is available in the latest "List of countries with 14-day COVID-19 morbidity rates" which can be found at [https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0](https://www.spkc.gov.lv/lv/valstu-saslimstibas-raditaji-ar-covid-19-0)  
 - This does not apply to:  
-- passengers with a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days before arrival;  
+-  until 31 January 2022, a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days before arrival;  
+- from 1 February 2022, a COVID-19 EU digital green vaccination certificate showing that they were fully vaccinated at least 15 days and at most 270 days before arrival;  
+- from 1 February 2022, a COVID-19 EU digital green vaccination certificate showing that they received a booster dose;  
 - passengers with a COVID-19 EU digital green recovery issued at least 11 days and at most 180 days before arrival;  
-- passengers with a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days before arrival;  
+- until 31 January 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days before arrival;  
+- from 1 February 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they were fully vaccinated at least 15 days and at most 270 days before arrival;  
+- from 1 February 2022, a COVID-19 vaccination certificate issued in Australia, Canada, New Zealand, United Kingdom or USA showing that they received a booster dose;  
 - passengers with a COVID-19 recovery certificate issued in Australia, Canada, New Zealand, United Kingdom or USA issued at least 11 days and at most 180 days before arrival.
 
 # Libya
@@ -2825,26 +2804,21 @@ More exemptions can be found at [https://tinyurl.com/2p8mf8fy](https://tinyurl.c
 must complete an Epidemiological Card at most 72 hours before arrival at [https://fisa-covid.gov.md/](https://fisa-covid.gov.md/) , and are subject to self-isolation for 14 days. More details can be found at [https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica](https://www.border.gov.md/index.php/traversarea-frontierei-perioada-pandemica)
 
 # Montenegro
-### 11.01.2022
-1. Passengers must have a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point; or  
-- a negative COVID-19 rapid antigen test result issued at most 48 hours before arrival.  
-- This does not apply to:  
-- nationals and residents of Montenegro;  
-- passengers younger than 18 years.  
-2. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at most 6 months before arrival; or  
-- a positive COVID-19 PCR test result issued at least 10 days and at most 6 months before arrival and a recovery certificate.  
-- This does not apply to:  
-- nationals and residents of Montenegro;  
-- passengers younger than 18 years;  
-- passengers with a medical certificate of contraindication who cannot be vaccinated.  
-3. Nationals and residents of Montenegro without the following documents are subject to self-isolation for 10 days:  
-- a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point; or  
-- a negative COVID-19 rapid antigen test result issued at most 48 hours before arrival; and  
+### 13.01.2022
+1. Passengers must have:  
 - a COVID-19 vaccination certificate showing that they were fully vaccinated at most 6 months before arrival; or  
-- a positive COVID-19 PCR test result issued at least 10 days and at most 6 months before arrival and a recovery certificate.  
-- This does not apply to:  
-- passengers younger than 18 years;  
-- passengers with a medical certificate of contraindication who cannot be vaccinated.
+- a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point; or  
+- a negative COVID-19 rapid antigen test result issued at most 48 hours before arrival; or  
+- a positive COVID-19 PCR or rapid antigen test result issued at least 10 days and at most 180 days before arrival and a recovery certificate.  
+ - This does not apply to:  
+ - nationals and residents of Montenegro;  
+ - passengers younger than 18 years.  
+2. Nationals and residents of Montenegro without the following documents are subject to self-isolation for 10 days:  
+- a COVID-19 vaccination certificate showing that they were fully vaccinated at most 6 months before arrival; or  
+- a negative COVID-19 PCR test result issued at most 72 hours before departure from the first embarkation point; or  
+- a negative COVID-19 rapid antigen test result issued at most 48 hours before arrival; or  
+- a positive COVID-19 PCR or rapid antigen test result issued at least 10 days and at most 180 days before arrival and a recovery certificate.  
+ - This does not apply to passengers younger than 18 years.
 
 # Madagascar
 ### 06.11.2021
@@ -3199,7 +3173,7 @@ The test result must be issued in English, French or Portuguese.
 4. Passengers with a negative COVID-19 PCR test are allowed to transit. They are subject to contact tracing by the Health Authorities for 14 days and must not have respiratory symptoms.
 
 # Netherlands
-### 23.12.2021
+### 13.01.2022
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - nationals and residents of the Netherlands;  
@@ -3216,7 +3190,7 @@ The test result must be issued in English, French or Portuguese.
 - partners with a completed 'Declaration of relationship for COVID-19 entry ban exemption' form, a return onward ticket and proof that they have been in a relationship for at least 3 months with a resident of the Netherlands who is a national of an EEA Member State or Switzerland. As well as accompanying children of the partner who are younger than 18 years. More details can be found at [https://tinyurl.com/25s9p98h](https://tinyurl.com/25s9p98h) ;  
 - passengers with a COVID-19 vaccination certificate showing that:  
 - they were vaccinated with Janssen at least 28 days before arrival; or  
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.  
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.  
 2. Passengers are not allowed to transit through the Netherlands to Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland or Vatican City (Holy See) as final destination.  
 This does not apply to:  
 - nationals and residents of the Netherlands;  
@@ -3234,7 +3208,7 @@ This does not apply to:
 - military personnel;  
 - passengers with a COVID-19 vaccination certificate showing that:  
 - they were vaccinated with Janssen at least 28 days before arrival; or  
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.  
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.  
 3. Passengers must have:  
 - a negative COVID-19 test taken at most 48 hours before departure. Tests accepted are: LAMP, MPOCT, NAAT, PCR, RT-PCR and TMA; or  
 - a negative COVID-19 rapid antigen test taken at most 24 hours before boarding the flight of the first embarkation point.  
@@ -3247,16 +3221,16 @@ Details can be found at [https://tinyurl.com/59zy6bna](https://tinyurl.com/59zy6
 - passengers with a COVID-19 recovery certificate issued at least 11 days and at most 180 days before departure if arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland;  
 - passengers arriving from Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland with a COVID-19 vaccination certificate showing that:  
 - they were vaccinated with Janssen at least 28 days before arrival; or  
-- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.  
+- they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac.  
 4. A completed "Health Declaration Form" must be presented prior to boarding. The form can be found at [https://tinyurl.com/ybtmdgja](https://tinyurl.com/ybtmdgja)  
 - This does not apply to passengers younger than 13 years.  
 5. Passengers could be subject to self-quarantine for 10 days. A list of quarantine exemptions can be found at [https://tinyurl.com/3zvzaz3b](https://tinyurl.com/3zvzaz3b)  
 - This does not apply to:  
-- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. They must be arriving from a country other than Afghanistan, Anguilla, Armenia, Barbados, Belize, Botswana, Cayman Isl., Dominica, Eswatini, Georgia, Haiti, Jordan, Lesotho, Malawi, Mauritius, Montenegro, Mozambique, Namibia, Nigeria, Serbia, Somalia, South Africa, St. Kitts and Nevis, St. Vincent and the Grenadines, Trinidad and Tobago, United Kingdom, Venezuela or Zimbabwe;  
+- passengers with a COVID-19 vaccination certificate showing that they were fully vaccinated at least 14 days before arrival with AstraZeneca (SK Bioscience), AstraZeneca (Vaxzevria), Covaxin, Covishield, Covovax, Moderna (Spikevax), Nuvaxovid (Novavax), Pfizer-BioNTech (Comirnaty), Sinopharm or Sinovac. They must be arriving from a country other than Afghanistan, Anguilla, Armenia, Barbados, Belize, Botswana, Cayman Isl., Dominica, Eswatini, Georgia, Haiti, Jordan, Lesotho, Malawi, Mauritius, Montenegro, Mozambique, Namibia, Nigeria, Serbia, Somalia, South Africa, St. Kitts and Nevis, St. Vincent and the Grenadines, Trinidad and Tobago, United Kingdom, Venezuela or Zimbabwe;  
 - passengers with a COVID-19 vaccination certificate showing that they were vaccinated with Janssen at least 28 days before arrival. They must be arriving from a country other than Afghanistan, Anguilla, Armenia, Barbados, Belize, Botswana, Cayman Isl., Dominica, Eswatini, Georgia, Haiti, Jordan, Lesotho, Malawi, Mauritius, Montenegro, Mozambique, Namibia, Nigeria, Serbia, Somalia, South Africa, St. Kitts and Nevis, St. Vincent and the Grenadines, Trinidad and Tobago, United Kingdom, Venezuela or Zimbabwe.
 
 # Norway
-### 24.12.2021
+### 13.01.2022
 1. Passengers and airline crew must complete a registration form before arrival at [https://reg.entrynorway.no/](https://reg.entrynorway.no/) . After completing the form, passengers will receive a receipt which must be presented upon arrival.  
 - This does not apply to:  
 - airline crew who are not leaving the aircraft;  
@@ -3267,16 +3241,16 @@ Details can be found at [https://tinyurl.com/59zy6bna](https://tinyurl.com/59zy6
 - passengers younger than 18 years;  
 - passengers with a digital COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty) or Sinovac, or with a digital COVID-19 recovery certificate issued at most 6 months before arrival.  
 The certificate must be:  
-- an EU Digital COVID Certificate with a QR code issued in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or  
-- a COVID-19 certificate with a QR code issued in Albania, Armenia, Cape Verde, Denmark, El Salvador, Faroe Isl., Georgia, Iceland, Ireland Rep., Israel, Lebanon, Liechtenstein, Moldova (Rep.), Morocco, New Zealand, North Macedonia (Rep.), Panama, San Marino, Serbia, Singapore, Sweden Switzerland, Togo, Turkey, Ukraine, United Arab Emirates, United Kingdom or Vatican City (Holy See);  
+- an EU Digital COVID Certificate with a QR code issued in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden; or  
+- a COVID-19 certificate with a QR code issued in Albania, Andorra, Armenia, Cape Verde, Chinese Taipei, El Salvador, Faroe Isl., Georgia, Iceland, Israel, Lebanon, Liechtenstein, Moldova (Rep.), Monaco, Montenegro, Morocco, New Zealand, North Macedonia (Rep.), Panama, San Marino, Serbia, Singapore, Switzerland, Thailand, Togo, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, Uruguay or Vatican City (Holy See);  
 - more exemptions can be found at [https://tinyurl.com/z9z57fvv](https://tinyurl.com/z9z57fvv)  
 3. Passengers are subject to a COVID-19 antigen or PCR test upon arrival.  
 4. Passengers could be subject to quarantine.  
-- This does not apply to passengers with:  
+This does not apply to passengers with:  
 - a digital COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covishield, Janssen, Moderna (Spikevax), Nuvaxovid, Pfizer-BioNTech (Comirnaty) or Sinovac, or with a digital COVID-19 recovery certificate issued at most 6 months before arrival.  
 The certificate must be:  
-- an EU Digital COVID Certificate with a QR code issued in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland (Rep.), Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden or Switzerland; or  
-- a COVID-19 certificate with a QR code issued in Albania, Armenia, Cape Verde, Denmark, El Salvador, Faroe Isl., Georgia, Iceland, Ireland Rep., Israel, Lebanon, Liechtenstein, Moldova (Rep.), Morocco, New Zealand, North Macedonia (Rep.), Panama, San Marino, Serbia, Singapore, Sweden Switzerland, Togo, Turkey, Ukraine, United Arab Emirates, United Kingdom or Vatican City (Holy See);  
+- an EU Digital COVID Certificate with a QR code issued in Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland (Rep.), Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain or Sweden; or  
+- a COVID-19 certificate with a QR code issued in Albania, Andorra, Armenia, Cape Verde, Chinese Taipei, El Salvador, Faroe Isl., Georgia, Iceland, Israel, Lebanon, Liechtenstein, Moldova (Rep.), Monaco, Montenegro, Morocco, New Zealand, North Macedonia (Rep.), Panama, San Marino, Serbia, Singapore, Switzerland, Thailand, Togo, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom, Uruguay or Vatican City (Holy See);  
 - more exemptions can be found at [https://tinyurl.com/z9z57fvv](https://tinyurl.com/z9z57fvv)
 
 # Nepal
@@ -3678,13 +3652,13 @@ This does not apply to:
 4. Passengers are subject to a restriction of movement for 5 days.
 
 # Paraguay
-### 12.01.2022
+### 13.01.2022
 1. Passengers must have a negative COVID-19 LAMP, NAAT or RT-PCR test taken at most 48 hours before boarding; or  
 - a negative COVID-19 antigen test taken at most 24 hours before boarding.  
 - This does not apply to:  
 - passengers younger than 12 years;  
 - passengers with a positive COVID-19 test result issued at least 14 days and at most 90 days before arrival. Tests accepted are: antigen, LAMP, NAAT and RT-PCR;  
-- passengers residing in Argentina, Bolivia, Brazil, Paraguay, Uruguay or Venezuela arriving from Argentina, Bolivia, Brazil, Uruguay or Venezuela.  
+- nationals and residents of Argentina, Bolivia, Brazil, Paraguay and Uruguay arriving from Argentina, Bolivia, Brazil or Uruguay.  
 2. Passengers must have a COVID-19 vaccination certificate showing that they were fully vaccinated at least two weeks before arrival.  
 - This does not apply to:  
 - nationals and residents of Paraguay;  
@@ -4288,7 +4262,7 @@ COVID-19 entry regulations lifted on 15 November 2021.
 3. Passengers are subject to a COVID-19 PCR test upon arrival at their own expense. The test can be paid before departure at [https://voyage.gouv.tg/pay/fees](https://voyage.gouv.tg/pay/fees) or upon arrival.
 
 # Thailand
-### 11.01.2022
+### 13.01.2022
 1. Until 31 January 2022, passengers and airline crew are not allowed to enter and transit.  
 - This does not apply to:  
 - nationals and residents of Thailand;  
@@ -4301,54 +4275,43 @@ COVID-19 entry regulations lifted on 15 November 2021.
 - residents of Hong Kong (SAR China) with an APEC Business Travel Card arriving from Hong Kong (SAR China);  
 - students;  
 - passengers transiting through Bangkok (BKK);  
-- passengers traveling to Phuket (HKT) or Ko Samui (USM);  
-- passengers with a Thailand Pass QR code obtained at [https://tp.consular.go.th](https://tp.consular.go.th) .  
-2. Passengers transiting through Thailand must have:  
-- medical insurance with minimum coverage of USD 50,000; and  
+- passengers traveling to Phuket (HKT) or Ko Samui (USM).  
+2. Passengers must have a Thailand Pass QR code obtained at [https://tp.consular.go.th](https://tp.consular.go.th)  
+3. Passengers entering Thailand must have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;  
+- This does not apply to:  
+- nationals of Thailand traveling under the Alternative Quarantine (AQ) scheme;  
+- passengers younger than 6 years;  
+- passengers with a positive COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point, and a COVID-19 recovery certificate issued at least 15 days and at most 3 months before arrival.  
+4. Passengers entering Thailand must have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure;  
+- This does not apply to:  
+- passengers traveling under the Alternative Quarantine (AQ) scheme;  
+- passengers younger than 12 years;  
+- passengers younger than 18 years traveling under the Sandbox program with their fully-vaccinated parents/guardians;  
+- passengers between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;  
+- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.  
+5. Passengers entering or transiting through Thailand must have medical insurance with minimum coverage of USD 50,000.  
+- This does not apply to:  
+- nationals of Thailand;  
+- passengers transiting without disembarking the aircraft.  
+6. Passengers traveling under the Test & Go scheme must:  
+- arrive from, or in the past 21 days have only been in Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Malaysia, Maldives, Malta, Mongolia, Myanmar, Nepal, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom or Viet Nam; and  
+- have a hotel reservation for 1 night at AQ, OQ, or SHA+ hotel obtained at [www.thailandsha.com](http://www.thailandsha.com) or [https://asq.in.th](https://asq.in.th)  
+7. Passengers traveling under the Sandbox Program scheme must:  
+- arrive at Phuket (HKT) or Ko Samui (USM); and  
+- have a hotel reservation for 7 nights at SHA+ hotel obtained at [www.thailandsha.com](http://www.thailandsha.com) and proof of payment for COVID-19 tests. They are subject to quarantine for 7 days.  
+8. Passengers traveling under the Alternative Quarantine (AQ) scheme must have proof of payment for COVID-19 tests; and  
+- a hotel reservation at AQ, OQ or AHQ hotel obtained at [www.thailandsha.com](http://www.thailandsha.com) and [https://asq.in.th](https://asq.in.th):  
+- for 7 nights if they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure; or  
+- for 10 nights if they are not fully vaccinated.  
+9. Passengers transiting through Thailand must have:  
 - a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai; or  
 - a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.  
-- This does not apply to passengers transiting without disembarking the aircraft.  
-- The RT-PCR test requirement does not apply to passengers younger than 6 years.  
-3. Passengers traveling under the Test & Go scheme must:  
-a. arrive from or have been in Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Cambodia, Canada, Chile, China (People's Rep.), Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong (SAR China), Hungary, Iceland, India, Ireland (Rep.), Israel, Italy, Japan, Korea (Rep.), Kuwait, Lao People's Dem. Rep., Latvia, Lithuania, Malaysia, Maldives, Malta, Mongolia, Myanmar, Nepal, Netherlands, New Zealand, Norway, Oman, Philippines, Poland, Portugal, Qatar, Romania, Saudi Arabia, Singapore, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, USA, United Arab Emirates, United Kingdom or Viet Nam in the past 21 days;  
-b. have a Thailand Pass QR code obtained at [https://tp.consular.go.th](https://tp.consular.go.th) ;  
-c. have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure;  
 - This does not apply to:  
-- nationals of Thailand between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;  
-- unvaccinated passengers younger than 12 years traveling with their fully-vaccinated parents/guardians;  
-- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.  
-d. have a COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;  
-- This does not apply to passengers younger than 6 years.  
-e. medical insurance with minimum coverage of USD 50,000.  
-- This does not apply to nationals of Thailand.  
-f. have a hotel reservation for 1 night at AQ, OQ, or SHA+ hotel obtained at [www.thailandsha.com](http://www.thailandsha.com) or [https://asq.in.th](https://asq.in.th)  
-4. Passengers traveling under the Sandbox Program scheme must:  
-a. arrive at Phuket (HKT) or Ko Samui (USM);  
-b. have a Thailand Pass QR code obtained at [https://tp.consular.go.th](https://tp.consular.go.th) ;  
-c. have a COVID-19 vaccination certificate showing that they were fully vaccinated with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure;  
-- This does not apply to:  
-- passengers younger than 12 years;  
-- passengers between 12 and 17 years with a COVID-19 vaccination certificate showing that they received one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V;  
-- passengers younger than 18 years travelling with a fully vaccinated parent;  
-- passengers with a recovery certificate and a COVID-19 vaccination certificate showing that they received at least one dose of AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure.  
-d. have a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;  
-- This does not apply to passengers younger than 6 years;  
-e. medical insurance with minimum coverage of USD 50,000.  
-- This does not apply to nationals of Thailand.  
-f. have a hotel reservation for 7 nights at SHA+ hotel obtained at [www.thailandsha.com](http://www.thailandsha.com) and proof of payment for COVID-19 tests. They are subject to quarantine for 7 days.  
-5. Passengers traveling under the Alternative Quarantine (AQ) scheme must have:  
-a. a Thailand Pass QR code obtained at [https://tp.consular.go.th](https://tp.consular.go.th) ;  
-b. a negative COVID-19 RT-PCR test result issued at most 72 hours before departure from the first embarkation point. The test result must be in English or Thai;  
-- This does not apply to passengers younger than 6 years;  
-- This does not apply to nationals of Thailand.  
-c. medical insurance with minimum coverage of USD 50,000.  
-- This does not apply to nationals of Thailand.  
-d. a hotel reservation at AQ, OQ or AHQ hotel obtained at [www.thailandsha.com](http://www.thailandsha.com/) and [https://asq.in.th](https://asq.in.th/) and proof of payment for COVID-19 tests:  
-For fully vaccinated passengers with AstraZeneca (Vaxzevria), Covaxin, Covishield, Janssen, Moderna (Spikevax), Pfizer-BioNTech (Comirnaty), Sinopharm, Sinovac or Sputnik V at least 14 days before departure, they must have a hotel reservation for 7 nights;  
-For not fully vaccinated passengers, they must have a hotel reservation for 10 nights;  
-For passengers who have been in Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia, South Africa or Zimbabwe in the past 14 days, they must have a hotel reservation for 14 nights.  
-6. Airline crew are subject to self-isolation until their next flight.  
-7. Airline crew staying overnight must have a guarantee letter from the airline or health insurance certificate with a coverage cost of at least USD 50,000.
+- passengers transiting without disembarking the aircraft.  
+- passengers younger than 6 years;  
+- passengers younger than 12 years travelling with a fully vaccinated parent/guardian.  
+10. Airline crew are subject to self-isolation until their next flight.  
+11. Airline crew staying overnight must have a guarantee letter from the airline or health insurance certificate with a coverage cost of at least USD 50,000.
 
 # Tajikistan
 ### 19.10.2021
@@ -4459,7 +4422,7 @@ More information can be found at [https://tinyurl.com/4vcwbxp5](https://tinyurl.
 - This does not apply to nationals of Tuvalu.
 
 # Taiwan, Province of China
-### 04.01.2022
+### 13.01.2022
 1. Passengers are not allowed to enter.  
 - This does not apply to:  
 - passengers with a Chinese Taipei travel document;  
@@ -4483,7 +4446,6 @@ Tests accepted are: LAMP, NAAT, PCR, RNA, RT-LAMP and RT-PCR. Details can be fou
 Tests accepted are: LAMP, NAAT, PCR, RNA, RT-LAMP and RT-PCR. Details can be found at [https://www.cdc.gov.tw/Category/Mpage/6FjI4ZjqgAoROBmGA9W0\_A](https://www.cdc.gov.tw/Category/Mpage/6FjI4ZjqgAoROBmGA9W0_A) .  
 6. A completed "Quarantine System for Entry Form" must be submitted before departure at [https://hdhq.mohw.gov.tw/](https://hdhq.mohw.gov.tw/)  
 7. Passengers must have a confirmed booking of quarantine facility or hotel.  
-- This does not apply to passengers who in the past 14 days have been in or transited through Botswana, Egypt, Eswatini, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa or Zimbabwe.  
 8. "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visas issued to nationals of Indonesia with "FL" stated on remarks which expired between 4 December 2020 and 4 May 2021 are considered valid until 31 May 2022.  
 9. "SPECIAL ENTRY PERMIT FOR COVID-19 OUTBREAK" visas issued to nationals of Thailand with "FL" stated on remarks which expired between 19 May 2021 and 19 August 2021 are considered valid until 31 May 2022.  
 10. Passengers are subject to a COVID-19 PCR test upon arrival and quarantine for 14 days.  
@@ -4615,15 +4577,16 @@ Vaccines accepted are:
 11. Passengers and airline crew are subject to medical screening.
 
 # Uzbekistan
-### 03.12.2021
-1. Flights from Botswana, Eswatini, Hong Kong (SAR China) Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania and Zimbabwe are suspended.  
-2. Passengers who in the past 14 days have been in Botswana, Eswatini, Hong Kong (SAR China) Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania or Zimbabwe are not allowed to enter.  
-3. Passengers must have a negative COVID-19 PCR test result issued at most 72 hours before departure of the flight to Uzbekistan. The test result must be in English or Russian.  
+### 13.01.2022
+1. Until 12 February 2022, flights from Botswana, Eswatini, Hong Kong (SAR China) Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania and Zimbabwe are suspended.  
+2. Until 12 February 2022, passengers who in the past 14 days have been in Botswana, Eswatini, Hong Kong (SAR China) Lesotho, Madagascar, Mozambique, Namibia, South Africa, Tanzania or Zimbabwe are not allowed to enter.  
+3. Passengers must have a negative COVID-19 PCR test result issued at most 48 hours before departure of the flight to Uzbekistan. The test result must be in English or Russian.  
 - This does not apply to:  
 - passengers younger than 2 years;  
 - passengers with an immunity COVID-19 certificate issued in Hungary;  
 - passengers arriving from Afghanistan, Algeria, China (People's Rep.), Jordan (Amman), Kuwait, Saudi Arabia, Tajikistan or Yemen on a direct flight.  
-4. Passengers could be subject to quarantine for 10 days.
+4. Passengers are subject to a COVID-19 antigen test upon arrival.  
+5. Passengers could be subject to quarantine for 10 days.
 
 # Holy See
 ### 11.01.2022
